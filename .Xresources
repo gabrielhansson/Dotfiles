@@ -1,0 +1,60 @@
+#define foreground  #c5c8c6
+#define background  #050505
+#define cursorColor #c5c8c6
+
+#define color0      #c5c8c6
+#define color8      #1d1f21
+
+#define color1      #a54242
+#define color9      #cc6666
+
+#define color2      #8c9440
+#define color10     #b5bd68
+
+#define color3      #de935f
+#define color11     #f0c674
+
+#define color4      #5f819d
+#define color12     #81a2be
+
+#define color5      #85678f
+#define color13     #b294bb
+
+#define color6      #5e8d87
+#define color14     #8abeb7
+
+#define color7      #707880
+#define color15     #c5c8c6
+
+! Rofi
+rofi.font: monospace 12
+rofi.padding: 10
+rofi.line-padding: 2
+rofi.color-enabled: true
+rofi.hide-scrollbar: true
+rofi.separator-style: solid
+! background, border, search field bottom border
+rofi.color-window: background, foreground, foreground
+! alternating color, text color, alternating color, selected highlight
+rofi.color-normal: background, foreground, background, foreground, background
+rofi.color-urgent: argb:00000000, color1, argb:00000000, argb:00000000, color3
+rofi.color-active: argb:00000000, color4, argb:00000000, argb:00000000, color3
+rofi.kb-cancel: Escape
+
+! UXTerm
+UXTerm*termName: xterm-256color
+UXTerm*cursorColor: white
+UXTerm*VT100.geometry: 90x34
+UXTerm*font: monospace
+UXTerm*faceSize: 11
+UXTerm*dynamicColors: true
+UXTerm*utf8: 2
+UXTerm*eightBitInput: true
+UXTerm*saveLines: 10000
+UXTerm*scrollKey: true
+UXTerm*scrollTtyOutput: false
+UXTerm*scrollBar: false
+UXTerm*rightScrollBar: false
+UXTerm*jumpScroll: true
+UXTerm*multiScroll: true
+UXTerm*toolBar: false

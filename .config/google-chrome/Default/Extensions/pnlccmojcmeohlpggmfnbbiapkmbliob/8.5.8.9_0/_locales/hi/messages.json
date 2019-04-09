@@ -1,0 +1,524 @@
+{
+   "Activate_VisitSupportLink_Text": {
+      "message": "संपर्क समर्थन"
+   },
+   "AutoSaveBar_PasswordEdit_Cuebanner": {
+      "message": "पासवर्ड दर्ज करें"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "यह संदेश फिर न दिखाएँ"
+   },
+   "Cmd_About_Key": {
+      "message": "&के बारे में..."
+   },
+   "Cmd_ApplyChanges_Flat": {
+      "message": "सहेजें"
+   },
+   "Cmd_Bookmarks_Flat": {
+      "message": "बुकमार्क्स"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "रद्द"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "साफ़ फील्ड्स"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(स्पष्ट सूची)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "बंद"
+   },
+   "Cmd_Contacts_Flat": {
+      "message": "संपर्क"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "क्या आप को मिटाना चाहते हैं %1 '%2' ?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "हटाएँ"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "संपादित करें"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "&केवल खाली खेतों भरें"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "प्रपत्र भरें"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "भरें जाएं"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "जाने के लिए"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "&पूछेजानेवालेप्रश्न"
+   },
+   "Cmd_Help_Flat": {
+      "message": "मदद"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "पहचान"
+   },
+   "Cmd_Login_Flat": {
+      "message": "लॉगिन"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "लॉगिन"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "लॉगऑफ़"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "फोल्डर &नाम:"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "नया फ़ोल्डर"
+   },
+   "Cmd_New_Flat": {
+      "message": "नया"
+   },
+   "Cmd_Options_Flat": {
+      "message": "विकल्प"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "नाम बदलें"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "नाम बदलें:"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "फील्ड्स रीसेट"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "रोबोफार्म"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "उत्पन्न"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "सेफनोट्स"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "सहेजें"
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "फ़ील्ड सेट करें"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "सिंक"
+   },
+   "Contacts_Cmd_New_Tip": {
+      "message": "नया संपर्क बनाएँ"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "साफ़ फील्ड्स"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "भरें & सबमिट करें"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "रोबोफार्म विकल्प"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "फील्ड्स रीसेट"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "पासवर्ड जनरेटर"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "प्रपत्र सहेजें"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "फ़ील्ड सेट करें"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "ब्लॉक वेब साइट - रोबोफार्म"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "हटाइये वेब साइट - रोबोफार्म"
+   },
+   "Editor_Indicator_ShowAll": {
+      "message": "सभी दिखाएं"
+   },
+   "Editor_Menu_View": {
+      "message": "&देखें"
+   },
+   "FillDlg_All_Identities_Key": {
+      "message": "दिखाएँ सभी पहचान"
+   },
+   "FillDlg_All_Passcards_Key": {
+      "message": "दिखाएँ सभी पासकार्डस्"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "संपादित करें"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "&प्रपत्र भरें"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "भरें && &भेजें"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "पासवर्ड:"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "आपके नाम और तुम कहाँ रहते देश चुनें दर्ज करें|"
+   },
+   "FocusSearchBox_Text": {
+      "message": "स्वतः रोबोफार्म खोज बॉक्स पर फ़ोकस तय"
+   },
+   "HorizontalToolbar_Text": {
+      "message": "लेआउट पॉपअप उपकरण पट्टी आइटम क्षैतिज"
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "दूसरे मैच स्ट्रिंग्स"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "फ़ील्ड नाम"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "क्षेत्र मान"
+   },
+   "Identities_Cmd_New_Contact_Title": {
+      "message": "नया संपर्क"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "नई पहचान"
+   },
+   "Install_Back": {
+      "message": "वापस"
+   },
+   "Install_CreateMasterPassword_Prompt": {
+      "message": "एक मास्टर पासवर्ड आपके सभी पासवर्ड और रोबोफार्म के भीतर जमा अन्य डेटा को सुरक्षित करने के लिए प्रयोग किया जाता है| आप अपने रोबोफार्म डेटा का उपयोग करने के लिए अपने मास्टर पासवर्ड दर्ज करने के लिए कहा जाएगा|"
+   },
+   "Install_Email": {
+      "message": "ईमेल:"
+   },
+   "Install_Next": {
+      "message": "अगली"
+   },
+   "Install_No": {
+      "message": "नहीं"
+   },
+   "Install_OnlineSetup_Title2": {
+      "message": "रोबोफार्म सेटअप"
+   },
+   "Install_PasswordTooShort": {
+      "message": "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए|"
+   },
+   "Install_Yes": {
+      "message": "हाँ"
+   },
+   "LicenseExpirationWarning_RenewLink": {
+      "message": "अब नवीनीकृत"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "पासवर्ड में अंकों घर का काम की न्यूनतम संख्या होना चाहिए %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "मास्टर पासवर्ड की लंबाई %1 और %2 के बीच अक्षरों का होना चाहिए"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "पासवर्ड में कम मामले अक्षरों की न्यूनतम संख्या होना चाहिए %1"
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "पासवर्ड में ऊपरी मामले अक्षरों की न्यूनतम संख्या होना चाहिए %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "&नया मास्टर पासवर्ड:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "&पुराना मास्टर पासवर्ड:"
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "नाम खाली नहीं हो सकता और यह वर्ण शामिल नहीं कर सकते हैं  \\ / : * ? \" \u003C > |"
+   },
+   "Options_AutoSave_AltClickEnable_Text": {
+      "message": "&Alt+click लॉगइन बटन बलों के लिए स्वत: सहेजना"
+   },
+   "Options_AutoSave_AltClickEnable_Tip": {
+      "message": "लॉगइन बटन बलों की Alt+click स्वत: सहेजना"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text": {
+      "message": "Shift+&ENTER पाठ क्षेत्र बलों में स्वत: सहेजना करें"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Tip": {
+      "message": "Shift+ENTER पाठ क्षेत्र बलों में प्रवेश स्वत: सहेजना"
+   },
+   "Options_AutoSave_Title": {
+      "message": "ऑटोसेव"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "ब्राउज़र में रोबोफार्म शॉ&र्टकट सक्रिय करें"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "'भरें && सबमिट' मिलान पासकार्डस् के लिए &डिफ़ॉल्ट क्रिया है"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "जाँच की तो: मेरी पहचान के लिए डिफ़ॉल्ट कार्रवाई भरें&&जमा है| यदि अनियंत्रित: मेरी पहचान के लिए डिफ़ॉल्ट क्रिया पत्र भरना है"
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "'भरें && सबमिट' पासकार्डस् &मिलान के लिए डिफ़ॉल्ट क्रिया है"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "जाँच की है: मिलान पासकार्डस् के लिए डिफ़ॉल्ट क्रिया यदि अनियंत्रित भरें&&प्रस्तुत है| मिलान पासकार्डस् के लिए डिफ़ॉल्ट क्रिया पत्र भरना है"
+   },
+   "Options_ImportFrame_Text": {
+      "message": "रोबोफार्म को आयात डेटा"
+   },
+   "Options_Keyboard_Title": {
+      "message": "कीबोर्ड"
+   },
+   "Options_Main_Title": {
+      "message": "रोबोफार्म विकल्प"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "मैक्स &संख्या की आइटम्स हाल ही में उपयोग सूची में"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "हाल ही में उपयोग सूची में आइटम्स की अधिकतम संख्या"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "(एचटीएमएल) रूपों वेब से &बचाने लॉगिन करने के लिए प्रस्ताव"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "आप भरे लॉगइन वेब (एचटीएमएल) फार्म जमा करते हैं, तो रोबोफार्म एक पासकार्ड के लिए यह इसे बचाने के लिए की पेशकश करेगा"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "प्रयोग करें &राइट Alt शॉर्टकट के लिए"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "जाँच अगर सही Alt + Key रोबोफार्म कीबोर्ड शॉर्टकट का आह्वान वाम Alt + Key के अलावा| जाँच नहीं की है तो केवल बाईं Alt + Key रोबोफार्म शॉर्टकट का आह्वान"
+   },
+   "Options_Search_Title": {
+      "message": "खोज"
+   },
+   "Options_Security_Title": {
+      "message": "सुरक्षा"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "शॉर्टकट सूची"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "ब्राउज़र में रोबोफार्म शॉर्टकट की सूची. आप अलग/उनमें से प्रत्येक बंद चालू कर सकते हैं"
+   },
+   "OvrCfm_Overwrite_Text": {
+      "message": "अधिलेखन"
+   },
+   "PassCards_Button_PasswordValuesAsStars_Tip": {
+      "message": "स्टार या पाठ के रूप में दिखाना पासवर्ड मूल्यों"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "फ़ील्ड जोड़ें"
+   },
+   "PassCards_Cmd_Fields_Flat": {
+      "message": "फील्ड्स"
+   },
+   "PassCards_Note": {
+      "message": "नोट"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "पात्रों की &संख्या:"
+   },
+   "PassGen_Copy": {
+      "message": "कॉ&पी"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "क्लिपबोर्ड में नया उत्पन्न पासवर्ड को कॉपी"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "इसी तरह के पात्रों को &बाहर निकालें"
+   },
+   "PassGen_Fill": {
+      "message": "&भरें"
+   },
+   "PassGen_Generate": {
+      "message": "&नई उत्पन्न"
+   },
+   "PassGen_LeastNumber": {
+      "message": "अंकों की &न्यूनतम संख्या:"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "उन्नत सेटिंग"
+   },
+   "PassGen_UseHexChars": {
+      "message": "हेक्ज़ा&डेसिमल 0-9, ए-एफ "
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "कमांड नीति द्वारा निषिद्ध है"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "बदलें और मास्टर पासवर्ड का निर्माण नीति से मना कर रहे हैं"
+   },
+   "RFOError_PasswordIsEmpty": {
+      "message": "पासवर्ड खाली है"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "आपने एक अमान्य प्रयोक्ता आईडी या पासवर्ड दर्ज किया है"
+   },
+   "RI_Country": {
+      "message": "देश"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "बैंक खाता"
+   },
+   "RI_Group_Business": {
+      "message": "व्यापार"
+   },
+   "RI_Group_Car": {
+      "message": "कार"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "क्रेडिट कार्ड"
+   },
+   "RI_Group_Custom": {
+      "message": "कस्टम"
+   },
+   "RI_Group_Default_Password": {
+      "message": "प्रमाणीकरण"
+   },
+   "RI_Group_Location": {
+      "message": "पता"
+   },
+   "RI_Group_Passport": {
+      "message": "पासपोर्ट"
+   },
+   "RI_Group_Person": {
+      "message": "व्यक्ति"
+   },
+   "Reg_Name_Prompt": {
+      "message": "&प्रथम और अंतिम नाम"
+   },
+   "RoboformType_Bookmark": {
+      "message": "बुकमार्क"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "बुकमार्क्स"
+   },
+   "RoboformType_Contact": {
+      "message": "संपर्क"
+   },
+   "RoboformType_Contacts": {
+      "message": "संपर्क"
+   },
+   "RoboformType_File": {
+      "message": "फाइल"
+   },
+   "RoboformType_Files": {
+      "message": "फ़ाइलें"
+   },
+   "RoboformType_Folder": {
+      "message": "फ़ोल्डर"
+   },
+   "RoboformType_Folders": {
+      "message": "फ़ोल्डर"
+   },
+   "RoboformType_Identities": {
+      "message": "पहचान"
+   },
+   "RoboformType_Identity": {
+      "message": "पहचान"
+   },
+   "RoboformType_Login": {
+      "message": "लॉगिन"
+   },
+   "RoboformType_Logins": {
+      "message": "लॉगिन"
+   },
+   "RoboformType_Safenote": {
+      "message": "सेफनोट"
+   },
+   "RoboformType_Safenotes": {
+      "message": "सेफनोट्स"
+   },
+   "RoboformType_Searchcard": {
+      "message": "खोज कार्ड"
+   },
+   "RoboformType_Searchcards": {
+      "message": "खोज कार्ड"
+   },
+   "SafeNotes_Cmd_New_Title": {
+      "message": "नई सेफनोट"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "स्वत: सहेजना सक्षम करें"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "मौ&जूदा बदलें:"
+   },
+   "SaveDlg_NewSafenote_Title2": {
+      "message": "नई सेफनोट बनाएँ"
+   },
+   "SearchAction_QueryText": {
+      "message": "वाक्यांश"
+   },
+   "SearchAction_Search_In": {
+      "message": "खोज '%%क्वेरी%%' में %1"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "रोबोफार्म नाम में '%%क्वेरी%%' खोज"
+   },
+   "Search_Combo_Title": {
+      "message": "खोज"
+   },
+   "Search_Def_Action_Bookmark": {
+      "message": "पर जाएँ '%1'"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "संपादित '%1'"
+   },
+   "Search_Def_Action_Identity_Toolbar": {
+      "message": "से भरें '%1'"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "के लिए प्रवेश '%1'"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "संपादन '%1'"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "रोबोफार्म संवेदनशील क्षेत्र में पाया गया है कि आप इन क्षेत्रों भरे जाने की अनुमति है कि इस बात की पुष्टि करें:"
+   },
+   "ShowBrowserActionPopup_Text": {
+      "message": "पॉपअप रोबोफार्म टूलबार को सक्रिय करें"
+   },
+   "ShowLowerToolbarForPopup_Text": {
+      "message": "पॉपअप विंडोज़ के लिए कम रोबोफार्म टूलबार दिखाएँ"
+   },
+   "ShowLowerToolbar_Text": {
+      "message": "कम रोबोफार्म टूलबार दिखाएँ"
+   },
+   "ShowOptionsDlg_Link_Text": {
+      "message": "अधिक विकल्प..."
+   },
+   "StartPage_RecentlyUsed": {
+      "message": "हाल ही में प्रयुक्त"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "सेटअप फार्म भरने"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "लंबे समय से पंजीकरण और जांच फार्म भरने के लिए पहचान बना"
+   },
+   "Toolbar_Identity_Fill_HelpMsg_HeaderText": {
+      "message": "अपनी पहचान के साथ फार्म को भरने"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "अनुकूलित खोज बॉक्स"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "क्या आप में स्थित अपने उपयोगकर्ता डेटा हटाना चाहते हैं '%1'?\n- %2 पहचान,\n- %3 पासकार्डस्,\n- %4 सेफनोट्स,\n- %5 अन्य फ़ाइलें|\n\nएक बार नष्ट कर दिया, इन व्यक्तिगत फ़ाइलें नष्ट हो जाएंगे|"
+   }
+}

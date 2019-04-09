@@ -1,0 +1,155 @@
+{
+   "CheckedRunMB_CheckButton": {
+      "message": "Tega ne kaži več"
+   },
+   "Cmd_About_Key": {
+      "message": "&Vizitka..."
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Opusti"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "Očisti polja"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Zapri"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Resnično želiš izbris %1 '%2'?"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Urejaj"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Polni obrazce"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Pojdi izpolni"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Pojdi"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "Vse &FAQ"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "Identitete"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Prijava"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Odjava"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "Mapa &Ime:"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Nova mapa"
+   },
+   "Cmd_New_Flat": {
+      "message": "Novo"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Izbire"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "Ponastavi polja"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "Generiraj"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "VarniZapisi"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Shrani"
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "Nastavi polja"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "Blokirne Dovolilnice ustvarjene - RoboForm"
+   },
+   "Editor_Menu_View": {
+      "message": "&Pogled"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "&Polni obrazec"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "Polni && &Potrdi"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "Vstavi Ime in izberi državo, kjer živiš."
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "Ostali ustrezni nizi"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "Ime polja"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "Vrednost polja"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "Nova Identiteta"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "&Novo glavno geslo:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "&Staro glavno geslo:"
+   },
+   "Options_Main_Title": {
+      "message": "RoboForm Izbire"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "&Število znakov"
+   },
+   "PassGen_Generate": {
+      "message": "&Generiraj"
+   },
+   "RI_Country": {
+      "message": "Dežela"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Konto banke"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Kreditna kartica"
+   },
+   "RI_Group_Custom": {
+      "message": "Možnosti"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Napačno geslo"
+   },
+   "RI_Group_Location": {
+      "message": "Lokacija"
+   },
+   "RI_Group_Person": {
+      "message": "Oseba"
+   },
+   "Reg_Name_Prompt": {
+      "message": "&Ime in Priimek"
+   },
+   "RoboformType_Identities": {
+      "message": "Identitete"
+   },
+   "RoboformType_Identity": {
+      "message": "Identiteta"
+   },
+   "RoboformType_Safenote": {
+      "message": "VarenZapis"
+   },
+   "RoboformType_Safenotes": {
+      "message": "VarniZapisi"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "Resnično želiš izbris svojih Upor.podatkov lociranih v '%1'?\n- %2 Identitetah,\n- %3 Dovolilnicah,\n- %4 VarnihZapisih,\n- %5 drugih datotekah.\n\nIzbrisani podatki v osebnih datotekah bodo izgubljeni."
+   }
+}

@@ -1,0 +1,299 @@
+{
+   "CheckedRunMB_CheckButton": {
+      "message": "لا تظهر هذه الرساله مره اخرى"
+   },
+   "Cmd_About_Key": {
+      "message": "&... عن البرنامج"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "الغاء"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "مسح الحقول"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(افراغ القائمه)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "إغلاق"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "؟'%2' هل تريد بالفعل حذف %1"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "تحرير"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "املأ الحقول الفارغه فقط"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "املأ النماذج"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "اذهب واملأ"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "اذهب الى"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "الأسئ&له الشائعه"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "الهويات"
+   },
+   "Cmd_Login_Flat": {
+      "message": "مرور"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "الدخول الى"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "خروج"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "                 : اسم & المجلد"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "مجلد جديد"
+   },
+   "Cmd_New_Flat": {
+      "message": "جديد"
+   },
+   "Cmd_Options_Flat": {
+      "message": "إعدادات"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "إعادة ضبط الحقول"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "روبوفورم"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "توليد"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "ملحوظات آمنه"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "حفظ"
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "ضبط الحقول"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "مسح الحقول"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "ملئ & ودخول"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "إعدادات روبوفورم"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "إعادة ضبط الحقول"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "مولد كلمات السر"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "حفظ النماذج"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "ضبط الحقول"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "حظر موقع ويب ــ روبوفورم"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "السماح لموقع ويب ــ روبوفورم"
+   },
+   "Editor_Menu_View": {
+      "message": "& عرض"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "تحرير"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "م&لء النماذج"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "ملئ& و &دخول"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "كلمة السر :"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "قم بادخال اسمك وقم باختيار الدوله التي تعيش بها"
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "بيانات أخرى عن الحقل"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "اسم الحقل"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "قيمة الحقل"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "هويه جديده"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "عدد حروف كلمة السر الرئيسيه يجب ان يكون بين %1 و %2 حرف"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "&: كلمة السر الرئيسيه الجديده"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": ":& كلمة السر الرئيسيه القديمه"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "تعطيل إختصارات روبوفورم بالمتصفح"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "'ملئ و دخول' هي العمليه الإفتراضيه لهوياتي"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "إذا تم إختيار هذه الخاصيه : تكون العمليه الإفتراضيه لهوياتي هي ملئ ودخول. إذا لم يتم إختيار الخاصيه: تكون العمليه الإفتراضيه لهوياتي هي ملئ النماذج"
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "'ملئ و دخول' هي العمليه الإفتراضيه لبطاقات المرور المطابقه"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "إذا تم إختيار هذه الخاصيه : تكون العمليه الإفتراضيه لبطاقات المرور المطابقه هي ملئ ودخول. إذا لم يتم إختيار الخاصيه: تكون العمليه الإفتراضيه لبطاقات المرور المطابقه هي ملئ النماذج"
+   },
+   "Options_Keyboard_Title": {
+      "message": "لوحة المفاتيح"
+   },
+   "Options_Main_Title": {
+      "message": "إعدادات روبوفورم"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "اقصى عدد من العناصر التي تظهر بقائمة العناصر المستخدمه حاليا"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "اقصى عدد من العناصر يمكن ان يعرض بقائمة العناصر المستخدمه حاليا"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "(HTML)عرض حفظ بيانات الدخول من نماذج صفحة"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "عندما تقوم بالضغط على زر الدخول او المرور (HTML)في نموذج تسجيل الدخول بصفحة , سيقوم روبوفورم بعرض حفظ هذه البيانات في بطاقة مرور"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "&   الأيمن للإختصارات أيضا 'ALT'  إستخدم"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "إذا تم إختيار الخاصيه: فإن الضغط على مفتاح\nALT\nالايمن بالإضافه للمفتاح الخاص تقوم بتشغيل إختصار روبوفورم المراد.إذا لم يتم إختيار الخاصيه فسيظل مفتاح\nALT\nالأيسر فقط هو الذي يؤدي الوظائف"
+   },
+   "Options_Search_Title": {
+      "message": "بحث"
+   },
+   "Options_Security_Title": {
+      "message": "الأمان"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "قائمة الاختصار"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "قائمة إختصارات روبوفورم في المتصفح. يمكنك تعطيل/تفعيل كلا منها على حده"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "إضافة حقل"
+   },
+   "PassCards_Note": {
+      "message": "ملحوظه"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "& عدد الحروف :"
+   },
+   "PassGen_Copy": {
+      "message": "&نسخ"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "نسخ كلمة السر المولده الى الحافظه"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "استبعاد الحروف المتماثله "
+   },
+   "PassGen_Fill": {
+      "message": "&ملئ"
+   },
+   "PassGen_Generate": {
+      "message": "&توليد"
+   },
+   "PassGen_LeastNumber": {
+      "message": "أقل عدد من الارقام:"
+   },
+   "PassGen_UseHexChars": {
+      "message": "0-9, A-F الثماني عشر"
+   },
+   "RI_Country": {
+      "message": "الدوله"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "الحساب البنكي"
+   },
+   "RI_Group_Business": {
+      "message": "العمل"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "كارت الائتمان"
+   },
+   "RI_Group_Custom": {
+      "message": "مخصص"
+   },
+   "RI_Group_Default_Password": {
+      "message": "كلمة السر الإفتراضيه"
+   },
+   "RI_Group_Location": {
+      "message": "العنوان "
+   },
+   "RI_Group_Person": {
+      "message": "شخصيه"
+   },
+   "Reg_Name_Prompt": {
+      "message": "الاسمين الاو&ل والاخير"
+   },
+   "RoboformType_Identities": {
+      "message": " الهويات "
+   },
+   "RoboformType_Identity": {
+      "message": " الهويات "
+   },
+   "RoboformType_Safenote": {
+      "message": " الملحوظات الآمنه "
+   },
+   "RoboformType_Safenotes": {
+      "message": " الملحوظات الآمنه "
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "تفعيل الحفظ التلقائي"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": ":بطاقات كلمات المرور الحاليه"
+   },
+   "Search_Combo_Title": {
+      "message": "بحث"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "تحرير '%1'"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "الدخول الى '%1'"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "تحرير '%1'"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "هويه جديده"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "إنشاء هويه لملئ النماذج. بعد ان تقوم بكتابة بياناتك الشخصيه في الهويه , قم بالضغط على اسم هذه الهويه في شريط ادوات روبوفورم بالمتصفح ليتم ملئ النماذج من هذه الهويه"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "تخصيص صندوق البحث"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "           :هل أنت متأكد أنك تريد مسح جميع البيانات الموجودة في\n'%1'          \n\n %2 هويات\n %3 بطاقات مرور\n %4 ملحوظات آمنه\n %5 ملفات أخرى \n\nبمجرد موافقتك على المسح جميع البيانات المحفوظه سوف تفقد"
+   }
+}

@@ -1,0 +1,25 @@
+[2019-02-22 18:01:25.586] [sharedprocess] [info] main {"machineId":"9b33d80e67d4838b19679304ffbc227041b81ecf5d3ab005555730017d665663"}
+[2019-02-22 18:01:25.669] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:25.689] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:25.689] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:25.690] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:25.752] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 18:01:25.759] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 18:01:25.767] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 18:01:25.773] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 18:01:26.051] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:43.598] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:43.601] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:43.606] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:43.610] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:01:43.727] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 18:01:43.735] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 18:01:43.742] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 18:02:05.603] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-02-22 18:03:27.448] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2019-02-22 18:03:27.464] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 18:03:28.580] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/6f1b71aa-f079-4484-976e-15f1fc337bf1
+[2019-02-22 18:03:30.549] [sharedprocess] [info] Extracted extension to /home/whiz/.vscode-oss/extensions/.vscodevim.vim-1.0.8: vscodevim.vim
+[2019-02-22 18:03:30.550] [sharedprocess] [info] Renamed to /home/whiz/.vscode-oss/extensions/vscodevim.vim-1.0.8
+[2019-02-22 18:03:30.551] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2019-02-22 18:03:30.564] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim

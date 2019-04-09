@@ -1,0 +1,494 @@
+{
+   "Activate_VisitSupportLink_Text": {
+      "message": "تماس با پشتيباني"
+   },
+   "AutoSaveBar_PasswordEdit_Cuebanner": {
+      "message": "رمزعبور را وارد کن"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "دوباره نمايش نده"
+   },
+   "Cmd_About_Key": {
+      "message": "درباره&..."
+   },
+   "Cmd_ApplyChanges_Flat": {
+      "message": "ذخيره"
+   },
+   "Cmd_Bookmarks_Flat": {
+      "message": "بوکمارک ها"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "لغو"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "پاک کردن فيلدها"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(پاک کردن ليست)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "بستن"
+   },
+   "Cmd_Contacts_Flat": {
+      "message": "تماس ها"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "آيا ميخواهيد %1 '%2' حذف کنيد؟"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "حذف"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "ويرايش"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "فقط فيلدهاي خالي را پرکن&"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "پرکردن فرم"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "برو به پرکردن"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "برو به"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "همه سوالهاي متداول&"
+   },
+   "Cmd_Help_Flat": {
+      "message": "راهنما"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "شناسنامه ها"
+   },
+   "Cmd_Login_Flat": {
+      "message": "ورود"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "ورود"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "قفل رمزعبور"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": ":نام& پوشه"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "پوشه جديد"
+   },
+   "Cmd_New_Flat": {
+      "message": "جديد"
+   },
+   "Cmd_Options_Flat": {
+      "message": "گزينه ها"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "تغييرنام"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "تغييرنام به:"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "ريست فيلدها"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "روبوفرم"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "توليد"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "يادداشت امن&"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "ذخيره"
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "تنظيم فيلدها"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "همگامسازي"
+   },
+   "Contacts_Cmd_New_Tip": {
+      "message": "ايجاد تماس جديد"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "تميز کردن فيلد ها"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "پرکردن & ارسال"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "گزينه هاي روبوفرم"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "ريست فيلدها"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "توليد کننده رمزعبور"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "ذخيره فرم ها"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "تنظيم فيلدها"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "مسدود کردن وبسايت - روبوفرم"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "نامسدود کردن وب سايت - روبوفرم"
+   },
+   "Editor_Indicator_ShowAll": {
+      "message": "نمايش همه"
+   },
+   "Editor_Menu_View": {
+      "message": "مشاهده&"
+   },
+   "FillDlg_All_Identities_Key": {
+      "message": "نمايش همه شناسنامه ها"
+   },
+   "FillDlg_All_Passcards_Key": {
+      "message": "نمايش همه کارت عبورها"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "ويرايش"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "پرکردن فرم ها&"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "پرکن && &ارسال"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "رمزعبور:"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "واردکردن نامتان و انتخاب کشوري که در ان زندگي ميکنيد"
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "ديگر استرينگهاي همانند"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "نام فيلد"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "مقدار فيلدها"
+   },
+   "Identities_Cmd_New_Contact_Title": {
+      "message": "تماس جديد"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "شناسنامه جديد"
+   },
+   "Install_Back": {
+      "message": "قبلي"
+   },
+   "Install_CreateMasterPassword_Prompt": {
+      "message": "يک رمزعبور هوشمند براي ايمني همه کارت عبورها و ديگر داده هاي روبوفرم بکار رفته است.براي دسترسي به داده روبوفرم رمزعبور پرسيده خواهد شد"
+   },
+   "Install_Email": {
+      "message": "ايميل:"
+   },
+   "Install_Next": {
+      "message": "بعدي"
+   },
+   "Install_No": {
+      "message": "خير"
+   },
+   "Install_OnlineSetup_Title2": {
+      "message": "RoboForm Setup"
+   },
+   "Install_PasswordTooShort": {
+      "message": "رمزعبور حداقل بايد 6 کارکتر بلند داشته باشد"
+   },
+   "Install_Yes": {
+      "message": "بله"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "کمترين تعداد کارکتر رقمي در رمزعبور بايد %1 باشد"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "طول رمزعبور هوشمند بايد بين %1 و %2 کارکتر باشد"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "کمترين تعداد کارکتر با حروف کوچک در رمزعبور بايد %1 باشد"
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "کمترين تعداد کارکتر با حروف  بزرگ در مزعبور بايد %1 باشد"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "رمزعبور هوشمند جديد&:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "رمزعبور هوشمند قديمي&:"
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "نام نميتواند خالي،يا محتوي اين کارکترها باشد \\ / : * ? \" \u003C > |"
+   },
+   "Options_AutoSave_AltClickEnable_Text": {
+      "message": "&ALT+click دکمه ورود براي اجبار ذخيره"
+   },
+   "Options_AutoSave_AltClickEnable_Tip": {
+      "message": "ALT+click دکمه ورود براي اجبار ذخيره"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text": {
+      "message": "SHIFT+&ENTER درمتن فيلد براي اجبار به ذخيره کردن"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Tip": {
+      "message": "SHIFT+ENTER درمتن فيلد براي اجبار به ذخيره کردن"
+   },
+   "Options_AutoSave_Title": {
+      "message": "ذخيره خودکار"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "فعال کردن &ميابرها در مرورگر"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "پرکردن && ارسال اقدام پيش فرض براي شناسنامه من است"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "اگر بررسي شده: اقدام پيش فرض براي شناسنامه من پرکردن& ارسال هست. اگر بررسي نشده: اقدام پيش فرض براي شناسنامه من در پرکردن فرم هاست"
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "پرکردن && ارسال اقدام پيش فرض براي کارت عبور همانند است"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "اگر بررسي شده: اقدام پيش فرض براي کارت عبور همانند پرکردن & ارسال هست. اگر بررسي نشده: اقدام پيش فرض براي کارت عبور همانند پرکردن فرم هاست"
+   },
+   "Options_ImportFrame_Text": {
+      "message": "واردکردن داده به روبوفرم"
+   },
+   "Options_Keyboard_Title": {
+      "message": "صفحه کليد"
+   },
+   "Options_Main_Title": {
+      "message": "گزينه هاي روبوفرم"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "حداکثر تعداد ايتم  در ليست ايتمهاي بکاررفته اخير"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "حداکثر تعداد ايتم  در ليست ايتمهاي بکاررفته اخير"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "پيشنهاد به &ذخيره ورود ها از وب (اچ تي ام ال) فرم ها"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "هنگامي که شما فرم پر شده وب را ارسال ميکنيد, برنامه پيشنهاد ميکند ان را در کارت عبور ذخيره کنيد"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "کليد آلت سمت راست"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "اگر بررسي شده سپس فشار کليد راست ALT + Key صفحه کليد ميانبر روبوفرم فراخوانده ميشود و با کليد چپ ALT + Key ترکيب ميشود. اگر بررسي نشده سپس فقط ALT + Key چپ ميانبرهاي روبوفرم را فراميخواند"
+   },
+   "Options_Search_Title": {
+      "message": "جستجو"
+   },
+   "Options_Security_Title": {
+      "message": "امنيتي"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "ليست ميانبر"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "ليست ميانبرهاي روبوفرم در مرورگر.ميتوانيد هريک از آنها را جداگانه خاموش و روشن کنيد"
+   },
+   "OvrCfm_Overwrite_Text": {
+      "message": "جايگزيني"
+   },
+   "PassCards_Button_PasswordValuesAsStars_Tip": {
+      "message": "نمايش مقادير رمز عبور به عنوان ستاره يا متن"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "افزودن فيلد"
+   },
+   "PassCards_Cmd_Fields_Flat": {
+      "message": "فيلدها"
+   },
+   "PassCards_Note": {
+      "message": "يادداشت&"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "تعداد کارکترها&:"
+   },
+   "PassGen_Copy": {
+      "message": "کپي&"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "کپي رمزعبورهاي توليد شده به کليپ برد"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "محروم سازي کارکترهاي همانند&"
+   },
+   "PassGen_Fill": {
+      "message": "پرکردن&"
+   },
+   "PassGen_Generate": {
+      "message": "توليد&"
+   },
+   "PassGen_LeastNumber": {
+      "message": "حداقل اعداد ديجيتالي:"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "تنظيمات پيشرفته"
+   },
+   "PassGen_UseHexChars": {
+      "message": "هگزا دسيمال 0-9, A-F"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "فرمان توسط خط مشي منع شده"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "تغيير و ايجاد رمز عبور هوشمند با خط مشي منع شده است"
+   },
+   "RFOError_PasswordIsEmpty": {
+      "message": "رمزعبور خالي هست"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "شناسه يا رمزعبور روبوفرم آنلاين اشتباه است"
+   },
+   "RI_Country": {
+      "message": "کشور"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "اکانت بانک"
+   },
+   "RI_Group_Business": {
+      "message": "تجارت"
+   },
+   "RI_Group_Car": {
+      "message": "اتومبيل‌"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "کارت اعتباري"
+   },
+   "RI_Group_Custom": {
+      "message": "دستي"
+   },
+   "RI_Group_Default_Password": {
+      "message": "تصديق"
+   },
+   "RI_Group_Location": {
+      "message": "آدرس"
+   },
+   "RI_Group_Passport": {
+      "message": "گذرنامه"
+   },
+   "RI_Group_Person": {
+      "message": "شخص"
+   },
+   "Reg_Name_Prompt": {
+      "message": "نام ونام خوانوادگي&"
+   },
+   "RoboformType_Bookmark": {
+      "message": "بوکمارک"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "بوکمارک ها"
+   },
+   "RoboformType_Contact": {
+      "message": "تماس"
+   },
+   "RoboformType_Contacts": {
+      "message": "تماس ها"
+   },
+   "RoboformType_File": {
+      "message": "فايل"
+   },
+   "RoboformType_Files": {
+      "message": "فايل ها"
+   },
+   "RoboformType_Folder": {
+      "message": "پوشه"
+   },
+   "RoboformType_Folders": {
+      "message": "پوشه ها"
+   },
+   "RoboformType_Identities": {
+      "message": "شناسنامه"
+   },
+   "RoboformType_Identity": {
+      "message": "شناسنامه"
+   },
+   "RoboformType_Login": {
+      "message": "ورود"
+   },
+   "RoboformType_Logins": {
+      "message": "ورودها"
+   },
+   "RoboformType_Safenote": {
+      "message": "يادداشت امن"
+   },
+   "RoboformType_Safenotes": {
+      "message": "يادداشت امن ها"
+   },
+   "RoboformType_Searchcard": {
+      "message": "کارت جستجو"
+   },
+   "RoboformType_Searchcards": {
+      "message": "کارت جستجو"
+   },
+   "SafeNotes_Cmd_New_Title": {
+      "message": "يادداشت امن جديد"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "فعال کردن ذخيره خودکار"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "جايگزيني کارت عبور &موجود"
+   },
+   "SaveDlg_NewSafenote_Title2": {
+      "message": "ايجاد يادداشت امن جديد"
+   },
+   "SearchAction_QueryText": {
+      "message": "عبارت"
+   },
+   "SearchAction_Search_In": {
+      "message": "جستجو '%%query%%' در %1"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "جستجو '%%query%%' در نام روبوفرم"
+   },
+   "Search_Combo_Title": {
+      "message": "جستجو"
+   },
+   "Search_Def_Action_Bookmark": {
+      "message": "برو به '%1'"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "ويرايش '%1'"
+   },
+   "Search_Def_Action_Identity_Toolbar": {
+      "message": "پرکردن از '%1'"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "ورود به '%1'"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "ويرايش '%1'"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "نصب پرکردن فرم ها"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "ايجاد شناسنامه براي پرکردن ثبتنام طولاني و وارسي کردن فرم ها"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "سفارشي سازي کادر جستجو"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "آيا شما مطمئن به حذف داده کاربري قرارگرفته در '%1'هستيد؟\n- %2 شناسنامه ها,\n- %3 کارت عبور ها,\n- %4 يادداشت امن ها,\n- %5 ديگر فايلها\n\nيکمرتبه حذف ميشود, اين فايلهاي شخصي از بين ميرود"
+   }
+}

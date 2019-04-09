@@ -1,0 +1,1082 @@
+{
+   "About_Version2": {
+      "message": "版本"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "执照%1天前过期"
+   },
+   "Activate_VisitSupportLink_Text": {
+      "message": "联系客服"
+   },
+   "AutoSaveBar_PasswordEdit_Cuebanner": {
+      "message": "输入密码"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "不再显示此信息"
+   },
+   "Cmd_About_Key": {
+      "message": "关于(&A)..."
+   },
+   "Cmd_ApplyChanges_Flat": {
+      "message": "保存"
+   },
+   "Cmd_Bookmarks_Flat": {
+      "message": "书签"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "取消"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "清除字段"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(清除列表)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "关闭"
+   },
+   "Cmd_Contacts_Flat": {
+      "message": "联系人"
+   },
+   "Cmd_CreateGroup_Key": {
+      "message": "建立群"
+   },
+   "Cmd_CreateSharedFolder_Key": {
+      "message": "创建共享文件夹"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "您确定要删除%1'%2'吗？"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "删除"
+   },
+   "Cmd_Done_Flat": {
+      "message": "完成"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "编辑"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "只填写空白字段(&E)"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "填写表单"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "浏览并填写"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "转到"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "常见问题解答(&F)"
+   },
+   "Cmd_Help_Flat": {
+      "message": "帮助"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "个人信息"
+   },
+   "Cmd_Login_Flat": {
+      "message": "登录"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "登录"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "注销"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "文件夹名称(&N)："
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "新建文件夹"
+   },
+   "Cmd_New_Flat": {
+      "message": "新建"
+   },
+   "Cmd_Options_Flat": {
+      "message": "选项"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "安全中心"
+   },
+   "Cmd_PasswordAuditRun_Tip": {
+      "message": "打开安全中心"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "重命名"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "重命名为："
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "重置字段"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "生成密码"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "保密笔记本"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "保存"
+   },
+   "Cmd_SendFile_Flat": {
+      "message": "发送"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "发送。。。"
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "设置字段"
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "正在分享。。。"
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "管理RoboForm账户"
+   },
+   "Cmd_Sync_Tip": {
+      "message": "手动开始RoboForm账户同步"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "同步"
+   },
+   "Contacts_Cmd_New_Tip": {
+      "message": "新建联系人"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "清空字段"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "填写并提交"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RoboForm选项"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "重置字段"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "密码生成器"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "保存表单"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "设置字段"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "屏蔽网站 - RoboForm"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "解除屏蔽网站 - RoboForm"
+   },
+   "DeleteSharedFolder_ManagerCaption": {
+      "message": "你确定要永久删除'%1'文件夹吗？ 共享文件夹的所有收件人将被撤销。"
+   },
+   "Editor_Indicator_ShowAll": {
+      "message": "显示所有"
+   },
+   "Editor_Menu_View": {
+      "message": "查看(&V)"
+   },
+   "EmailIncorrect_Error": {
+      "message": "电子邮件地址不对"
+   },
+   "EmergencyAccess_AcceptInvitation_Error": {
+      "message": "无法接受来自\"%1 \"的邀请：%2"
+   },
+   "EmergencyAccess_Accept_Invitation_Text": {
+      "message": "接受"
+   },
+   "EmergencyAccess_AccessGranted_Status": {
+      "message": "准许"
+   },
+   "EmergencyAccess_AccessRequestedDaysHours_Status": {
+      "message": "已请求。数据将在%1天%2小时可以用。"
+   },
+   "EmergencyAccess_AccessRequestedDays_Status": {
+      "message": "已请求。数据将在%1天可以用。"
+   },
+   "EmergencyAccess_AccessRequestedHours_Status": {
+      "message": "已请求。数据将在%1小时可以用。"
+   },
+   "EmergencyAccess_AccessRequested_Status": {
+      "message": "要求"
+   },
+   "EmergencyAccess_AddContact_Banner": {
+      "message": "输入联系人的电子邮件。。。"
+   },
+   "EmergencyAccess_AddContact_Email_Caption": {
+      "message": "电子邮件"
+   },
+   "EmergencyAccess_AddContact_Timeout_Caption": {
+      "message": "停止"
+   },
+   "EmergencyAccess_AddContact_Title": {
+      "message": "加联系人"
+   },
+   "EmergencyAccess_Cancel_Text": {
+      "message": "取消"
+   },
+   "EmergencyAccess_Close_Text": {
+      "message": "关"
+   },
+   "EmergencyAccess_ContactAccepted_Status": {
+      "message": "接受"
+   },
+   "EmergencyAccess_ContactInvited_Status": {
+      "message": "已邀请"
+   },
+   "EmergencyAccess_ContactRejected_Status": {
+      "message": "拒绝"
+   },
+   "EmergencyAccess_ContactsCount_Title": {
+      "message": "我的紧急联系人（%1）"
+   },
+   "EmergencyAccess_Contacts_Title": {
+      "message": "我的紧急联系人"
+   },
+   "EmergencyAccess_Download": {
+      "message": "下载"
+   },
+   "EmergencyAccess_DownloadAll_Text": {
+      "message": "下载所有"
+   },
+   "EmergencyAccess_GetData_Error": {
+      "message": "无法从\"%1 \"获取数据：%2"
+   },
+   "EmergencyAccess_GetData_Help_Text": {
+      "message": "这些是%1授予您紧急访问的项目，您可以查看或添加到您的RoboForm帐户。项目将位于紧急访问文件夹中。"
+   },
+   "EmergencyAccess_GetData_Request_Text": {
+      "message": "得到数据"
+   },
+   "EmergencyAccess_GetInfo_Error": {
+      "message": "无法获取信息紧急帐户：%1"
+   },
+   "EmergencyAccess_GrantAccess_Error": {
+      "message": "无法授予对联系人\"%1\"的访问权限：%2"
+   },
+   "EmergencyAccess_GrantAccess_Text": {
+      "message": "发放"
+   },
+   "EmergencyAccess_Help_Add_Hint": {
+      "message": "在您的紧急联系人能够访问您的RoboForm数据之前他们必须等待你设定的超时时间到期。 您可以在超时期间随时拒绝紧急访问请求。"
+   },
+   "EmergencyAccess_Help_Hint": {
+      "message": "选择一个值得信赖的联系人，在遇到死亡的情况下安全地访问您的RoboForm数据失能或者仅仅是作为账户恢复的一种方法。"
+   },
+   "EmergencyAccess_Invite_Error": {
+      "message": "无法邀请联系人”%1“：%2"
+   },
+   "EmergencyAccess_Loading_Title": {
+      "message": "缓冲"
+   },
+   "EmergencyAccess_Name_Title": {
+      "message": "名字:"
+   },
+   "EmergencyAccess_Open": {
+      "message": "打开"
+   },
+   "EmergencyAccess_Others_Title": {
+      "message": "其他"
+   },
+   "EmergencyAccess_RejectAccess_Error": {
+      "message": "无法拒绝来自\"%1 : %2\"的访问"
+   },
+   "EmergencyAccess_RejectInvitation_Error": {
+      "message": "无法拒绝\"%1 \"：%2"
+   },
+   "EmergencyAccess_RejectInvitation_Question": {
+      "message": "您拒绝成为\"%1\"的紧急联系人。"
+   },
+   "EmergencyAccess_Reject_Invitation_Text": {
+      "message": "拒绝访问"
+   },
+   "EmergencyAccess_RequestAccess_Error": {
+      "message": "无法请求访问\"%1 \"：%2"
+   },
+   "EmergencyAccess_Request_Access_Text": {
+      "message": "请求访问"
+   },
+   "EmergencyAccess_RevokeAccess_Text": {
+      "message": "撤销"
+   },
+   "EmergencyAccess_Revoke_Error": {
+      "message": "无法撤销联系人\"%1”：%2"
+   },
+   "EmergencyAccess_Revoke_Question": {
+      "message": "您正在从您的紧急联系人中撤消\"%1 \""
+   },
+   "EmergencyAccess_Revoke_Tip": {
+      "message": "撤销紧急联系"
+   },
+   "EmergencyAccess_Save_Text": {
+      "message": "保存"
+   },
+   "EmergencyAccess_SendInvite_Text": {
+      "message": "加"
+   },
+   "EmergencyAccess_Status_Title": {
+      "message": "状态"
+   },
+   "EmergencyAccess_TestatorsCount_Title": {
+      "message": "我是谁的紧急联系人（%1）"
+   },
+   "EmergencyAccess_Testators_Title": {
+      "message": "我是谁的紧急联系人"
+   },
+   "EmergencyAccess_Timeout12hours_Text": {
+      "message": "12小时"
+   },
+   "EmergencyAccess_Timeout14days_Text": {
+      "message": "14天"
+   },
+   "EmergencyAccess_Timeout24hours_Text": {
+      "message": "24小时"
+   },
+   "EmergencyAccess_Timeout2days_Text": {
+      "message": "2天"
+   },
+   "EmergencyAccess_Timeout30days_Text": {
+      "message": "30天"
+   },
+   "EmergencyAccess_Timeout3days_Text": {
+      "message": "3天"
+   },
+   "EmergencyAccess_Timeout7days_Text": {
+      "message": "7天"
+   },
+   "EmergencyAccess_TimeoutCustomDays_Text": {
+      "message": "%1天"
+   },
+   "EmergencyAccess_TimeoutCustomHours_Text": {
+      "message": "%1小时"
+   },
+   "EmergencyAccess_TimeoutImmediately_Text": {
+      "message": "立刻"
+   },
+   "EmergencyAccess_Timeout_Title": {
+      "message": "停顿"
+   },
+   "EmergencyAccess_Title": {
+      "message": "紧急访问"
+   },
+   "EmergencyAccess_Update_Error": {
+      "message": "无法更新联系人信息\"%1 \"：%2"
+   },
+   "EmergencyAccess_invitationUserNotFound_Question": {
+      "message": "我们将发送一封电子邮件到”%1“，邀请成为您的紧急联系人"
+   },
+   "FillDlg_All_Identities_Key": {
+      "message": "显示所有个人信息"
+   },
+   "FillDlg_All_Passcards_Key": {
+      "message": "显示所有密码卡片"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "编辑"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "填表(&F)"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "填表&&提交(&S)"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "密码："
+   },
+   "FirstIdentity_Prompt": {
+      "message": "输入您的姓名和选择您所在的国家。"
+   },
+   "FocusSearchBox_Text": {
+      "message": "自动设置焦点到RoboForm搜索框"
+   },
+   "HorizontalToolbar_Text": {
+      "message": "布局弹出工具栏项目水平"
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "其它匹配字符串"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "字段名"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "字段值"
+   },
+   "Identities_Cmd_New_Contact_Title": {
+      "message": "新建联系人"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "新建个人信息"
+   },
+   "Import_BookmarkFrom_Title": {
+      "message": "导入书签"
+   },
+   "Import_BookmarksAddedCount_Text": {
+      "message": "%1书签被加"
+   },
+   "Import_BookmarksExistedCount_Text": {
+      "message": "%1书签已经在RoboForm存在"
+   },
+   "Import_ImportButton_Text": {
+      "message": "导入"
+   },
+   "Import_ReportBookmarks_Text": {
+      "message": "%1书签%2已经在RoboForm里"
+   },
+   "Import_Succeeded_Title": {
+      "message": "成功完成导入"
+   },
+   "Install_Back": {
+      "message": "上一步"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "确认密码："
+   },
+   "Install_CreateMasterPassword_Prompt": {
+      "message": "主密码用来加密所有您的密码和其它存于RoboForm内的数据。您将被要求输入您的主密码才能访问您的RoboForm数据。"
+   },
+   "Install_Email": {
+      "message": "电子邮件："
+   },
+   "Install_Next": {
+      "message": "下一步"
+   },
+   "Install_No": {
+      "message": "否"
+   },
+   "Install_OnlineSetup_Title2": {
+      "message": "RoboForm设立"
+   },
+   "Install_PasswordTooShort": {
+      "message": "密码长度至少为 6 字符。"
+   },
+   "Install_Yes": {
+      "message": "是"
+   },
+   "LicenseExpirationWarning_EnterpriseExpired_Title": {
+      "message": "RoboForm商业版过期了"
+   },
+   "LicenseExpirationWarning_LicenseExpired_Title": {
+      "message": "您的订阅已过期"
+   },
+   "LicenseExpirationWarning_RenewLink": {
+      "message": "立刻续借"
+   },
+   "LicenseExpirationWarning_SelfAdv_EnterpriseCaption": {
+      "message": "请联系您的RoboForm公司账户管理员"
+   },
+   "LicenseExpirationWarning_SyncIsNotAllowedByLicense": {
+      "message": "只有付费账户可以用同步。"
+   },
+   "LicenseExpirationWarning_TrialExpired_Title": {
+      "message": "您的免费试用版已经过期"
+   },
+   "LicenseExpirationWarning_UpgradeExpl": {
+      "message": "你已经超出了你的免费限制。 n请升级RoboForm。"
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "主密码不能只有空格"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "密码中数字字符最小数目应为 %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "主密码的长度必须达到%1～%2字符"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "密码中小写字符最小数目应为 %1"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "密码中最小数量的非数字字符必须是%1"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "新主密码不能和以前的一样"
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "密码中大写字符最小数目应为 %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "新的主密码(&N)："
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "旧的主密码(&O)："
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "名称不能为空并且不能包含字符 \\ / : * ? \" \u003C > |"
+   },
+   "NewSharedFolder_Title": {
+      "message": "名字:"
+   },
+   "NewSharedFolder_WindowTitle": {
+      "message": "RoboForm - 创建新的共享文件夹"
+   },
+   "Options_AutoSave_AltClickEnable_Text": {
+      "message": "按住Alt键，单击登录按钮，强制自动保存(&A)"
+   },
+   "Options_AutoSave_AltClickEnable_Tip": {
+      "message": "按住Alt键，单击登录按钮，强制自动保存"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text": {
+      "message": "在文本域上按SHIFT+ENTER键，强制自动保存(&E)"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Tip": {
+      "message": "在文本域上按SHIFT+ENTER键，强制自动保存"
+   },
+   "Options_AutoSave_Title": {
+      "message": "自动保存"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "禁用浏览器中的RoboForm快捷键(&H)"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "'填表&&提交'为我的个人信息默认行为"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "选择此项：匹配我的个人信息默认为填表并提交。\n取消此项：匹配密码卡片默认为 填写表单"
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "'填表&&提交'为匹配密码卡片默认行为"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "选择此项：匹配密码卡片默认为填表并提交。\n取消此项：匹配密码卡片默认为 填写表单"
+   },
+   "Options_ImportFrame_Text": {
+      "message": "导入数据到RoboForm"
+   },
+   "Options_Keyboard_Title": {
+      "message": "快捷键"
+   },
+   "Options_Main_Title": {
+      "message": "RoboForm选项"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "最近访问文件列表最大保存数目"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "最近访问文件列表的最大存放数目"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "提出保存网页(HTML)表单登录信息(&S)"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "当提交已填写的登录网页(HTML)表单时，RoboForm 将提出保存到密码卡片"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "也为快捷方式使用右ALT(&R)"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "如果选中，右ALT组合键等价于左ALT组合键，将调用左ALT组合键的RoboForm快捷功能。如果未选中，则只有左ALT组合键能调用RoboForm快捷功能"
+   },
+   "Options_Search_Title": {
+      "message": "搜索"
+   },
+   "Options_Security_Title": {
+      "message": "信息安全"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "快捷键列表"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "列出了浏览器中的RoboForm快捷键。您可以决定其中任何一个快捷键的使用状态(启用或关闭)"
+   },
+   "Options_Sync_Account_Text": {
+      "message": "账户："
+   },
+   "OvrCfm_Overwrite_Text": {
+      "message": "覆盖"
+   },
+   "PassAud_AverageSafetyLevel_Text": {
+      "message": "您的许多密码很弱或用于多个帐户。 如果您想提高你的分数用生成的密码替换它们。"
+   },
+   "PassAud_AverageSafetyLevel_Tittle": {
+      "message": "普通"
+   },
+   "PassAud_BadSafetyLevel_Text": {
+      "message": "我们发现了一些弱或重复的密码。如果您想提高您的分数用生成的密码替换它们。"
+   },
+   "PassAud_BadSafetyLevel_Tittle": {
+      "message": "低"
+   },
+   "PassAud_GoodSafetyLevel_Text": {
+      "message": "很好。请继续创建独特强密码给所有网站"
+   },
+   "PassAud_GoodSafetyLevel_Tittle": {
+      "message": "很好"
+   },
+   "PassAud_ItemAge_Title": {
+      "message": "年龄"
+   },
+   "PassAud_ItemLocation_Title": {
+      "message": "地点"
+   },
+   "PassAud_ItemName_Title": {
+      "message": "名字"
+   },
+   "PassAud_ItemPasswordStrength_Title": {
+      "message": "密码强度"
+   },
+   "PassAud_ItemPassword_Title": {
+      "message": "密码"
+   },
+   "PassAud_ItemUrl_Title": {
+      "message": "URL"
+   },
+   "PassAud_MediumSafetyLevel_Text": {
+      "message": "您大部分密码都是独特而复杂的。 请查看下面的细目以识别和替换弱或重复的密码。"
+   },
+   "PassAud_MediumSafetyLevel_Tittle": {
+      "message": "好"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "好"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "中等"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "强"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "弱"
+   },
+   "PassAud_ReusedGroup_Title": {
+      "message": "把重用的密码分组"
+   },
+   "PassAud_SummaryScore": {
+      "message": "您的安全分数"
+   },
+   "PassAud_TabAllPasswords_Title": {
+      "message": "所有"
+   },
+   "PassAud_TabCompleteDuplicates_Title": {
+      "message": "完全重复"
+   },
+   "PassAud_TabReusedkPasswords_Title": {
+      "message": "重用"
+   },
+   "PassCards_Button_PasswordValuesAsStars_Tip": {
+      "message": "将密码值显示为*号或文本"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "添加字段"
+   },
+   "PassCards_Cmd_Fields_Flat": {
+      "message": "字段"
+   },
+   "PassCards_Note": {
+      "message": "标注"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "字符数目(&N)"
+   },
+   "PassGen_Copy": {
+      "message": "复制(&C)"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "复制生成的密码到剪贴板"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "排除相似的字符"
+   },
+   "PassGen_Fill": {
+      "message": "填写(&F)"
+   },
+   "PassGen_Generate": {
+      "message": "生成新密码(&G)"
+   },
+   "PassGen_LeastNumber": {
+      "message": "数字的最少个数(&M)："
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "高级设置"
+   },
+   "PassGen_UseHexChars": {
+      "message": "十六进制 0-9，A-F(&X)"
+   },
+   "Passw_Account_Title": {
+      "message": "RoboForm账户"
+   },
+   "Passw_ChangeAccount": {
+      "message": "改账号"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "该命令被协议禁止"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "修改和创建主密码操作被协议禁止"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "立刻升级"
+   },
+   "RFOError_PasswordIsEmpty": {
+      "message": "密码为空"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "您输入了无效的用户ID或密码"
+   },
+   "RFOSetup_CreateNewAccount": {
+      "message": "建立新RoboForm账户"
+   },
+   "RFOSetup_EnterAccountId": {
+      "message": "电子邮件或用户ID："
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "为RoboForm帐户输入密码："
+   },
+   "RFOSetup_SuspendedAccount_Error": {
+      "message": "RoboForm账户'%1'执照展厅"
+   },
+   "RFO_EnterOTP_Text2": {
+      "message": "您的一次性密码："
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "一次性密码"
+   },
+   "RFO_TwoFactorIsOn_Text2": {
+      "message": "您的帐户的一次性密码（OTP）设置为启用。 n此设置要求您输入一个OTP，以便从每个新设备或浏览器访问您的帐户。"
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "一次性密码已发送到您的验证过的电子邮件地址。"
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "一次性密码已通过短信发送到您的验证电话号码。"
+   },
+   "RFO_TwoFactor_Generic_Text": {
+      "message": "请在这里提交一次性密码。"
+   },
+   "RI_Country": {
+      "message": "国家"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "银行帐户"
+   },
+   "RI_Group_Business": {
+      "message": "商业"
+   },
+   "RI_Group_Car": {
+      "message": "汽车"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "信用卡"
+   },
+   "RI_Group_Custom": {
+      "message": "自定义"
+   },
+   "RI_Group_Default_Password": {
+      "message": "默认密码"
+   },
+   "RI_Group_Location": {
+      "message": "所在地"
+   },
+   "RI_Group_Passport": {
+      "message": "护照"
+   },
+   "RI_Group_Person": {
+      "message": "个人"
+   },
+   "Reg_Name_Prompt": {
+      "message": "姓名(&F)"
+   },
+   "RejectFolder_Caption": {
+      "message": "您正在拒绝自己的共享文件夹%1。"
+   },
+   "RoboformType_Bookmark": {
+      "message": "书签"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "书签"
+   },
+   "RoboformType_Contact": {
+      "message": "联系人"
+   },
+   "RoboformType_Contacts": {
+      "message": "联系人(多个)"
+   },
+   "RoboformType_File": {
+      "message": "文件"
+   },
+   "RoboformType_Files": {
+      "message": "文件(多个)"
+   },
+   "RoboformType_Folder": {
+      "message": "文件夹"
+   },
+   "RoboformType_Folders": {
+      "message": "文件夹(多个)"
+   },
+   "RoboformType_Identities": {
+      "message": "个人信息(多个)"
+   },
+   "RoboformType_Identity": {
+      "message": "个人信息"
+   },
+   "RoboformType_Login": {
+      "message": "登录"
+   },
+   "RoboformType_Logins": {
+      "message": "登录"
+   },
+   "RoboformType_Safenote": {
+      "message": "保密笔记本"
+   },
+   "RoboformType_Safenotes": {
+      "message": "保密笔记本(多个)"
+   },
+   "RoboformType_Searchcard": {
+      "message": "搜索卡"
+   },
+   "RoboformType_Searchcards": {
+      "message": "搜索卡"
+   },
+   "SafeNotes_Cmd_New_Title": {
+      "message": "新建保密笔记本"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "启用自动保存"
+   },
+   "SaveDlg_Existing_Login_Selector": {
+      "message": "替换现有的账户"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "已存的密码卡片(&X)："
+   },
+   "SaveDlg_FinalMessage_LoginSaved_Text2": {
+      "message": "您的登录信息已保存"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "文件夹："
+   },
+   "SaveDlg_Name_Text": {
+      "message": "名字:"
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "不要保存这个网页"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "监理文件夹"
+   },
+   "SaveDlg_NewSafenote_Title2": {
+      "message": "新建保密笔记本"
+   },
+   "SaveDlg_New_Login_Selector": {
+      "message": "名字建议："
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "书签"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "登录"
+   },
+   "SaveDlg_SaveBookmarkQuestion_Text": {
+      "message": "您想要RoboForm保存您的书签吗？"
+   },
+   "SaveDlg_SaveLoginQuestion_Text": {
+      "message": "您想要RoboForm保存您的密码吗？"
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "解锁"
+   },
+   "SearchAction_QueryText": {
+      "message": "phrase"
+   },
+   "SearchAction_Search_In": {
+      "message": "在 %1 里，搜索 '%%query%%' "
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "在 RoboForm 登录名里，搜索 '%%query%%' "
+   },
+   "Search_Combo_Title": {
+      "message": "搜索"
+   },
+   "Search_Def_Action_Bookmark": {
+      "message": "转到'%1'"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "编辑'%1'"
+   },
+   "Search_Def_Action_Identity_Toolbar": {
+      "message": "用'%1'填表"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "登录到'%1'"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "编辑'%1'"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm找到了敏感的字段。请确认是否允许填写这些字段："
+   },
+   "Setup_ConfirmMasterPassword_Password_Text": {
+      "message": "主密码："
+   },
+   "Setup_ConfirmMasterPassword_Prompt": {
+      "message": "确保您知道并正确输入您的主密码"
+   },
+   "Setup_ConfirmMasterPassword_Title": {
+      "message": "确认主密码"
+   },
+   "Setup_LoginWithExistingAccount_Text": {
+      "message": "使用现有帐户登录"
+   },
+   "Setup_MasterPassword_HeaderSubtitle": {
+      "message": "只有您知道您的主密码"
+   },
+   "Setup_Welcome_HeaderTitle": {
+      "message": "欢迎使用RoboForm"
+   },
+   "Setup_Welcome_Title": {
+      "message": "建立新账户"
+   },
+   "SharedFileSettings_Close": {
+      "message": "关"
+   },
+   "SharedFileSettings_InfoDescription": {
+      "message": "您可拷贝挪重新命名或删除文件"
+   },
+   "SharedFileSettings_Loading": {
+      "message": "缓冲。。。"
+   },
+   "SharedFileSettings_Revoke_Tip": {
+      "message": "撤销访问权限"
+   },
+   "SharedFileSettings_SendOneItem_Title": {
+      "message": "发送%1到"
+   },
+   "SharedFileSettings_SentBy": {
+      "message": "%1发送的"
+   },
+   "SharedFileSettings_SharedWith": {
+      "message": "谁可以看到"
+   },
+   "SharedFileSettings_Title": {
+      "message": "RoboForm分享"
+   },
+   "SharedFile_Revoke_Confirmation": {
+      "message": "您确定要撤销用户%2的共享文件'%1'吗？"
+   },
+   "SharedFilesConfirmation_Title": {
+      "message": "RoboForm用户希望与您分享一些RoboForm数据。 n请接受或拒绝下面的共享文件："
+   },
+   "SharedFolderSettings_AddRecipientBanner": {
+      "message": "输入电子邮件地址"
+   },
+   "SharedFolderSettings_AddRecipient_Title": {
+      "message": "添加收件人"
+   },
+   "SharedFolderSettings_CancelChanges": {
+      "message": "取消"
+   },
+   "SharedFolderSettings_CreatedByMe_Text": {
+      "message": "由您创建"
+   },
+   "SharedFolderSettings_DeleteSharedFolder": {
+      "message": "删除"
+   },
+   "SharedFolderSettings_LimitedDescription": {
+      "message": "您是能使用文件夹里的登录信息。"
+   },
+   "SharedFolderSettings_ManagerDescription": {
+      "message": "您可以共享和编辑文件夹"
+   },
+   "SharedFolderSettings_RecipientEmail_Caption": {
+      "message": "收件人电子邮件地址"
+   },
+   "SharedFolderSettings_RecipientRole_Caption": {
+      "message": "角色"
+   },
+   "SharedFolderSettings_RegularDescription": {
+      "message": "您可以编辑文件夹"
+   },
+   "SharedFolderSettings_Revoke_Tip": {
+      "message": "撤销访问权限"
+   },
+   "SharedFolderSettings_RoleAdmin": {
+      "message": "管理"
+   },
+   "SharedFolderSettings_RoleLimitedUser": {
+      "message": "有限的用户"
+   },
+   "SharedFolderSettings_RoleLimitedUser_Tip": {
+      "message": "只能使用隐藏密码"
+   },
+   "SharedFolderSettings_RoleManager": {
+      "message": "管家"
+   },
+   "SharedFolderSettings_RoleManager_Tip": {
+      "message": "正常 + 管理用户"
+   },
+   "SharedFolderSettings_RoleOwner": {
+      "message": "业主"
+   },
+   "SharedFolderSettings_RoleRegularUser": {
+      "message": "常用用户"
+   },
+   "SharedFolderSettings_RoleRegularUser_Tip": {
+      "message": "读-写显示密码"
+   },
+   "SharedFolderSettings_SaveChanges": {
+      "message": "应用"
+   },
+   "SharedFolderSettings_SendInvite": {
+      "message": "加"
+   },
+   "SharedFolderSettings_SentBy_Text": {
+      "message": "由谁发送于%1"
+   },
+   "SharedFolderSettings_SharedWith_Title": {
+      "message": "谁有权访问："
+   },
+   "SharedFoldersConfirmation_Title": {
+      "message": "RoboForm用户希望与您分享一些RoboForm数据。 n请接受或拒绝下面的共享文件夹："
+   },
+   "ShowBrowserActionPopup_Text": {
+      "message": "启用弹出RoboForm工具栏"
+   },
+   "ShowLowerToolbarForPopup_Text": {
+      "message": "为弹出窗口显示较低的RoboForm工具栏"
+   },
+   "ShowLowerToolbar_Text": {
+      "message": "显示较低的RoboForm工具栏"
+   },
+   "ShowOptionsDlg_Link_Text": {
+      "message": "更多选项。。。"
+   },
+   "StartPage_RecentlyUsed": {
+      "message": "最近用"
+   },
+   "Toolbar_Chrome_Match_Title": {
+      "message": "添加:"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "设置表单填写"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "为填写长的注册信息和表单创建个人信息"
+   },
+   "Toolbar_Identity_Fill_HelpMsg_HeaderText": {
+      "message": "用身份去填表"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "自定义搜索框"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "您确定要删除在'%1'的用户数据吗？\n- %2 个人信息，\n- %3 密码卡片，\n-%4 保密笔记本，\n- %5 其它文件。\n\n一旦删除了， 这些个人文件将会丢失。"
+   }
+}

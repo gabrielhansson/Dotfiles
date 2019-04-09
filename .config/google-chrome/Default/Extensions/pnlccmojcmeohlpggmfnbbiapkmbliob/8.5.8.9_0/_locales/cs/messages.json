@@ -1,0 +1,308 @@
+{
+   "CheckedRunMB_CheckButton": {
+      "message": "Toto příště neukazovat"
+   },
+   "Cmd_About_Key": {
+      "message": "&O..."
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Zrušit"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "Vyčistit políčka"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Vymazat seznam)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Zavřít"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Jste si jistý, že chcete smazat %1 '%2'?"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Upravit"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Vyplnit pouze &Prázdná pole"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Vyplnit formulář"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Jdi plnit"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Jdi do"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "Celé &FAQ"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "Totožnosti"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Přihlášení"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Přihlášení"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Odhlásit"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "Jméno &adresáře:"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Nový adresář"
+   },
+   "Cmd_New_Flat": {
+      "message": "Nový"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Nastavení"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "Obnovit políčka"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "Generátor"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "Tajné záznamy"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Uložit"
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "Nastavit políčka"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Vyčistit políčka"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Vyplnit, odeslat"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RoboForm Nastavení"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Obnovit políčka"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Generátor hesel"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Uložit formuláře"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Nastavit políčka"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "Vytvořit zablokovanou Kartu - RoboForm"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "Odblokovat server - RoboForm"
+   },
+   "Editor_Menu_View": {
+      "message": "&Zobrazit"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "Editovat"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "&Vyplň form."
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "Vyplň && &odešli"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "Heslo:"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "Vložte vaše jméno a vyberte zemi, kde žijete."
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "Další odpovídající řetězce"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "Jméno políčka"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "Hodnota políčka"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "Nová Totožnost"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Délka hlavního hesla musí být mezi %1 a %2 znaky"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "&Nové hlavní heslo:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "&Staré hlavní heslo:"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "Zakázat klávesové Z&kratky RoboFormu v prohlížeči"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "'Vyplnit && Odeslat' je &výchozí akce pro Moje Totožnosti"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "Jestliže zaškrtnuto: výchozí akce pro Moje Totožnosti je Vyplnit&&Odeslat. Jestliže není zaškrtnuto: výchozí akce pro Moje Totožnosti je Vyplnit formulář"
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "'Vyplnit && &Odeslat' je výchozí akce pro Odpovídající Karty"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "Jestliže zaškrtnuto: výchozí akce pro Odpovídající Karty je Vyplnit&&Odeslat. Jestliže není zaškrtnuto: výchozí akce pro Odpovídající Karty je Vyplnit formulář"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Klávesnice"
+   },
+   "Options_Main_Title": {
+      "message": "Nastavení RoboForm"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "Maximální počet položek zobrazených v seznamu Naposled použitých"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "Maximální počet položek zobrazených v seznamu Naposled použitých"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "Nabídnout k Autoulože&ní webové (HTML) formuláře"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "Nabídnout k Autouložení: když odešlete vyplnění přihlašovací formulář, nabídne možnost Autouložení do Karty"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Používat také &Pravý ALT pro zkratky"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Jestliže je zaškrtnuto, pak stisknutí pravého ALTu + Klávesy vyvolá klávesovou zkratku RoboFormu a také levého ALTu + Klávesy. Jestliže není zaškrtnuto, pouze stisk levého ALTu + Klávesy vyvolá zkratku RoboForm"
+   },
+   "Options_Search_Title": {
+      "message": "Hledání"
+   },
+   "Options_Security_Title": {
+      "message": "Zabezpečení"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Seznam zkratek"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Seznam klávesových zkratek RoboFormu v prohlížeči. Můžete je odděleně zapnout/vypnout."
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "Přidat pole"
+   },
+   "PassCards_Note": {
+      "message": "Poznámka"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "&Počet znaků"
+   },
+   "PassGen_Copy": {
+      "message": "&Kopírovat"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Okopírovat vygenerované heslo do schránky"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "Vyloučit podobné znaky"
+   },
+   "PassGen_Fill": {
+      "message": "&Vyplnit"
+   },
+   "PassGen_Generate": {
+      "message": "&Generovat"
+   },
+   "PassGen_LeastNumber": {
+      "message": "Minimální počet čísel:"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Hexadecimální 0-9, A-F"
+   },
+   "RI_Country": {
+      "message": "Země"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Banka"
+   },
+   "RI_Group_Business": {
+      "message": "Pracovní"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Kreditní karta"
+   },
+   "RI_Group_Custom": {
+      "message": "Uživatelské"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Standardní heslo"
+   },
+   "RI_Group_Location": {
+      "message": "Adresa"
+   },
+   "RI_Group_Person": {
+      "message": "Osobní"
+   },
+   "Reg_Name_Prompt": {
+      "message": "&První a poslední jméno"
+   },
+   "RoboformType_Identities": {
+      "message": "Totožnosti"
+   },
+   "RoboformType_Identity": {
+      "message": "Totožnost"
+   },
+   "RoboformType_Safenote": {
+      "message": "Tajná poznámka"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Tajné poznámky"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "Povolit Autoukládání"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "E&xistující Karty:"
+   },
+   "SearchAction_QueryText": {
+      "message": "dotaz"
+   },
+   "SearchAction_Search_In": {
+      "message": "Hledat '%%query%%' v %1"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "Hledat '%%query%%' v názvech RoboForm"
+   },
+   "Search_Combo_Title": {
+      "message": "Vyhledávání"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "Editovat '%1'"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "Přihlásit k '%1'"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "Editovat '%1'"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "Nová Totožnost"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "Vytvoří Totožnost pro vyplňování formulářů. Poté co vyplníte vaše osobní údaje do Totožnosti, klikněte na název Totožnosti v liště RoboFormu a internetové formuláře budou vyplněny údaji z této Totožnosti"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "Upravit vyhledávací pole"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "Jste si jisti, že chcete smazat vaše osobní data umístěná v '%1'?\n- %2 Totožnosti,\n- %3 Karty,\n- %4 Tajné poznámky,\n- %5 jiné soubory.\n\nJakmile budou smazány, veškerá data budou ztracena."
+   }
+}

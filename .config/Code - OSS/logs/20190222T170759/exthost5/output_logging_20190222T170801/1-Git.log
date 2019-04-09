@@ -1,0 +1,16 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/whiz
+> git status -z -u
+> git show :Code/Rust/Book/helloWorl.rs
+> git ls-files --stage -- Code/Rust/Book/
+> git symbolic-ref --short HEAD
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git

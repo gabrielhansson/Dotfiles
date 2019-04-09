@@ -1,0 +1,1157 @@
+{
+   "About_Version2": {
+      "message": "バージョン:"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "ライセンスはすでに %1 日前に有効期限切れとなっています。"
+   },
+   "Activate_VisitSupportLink_Text": {
+      "message": "サポートへ連絡"
+   },
+   "Android_accept": {
+      "message": "受諾"
+   },
+   "Android_audit_duplicates_title": {
+      "message": "重複"
+   },
+   "Android_matching_dialog_title": {
+      "message": "一致するログイン帳"
+   },
+   "Android_menu_title_web_fill_identity": {
+      "message": "アイデンティティからフォーム記入"
+   },
+   "Android_pref_set_master_password_title": {
+      "message": "マスターパスワード設定"
+   },
+   "Android_received_has_no_permissions": {
+      "message": "No enough permissions"
+   },
+   "Android_s_oreg_wait": {
+      "message": "処理中..."
+   },
+   "Android_setting_category_tools_title": {
+      "message": "ツール"
+   },
+   "Android_wrong_password_error": {
+      "message": "パスワードが違います"
+   },
+   "AutoSaveBar_PasswordEdit_Cuebanner": {
+      "message": "パスワード入力"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "このダイアログを表示しない"
+   },
+   "Cmd_About_Key": {
+      "message": "製品情報(&A)..."
+   },
+   "Cmd_ApplyChanges_Flat": {
+      "message": "保存"
+   },
+   "Cmd_Bookmarks_Flat": {
+      "message": "ブックマーク"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "キャンセル"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "クリア"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(履歴消去)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "閉じる"
+   },
+   "Cmd_Contacts_Flat": {
+      "message": "連絡先"
+   },
+   "Cmd_CreateGroup_Key": {
+      "message": "グループを作成..."
+   },
+   "Cmd_CreateSharedFolder_Key": {
+      "message": "共有フォルダを作成"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": " %1'%2'を削除します。よろしいですか?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "削除"
+   },
+   "Cmd_Done_Flat": {
+      "message": "完了"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "編集"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "未記入欄のみ記入(&O)"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "フォーム記入"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "行って記入"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "行く"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "ＦＡＱ(&F)"
+   },
+   "Cmd_Help_Flat": {
+      "message": "ヘルプ"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "アイデンティティ"
+   },
+   "Cmd_Login_Flat": {
+      "message": "ログイン"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "ログイン"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "ログオフ"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "フォルダ名(&N):"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "新規フォルダ"
+   },
+   "Cmd_New_Flat": {
+      "message": "新規"
+   },
+   "Cmd_Options_Flat": {
+      "message": "オプション"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "セキュリティセンター"
+   },
+   "Cmd_PasswordAuditRun_Tip": {
+      "message": "セキュリティセンターを開く"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "名前変更"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "次の名前に変更:"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "再設定"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "ロボフォーム"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "作成"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "メモ"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "保存"
+   },
+   "Cmd_SendFile_Flat": {
+      "message": "送信"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "送信&(S)..."
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "設定"
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "共有..."
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "ロボフォームアカウントの管理(&M)"
+   },
+   "Cmd_Sync_Tip": {
+      "message": "手動で同期を開始"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "同期"
+   },
+   "Contacts_Cmd_New_Tip": {
+      "message": "新しい連絡先を作成します"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "RF 記入欄クリア"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "RF 記入して送信"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RF オプション"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "RF 記入欄リセット"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "RF パスワードジェネレータ"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "RF フォーム保存"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "RF 記入欄セット"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "ブロックログイン帳作成 - ロボフォーム"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "ブロックを解除 - ロボフォーム"
+   },
+   "DeleteSharedFolder_ManagerCaption": {
+      "message": "このフォルダ'%1'を本当に削除しますか？共有フォルダを共有しているすべての人に影響します。"
+   },
+   "Editor_Indicator_ShowAll": {
+      "message": "すべて表示"
+   },
+   "Editor_Menu_View": {
+      "message": "表示(&V)"
+   },
+   "EmailIncorrect_Error": {
+      "message": "電子メールが正しくありません。"
+   },
+   "EmergencyAccess_AcceptInvitation_Error": {
+      "message": "\"%1\" からの招待を受諾することができません: %2"
+   },
+   "EmergencyAccess_Accept_Invitation_Text": {
+      "message": "許可"
+   },
+   "EmergencyAccess_AccessGranted_Status": {
+      "message": "アクセス許可"
+   },
+   "EmergencyAccess_AccessRequestedDaysHours_Status": {
+      "message": "要求済。データは %1 日と %2 時間以内に有効となります。"
+   },
+   "EmergencyAccess_AccessRequestedDays_Status": {
+      "message": "要求済。データは %1 日以内に有効となります。"
+   },
+   "EmergencyAccess_AccessRequestedHours_Status": {
+      "message": "要求済。データは %1 時間以内に有効となります。"
+   },
+   "EmergencyAccess_AccessRequested_Status": {
+      "message": "要求"
+   },
+   "EmergencyAccess_AddContact_Banner": {
+      "message": "連絡先メールを入力..."
+   },
+   "EmergencyAccess_AddContact_Email_Caption": {
+      "message": "メール"
+   },
+   "EmergencyAccess_AddContact_Timeout_Caption": {
+      "message": "タイムアウト"
+   },
+   "EmergencyAccess_AddContact_Title": {
+      "message": "連絡先追加"
+   },
+   "EmergencyAccess_Cancel_Text": {
+      "message": "キャンセル"
+   },
+   "EmergencyAccess_Close_Text": {
+      "message": "閉じる"
+   },
+   "EmergencyAccess_ContactAccepted_Status": {
+      "message": "受諾"
+   },
+   "EmergencyAccess_ContactInvited_Status": {
+      "message": "招待"
+   },
+   "EmergencyAccess_ContactRejected_Status": {
+      "message": "拒絶"
+   },
+   "EmergencyAccess_ContactsCount_Title": {
+      "message": "連絡先 (%1)"
+   },
+   "EmergencyAccess_Contacts_Title": {
+      "message": "連絡先"
+   },
+   "EmergencyAccess_Download": {
+      "message": "ダウンロード"
+   },
+   "EmergencyAccess_DownloadAll_Text": {
+      "message": "すべてダウンロード"
+   },
+   "EmergencyAccess_GetData_Error": {
+      "message": "\"%1\" からデータを取得することはできません: %2"
+   },
+   "EmergencyAccess_GetData_Help_Text": {
+      "message": "これは %1 アカウント項目です。これらをあなたのアカウントにダウンロードすることができます。これらは \"Emergency Acess\" フォルダにダウンロードされます。"
+   },
+   "EmergencyAccess_GetData_Request_Text": {
+      "message": "データ取得"
+   },
+   "EmergencyAccess_GetInfo_Error": {
+      "message": "緊急アカウントの情報を取得できません : %1"
+   },
+   "EmergencyAccess_GrantAccess_Error": {
+      "message": "連絡先 \"%1\" にアクセスを与えることができません: %2"
+   },
+   "EmergencyAccess_GrantAccess_Text": {
+      "message": "供与"
+   },
+   "EmergencyAccess_Help_Add_Hint": {
+      "message": "あなたの緊急連絡先となっている方が、あなたのロボフォームのデータにアクセスする場合は、あなたが設定した有効期間が切れるまで待つ必要があります。有効期間においては、いつでもあなたは緊急アクセスの要求を拒否することが可能です。"
+   },
+   "EmergencyAccess_Help_Hint": {
+      "message": "信頼のおける連絡先を選択して、ロボフォームのデータへのアクセスを安全に取得してください（死亡、障害時等の緊急アクセス）。"
+   },
+   "EmergencyAccess_Invite_Error": {
+      "message": "連絡先 \"%1\" に連絡できません: %2"
+   },
+   "EmergencyAccess_Name_Title": {
+      "message": "名前"
+   },
+   "EmergencyAccess_Open": {
+      "message": "開く"
+   },
+   "EmergencyAccess_Others_Title": {
+      "message": "その他"
+   },
+   "EmergencyAccess_RejectAccess_Error": {
+      "message": "\"%1\" からのアクセスを拒否できません: %2"
+   },
+   "EmergencyAccess_RejectInvitation_Error": {
+      "message": "\"%1\" を拒否できません: %2"
+   },
+   "EmergencyAccess_RejectInvitation_Question": {
+      "message": "あなたは \"%1\" の緊急連絡先となることを拒否します。"
+   },
+   "EmergencyAccess_Reject_Invitation_Text": {
+      "message": "拒絶"
+   },
+   "EmergencyAccess_RequestAccess_Error": {
+      "message": " \"%1\" へのアクセス要求はできません: %2"
+   },
+   "EmergencyAccess_Request_Access_Text": {
+      "message": "アクセス"
+   },
+   "EmergencyAccess_RevokeAccess_Text": {
+      "message": "取消"
+   },
+   "EmergencyAccess_Revoke_Error": {
+      "message": "連絡先 \"%1\" を取り消すことができません: %2"
+   },
+   "EmergencyAccess_Revoke_Question": {
+      "message": "緊急時の連絡先として \"%1\" を取り消そうとしています。"
+   },
+   "EmergencyAccess_Revoke_Tip": {
+      "message": "取消"
+   },
+   "EmergencyAccess_Save_Text": {
+      "message": "保存"
+   },
+   "EmergencyAccess_SendInvite_Text": {
+      "message": "追加"
+   },
+   "EmergencyAccess_Status_Title": {
+      "message": "状態"
+   },
+   "EmergencyAccess_TestatorsCount_Title": {
+      "message": "遺言者 (%1)"
+   },
+   "EmergencyAccess_Testators_Title": {
+      "message": "遺言者"
+   },
+   "EmergencyAccess_Timeout12hours_Text": {
+      "message": "12時間"
+   },
+   "EmergencyAccess_Timeout14days_Text": {
+      "message": "14日"
+   },
+   "EmergencyAccess_Timeout24hours_Text": {
+      "message": "24時間"
+   },
+   "EmergencyAccess_Timeout2days_Text": {
+      "message": "2日"
+   },
+   "EmergencyAccess_Timeout30days_Text": {
+      "message": "30日"
+   },
+   "EmergencyAccess_Timeout3days_Text": {
+      "message": "3日"
+   },
+   "EmergencyAccess_Timeout7days_Text": {
+      "message": "7日"
+   },
+   "EmergencyAccess_TimeoutCustomDaysHours_Text": {
+      "message": "%1 日 %2 時間"
+   },
+   "EmergencyAccess_TimeoutCustomDays_Text": {
+      "message": "%1 日"
+   },
+   "EmergencyAccess_TimeoutCustomHours_Text": {
+      "message": "%1 時間"
+   },
+   "EmergencyAccess_TimeoutImmediately_Text": {
+      "message": "すぐに"
+   },
+   "EmergencyAccess_Timeout_Title": {
+      "message": "タイムアウト"
+   },
+   "EmergencyAccess_Title": {
+      "message": "緊急アクセス"
+   },
+   "EmergencyAccess_Update_Error": {
+      "message": "連絡先 \"%1\" の情報を更新できません: %2"
+   },
+   "FillDlg_All_Identities_Key": {
+      "message": "すべてのアイデンティティを表示"
+   },
+   "FillDlg_All_Passcards_Key": {
+      "message": "すべてのログイン帳を表示"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "編集"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "フォームを記入(&F)"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "記入して送信"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "パスワード:"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "お名前を入力してお住まいの国名をお選びください。"
+   },
+   "FocusSearchBox_Text": {
+      "message": "自動でロボフォーム検索ボックスにフォーカス"
+   },
+   "HorizontalToolbar_Text": {
+      "message": "水平にポップアップツールバーを配置"
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "その他の適合例"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "記入欄名"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "記入値"
+   },
+   "Identities_Cmd_New_Contact_Title": {
+      "message": "新規連絡先"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "新規アイデンティティ"
+   },
+   "Import_BookmarkFrom_Title": {
+      "message": "ここからブックマークをインポート"
+   },
+   "Import_BookmarksAddedCount_Text": {
+      "message": "%1 個のブックマークが追加されました。\n"
+   },
+   "Import_BookmarksExistedCount_Text": {
+      "message": "%1 個のブックマークはすでにロボフォームに存在します。\n"
+   },
+   "Import_ImportButton_Text": {
+      "message": "インポート"
+   },
+   "Import_ReportBookmarks_Text": {
+      "message": "%1 個のブックマークが追加されました。\n%2 個のブックマークは既にロボフォームに存在します。\n"
+   },
+   "Import_Succeeded_Title": {
+      "message": "インポートが完了しました"
+   },
+   "Install_Back": {
+      "message": "戻る"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "パスワード確認:"
+   },
+   "Install_CreateMasterPassword_Prompt": {
+      "message": "マスターパスワードはロボフォームのデータを安全に保護するために使用されます。ロボフォームのデータにアクセスする際にマスターパスワードが必要となります。"
+   },
+   "Install_Email": {
+      "message": "メール:"
+   },
+   "Install_Next": {
+      "message": "次へ"
+   },
+   "Install_No": {
+      "message": "いいえ"
+   },
+   "Install_OnlineSetup_Title2": {
+      "message": "ロボフォーム設定"
+   },
+   "Install_PasswordTooShort": {
+      "message": "パスワードは６文字以上の長さが必要です。"
+   },
+   "Install_Yes": {
+      "message": "はい"
+   },
+   "LicenseExpirationWarning_EnterpriseExpired_Title": {
+      "message": "ロボフォーム for Business ライセンスは既に期限切れです。"
+   },
+   "LicenseExpirationWarning_LicenseExpired_Title": {
+      "message": "ライセンスはすでに期限切れです。"
+   },
+   "LicenseExpirationWarning_RenewLink": {
+      "message": "今すぐ更新"
+   },
+   "LicenseExpirationWarning_SelfAdv_EnterpriseCaption": {
+      "message": "御社のロボフォーム管理者にお問い合わせください。"
+   },
+   "LicenseExpirationWarning_SyncIsNotAllowedByLicense": {
+      "message": "同期機能は有料アカウントでのみ有効です。"
+   },
+   "LicenseExpirationWarning_TrialExpired_Title": {
+      "message": "無料の試用期間は終了しています。"
+   },
+   "LicenseExpirationWarning_UpgradeExpl": {
+      "message": "無料版の使用条件を超えています。\nロボフォームの有料ライセンスを取得ください。"
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "マスターパスワードに空白文字を含むことはできません。"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "マスターパスワードには%1文字以上の数字が必要です。"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "マスターパスワードの長さは %1 から %2 文字にしてください。"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "マスターパスワードには%1文字以上の小文字が必要です。"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "パスワードにおいて数字以外の文字の使用は最低限 %1 文字必要です。\n"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "新しいマスターパスワードは古いマスターパスワードとは異なっている必要があります。"
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "マスターパスワードには%1文字以上の大文字が必要です。"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "新しいマスターパスワード(&N):"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "古いマスターパスワード(&O):"
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "名前は空ではダメです。また以下の文字を使わないでください: \\ / : * ? \" \u003C > |"
+   },
+   "NewSharedFolder_Title": {
+      "message": "名前:"
+   },
+   "NewSharedFolder_WindowTitle": {
+      "message": "ロボフォーム - 共有フォルダの作成"
+   },
+   "OpenStartpageOnEmptyTabs_Text": {
+      "message": "空のタブをクリックして拡張機能ボタン上のスタートページを開く"
+   },
+   "Options_AutoSave_AltClickEnable_Text": {
+      "message": "&ALTキーを押しながらログインボタンをクリックで自動保存ダイアログ表示"
+   },
+   "Options_AutoSave_AltClickEnable_Tip": {
+      "message": "ALTキーを押しながらログインボタンをクリックすると自動保存を強制します"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text": {
+      "message": "テキストフィールドでSHIFTキーを押しながら&ENTERを押すと自動保存ダイアログ表示"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Tip": {
+      "message": "テキストフィールドでSHIFTキーを押しながらENTERを押すと自動保存を強制します"
+   },
+   "Options_AutoSave_Title": {
+      "message": "自動保存"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "ブラウザ内のショートカットを有効にする(&H)"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "アイデンティティで '記入と送信(&S)' を既定値とする"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "チェック時: 記入と送信がアイデンティティの既定の動作。チェックなし時: 記入のみが既定の動作。"
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "一致するログイン帳で '記入と送信(&S)' を既定値とする"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "チェック時: 記入と送信が一致するログイン帳の既定の動作。チェックなし時: 記入のみが既定の動作。"
+   },
+   "Options_ImportFrame_Text": {
+      "message": "ロボフォームにインポート"
+   },
+   "Options_Keyboard_Title": {
+      "message": "キーボード"
+   },
+   "Options_Main_Title": {
+      "message": "ロボフォームオプション"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "使用履歴の最大保存数(&N)"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "使用履歴の最大保存数を指定します。"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "ウェブ(HTML)フォームに対して自動保存する(&S)"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "ウェブ(HTML)フォームに対して自動保存ダイアログを表示する"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "右側のALTキーもショートカットとして使う(&R)"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "チェックすると右側のALTキーも左側ALTキーと同様に取り扱う。チェックをはずすと左側ALTキーのみをショートカット用に使う。"
+   },
+   "Options_Search_Title": {
+      "message": "検索"
+   },
+   "Options_Security_Title": {
+      "message": "セキュリティ"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "ショートカットリスト"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "ブラウザでのショートカット一覧。個別に有効/無効を設定できます。"
+   },
+   "Options_Sync_Account_Text": {
+      "message": "アカウント:"
+   },
+   "OvrCfm_Overwrite_Text": {
+      "message": "上書き"
+   },
+   "PassAud_AverageSafetyLevel_Text": {
+      "message": "多くのパスワードは強度が十分でなかったり、同じパスワードが別のサイトで使いまわされています。パスワードを見直してより複雑でランダムなものに置き換えましょう。"
+   },
+   "PassAud_AverageSafetyLevel_Tittle": {
+      "message": "可"
+   },
+   "PassAud_BadSafetyLevel_Text": {
+      "message": "多くの弱いパスワード、複数のサイトで使いまわされているパスワードがあります。サイト毎に異なった複雑で強力なパスワードに置き替えましょう。"
+   },
+   "PassAud_BadSafetyLevel_Tittle": {
+      "message": "不可"
+   },
+   "PassAud_GoodSafetyLevel_Text": {
+      "message": "大変素晴らしいです。これからも強力なパスワードをすべてのサイトで使用してください。"
+   },
+   "PassAud_GoodSafetyLevel_Tittle": {
+      "message": "優良"
+   },
+   "PassAud_ItemAge_Title": {
+      "message": "年"
+   },
+   "PassAud_ItemLocation_Title": {
+      "message": "場所"
+   },
+   "PassAud_ItemName_Title": {
+      "message": "名前"
+   },
+   "PassAud_ItemPasswordStrength_Title": {
+      "message": "パスワード強度"
+   },
+   "PassAud_ItemPassword_Title": {
+      "message": "パスワード"
+   },
+   "PassAud_ItemUrl_Title": {
+      "message": "URL"
+   },
+   "PassAud_MediumSafetyLevel_Text": {
+      "message": "ほとんどのパスワードが十分に強力ですが、いくつかのパスワードが弱かったり、使いまわされています。これらのパスワードを見直してみてください。"
+   },
+   "PassAud_MediumSafetyLevel_Tittle": {
+      "message": "良"
+   },
+   "PassAud_NA_Text": {
+      "message": "セキュリティスコアを見るためにログインを追加"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "良"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "中くらい"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "強力"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "弱い"
+   },
+   "PassAud_ReusedGroup_Title": {
+      "message": "パスワード再利用グループ"
+   },
+   "PassAud_SummaryScore": {
+      "message": "安全性スコア"
+   },
+   "PassAud_TabAllPasswords_Title": {
+      "message": "すべて"
+   },
+   "PassAud_TabCompleteDuplicates_Title": {
+      "message": "重複"
+   },
+   "PassAud_TabReusedkPasswords_Title": {
+      "message": "再利用"
+   },
+   "PassCards_Button_PasswordValuesAsStars_Tip": {
+      "message": "パスワードを星印で表示するかどうかを選べます。"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "記入項目追加"
+   },
+   "PassCards_Cmd_Fields_Flat": {
+      "message": "フィールド"
+   },
+   "PassCards_Note": {
+      "message": "注記"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "文字数(&N)"
+   },
+   "PassGen_Copy": {
+      "message": "コピー(&O)"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "新しく作成されたパスワードをクリップボードにコピーします。"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "類似の文字を排除"
+   },
+   "PassGen_Fill": {
+      "message": "記入(&F)"
+   },
+   "PassGen_Generate": {
+      "message": "新規作成(&G)"
+   },
+   "PassGen_LeastNumber": {
+      "message": "最小数字数(&M):"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "高度な設定"
+   },
+   "PassGen_UseHexChars": {
+      "message": "16進数のみ: 0-9, A-F(&H)"
+   },
+   "Passw_Account_Title": {
+      "message": "ロボフォームアカウント用:"
+   },
+   "Passw_ChangeAccount": {
+      "message": "アカウント変更"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "このコマンドはポリシにより禁止されています。"
+   },
+   "Policy_DisableNonGroupData_Message": {
+      "message": "ポリシーにより禁止されています。グループ内でのみデータを作成できます。"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "マスターパスワードの変更や生成はポリシにより禁止されています。"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "今すぐアップグレード"
+   },
+   "RFOError_PasswordIsEmpty": {
+      "message": "パスワードがありません。"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "ロボフォームエブリウェアのユーザＩＤまたはパスワードが違うようです。"
+   },
+   "RFOSetup_CreateNewAccount": {
+      "message": "新しいロボフォームアカウントを作成"
+   },
+   "RFOSetup_EnterAccountId": {
+      "message": "電子メールまたはユーザID:"
+   },
+   "RFOSetup_SuspendedAccount_Error": {
+      "message": "ロボフォームオンラインアカウント'%1' は留保されています。"
+   },
+   "RFO_EnterOTP_Text2": {
+      "message": "ワンタイムパスワード:"
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "ワンタイムパスワード"
+   },
+   "RFO_TwoFactorIsOn_Text2": {
+      "message": "ワンタイムパスワードの設定がオンになっています。\nこの設定では新しいデバイスやブラウザからのアクセスにおいて、ワンタイムパスワードの返送が必要です。"
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "ワンタイムパスワードが所定の電子メールに送られています。"
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "ワンタイムパスワードが所定の携帯電話にSMSで送られています。"
+   },
+   "RFO_TwoFactor_Generic_Text": {
+      "message": "ワンタイムパスワードを返送してください。"
+   },
+   "RI_Country": {
+      "message": "国名"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "銀行口座"
+   },
+   "RI_Group_Business": {
+      "message": "会社"
+   },
+   "RI_Group_Car": {
+      "message": "自動車"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "クレジットカード"
+   },
+   "RI_Group_Custom": {
+      "message": "カスタム"
+   },
+   "RI_Group_Default_Password": {
+      "message": "既定のパスワード"
+   },
+   "RI_Group_Location": {
+      "message": "住所"
+   },
+   "RI_Group_Passport": {
+      "message": "パスポート"
+   },
+   "RI_Group_Person": {
+      "message": "個人"
+   },
+   "Reg_Name_Prompt": {
+      "message": "姓名(&F)"
+   },
+   "RejectFolder_Caption": {
+      "message": "自分自身の共有フォルダ'%1' を拒否します。"
+   },
+   "RejectSharedFolder_WarningMessage": {
+      "message": "フォルダ '%1'からのデータへのアクセスを失います。このフォルダを拒否してよろしいですか？"
+   },
+   "RoboformType_Bookmark": {
+      "message": "ブックマーク"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "ブックマーク"
+   },
+   "RoboformType_Contact": {
+      "message": "連絡先"
+   },
+   "RoboformType_Contacts": {
+      "message": "連絡先"
+   },
+   "RoboformType_File": {
+      "message": "ファイル"
+   },
+   "RoboformType_Files": {
+      "message": "ファイル"
+   },
+   "RoboformType_Folder": {
+      "message": "フォルダ"
+   },
+   "RoboformType_Folders": {
+      "message": "フォルダ"
+   },
+   "RoboformType_Identities": {
+      "message": "アイデンティティ"
+   },
+   "RoboformType_Identity": {
+      "message": "アイデンティティ"
+   },
+   "RoboformType_Login": {
+      "message": "ログイン"
+   },
+   "RoboformType_Logins": {
+      "message": "ログイン"
+   },
+   "RoboformType_Safenote": {
+      "message": "メモ"
+   },
+   "RoboformType_Safenotes": {
+      "message": "メモ"
+   },
+   "RoboformType_Searchcard": {
+      "message": "検索帳"
+   },
+   "RoboformType_Searchcards": {
+      "message": "検索帳"
+   },
+   "SafeNotes_Cmd_New_Title": {
+      "message": "新規メモ"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "自動保存を許可"
+   },
+   "SaveDlg_Existing_Login_Selector": {
+      "message": "置換え:"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "ログイン帳を置換(&X):"
+   },
+   "SaveDlg_FinalMessage_LoginSaved_Text2": {
+      "message": "ログインを保存完了しました。"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "フォルダ:"
+   },
+   "SaveDlg_Name_Text": {
+      "message": "名前:"
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "以降このサイトでは無し"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "フォルダ作成..."
+   },
+   "SaveDlg_NewSafenote_Title2": {
+      "message": "新規メモ作成"
+   },
+   "SaveDlg_New_Login_Selector": {
+      "message": "名前:"
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "ブックマーク"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "ログイン"
+   },
+   "SaveDlg_SaveBookmarkQuestion_Text": {
+      "message": "ロボフォームにブックマークを保存しますか？"
+   },
+   "SaveDlg_SaveLoginQuestion_Text": {
+      "message": "ロボフォームにパスワードを保存しますか？"
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "ロック解除"
+   },
+   "SearchAction_QueryText": {
+      "message": "フレーズ"
+   },
+   "SearchAction_Search_In": {
+      "message": "%1 から '%%query%%' を検索"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "ロボフォームから '%%query%%' を検索"
+   },
+   "Search_Combo_Title": {
+      "message": "検索"
+   },
+   "Search_Def_Action_Bookmark": {
+      "message": "'%1'に行く"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "'%1'を編集"
+   },
+   "Search_Def_Action_Identity_Toolbar": {
+      "message": "'%1'から記入"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "'%1'にログイン"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "'%1'を編集"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "ロボフォームは以下の重要項目を記入しました。ご自身でこの記入が問題が無いか確認ください:"
+   },
+   "SensitiveFields_Title2": {
+      "message": "重要情報フィールドを検出 - ロボフォーム"
+   },
+   "Setup_ConfirmMasterPassword_Password_Text": {
+      "message": "マスターパスワード:"
+   },
+   "Setup_ConfirmMasterPassword_Prompt": {
+      "message": "マスターパスワードを正しく入力してください。"
+   },
+   "Setup_ConfirmMasterPassword_Title": {
+      "message": "マスターパスワードの確認"
+   },
+   "Setup_LoginWithExistingAccount_Text": {
+      "message": "既存のアカウントでログイン"
+   },
+   "Setup_MasterPassword_HeaderSubtitle": {
+      "message": "マスターパスワードを知っているのはあなただけ"
+   },
+   "Setup_Welcome_HeaderTitle": {
+      "message": "ロボフォームへようこそ"
+   },
+   "Setup_Welcome_Title": {
+      "message": "無料アカウントの作成"
+   },
+   "SharedFileSettings_Close": {
+      "message": "閉じる"
+   },
+   "SharedFileSettings_InfoDescription": {
+      "message": "ファイルのコピー、移動、名前変更、削除が可能です。"
+   },
+   "SharedFileSettings_Loading": {
+      "message": "読み込み中..."
+   },
+   "SharedFileSettings_Revoke_Tip": {
+      "message": "取消"
+   },
+   "SharedFileSettings_SendOneItem_Title": {
+      "message": "%1 を送る"
+   },
+   "SharedFileSettings_SentBy": {
+      "message": "%1 により送信"
+   },
+   "SharedFileSettings_SharedWith": {
+      "message": "アクセス権保持者:"
+   },
+   "SharedFileSettings_Title": {
+      "message": "ロボフォーム共有"
+   },
+   "SharedFile_Revoke_Confirmation": {
+      "message": "ユーザ %2 から共有ファイル'%1' の共有を取り消しますか？ "
+   },
+   "SharedFilesConfirmation_Title": {
+      "message": "別のロボフォームユーザがロボフォームの特定のデータファイルをあなたと共有したいと申し出ています。\n受諾するか拒否するか、ここでご判断ください:"
+   },
+   "SharedFolderSettings_AddRecipientBanner": {
+      "message": "メールアドレス入力..."
+   },
+   "SharedFolderSettings_AddRecipient_Title": {
+      "message": "受信者追加:"
+   },
+   "SharedFolderSettings_CancelChanges": {
+      "message": "キャンセル"
+   },
+   "SharedFolderSettings_CreatedByMe_Text": {
+      "message": "あなたが作成"
+   },
+   "SharedFolderSettings_DeleteSharedFolder": {
+      "message": "削除"
+   },
+   "SharedFolderSettings_LimitedDescription": {
+      "message": "フォルダ内のログインのみ利用可能です。"
+   },
+   "SharedFolderSettings_LimitedDescription2": {
+      "message": "このフォルダの項目が利用可能です。"
+   },
+   "SharedFolderSettings_ManagerDescription": {
+      "message": "フォルダを共有して編集可能です。"
+   },
+   "SharedFolderSettings_Permissions_FullControl": {
+      "message": "フルコントロール"
+   },
+   "SharedFolderSettings_Permissions_FullControl_Prompt": {
+      "message": "フルアクセス権。受信者はすべての項目について閲覧、編集、許可レベルの変更が可能で、さらに受信者の追加と削除(オリジナルの送信者を含む)が可能です。"
+   },
+   "SharedFolderSettings_Permissions_FullControl_Tip": {
+      "message": "読み書きと共有オーナー"
+   },
+   "SharedFolderSettings_Permissions_ReadWrite": {
+      "message": "読み書き"
+   },
+   "SharedFolderSettings_Permissions_ReadWrite_Prompt": {
+      "message": "受信者は共有フォルダ内のロボフォームデータを閲覧、編集可能です。データに変更を加えるとその変更は他の受信者と送信者にも伝播します。"
+   },
+   "SharedFolderSettings_Permissions_ReadWrite_Tip": {
+      "message": "読み書き、非オーナー"
+   },
+   "SharedFolderSettings_Permissions_UseOnly": {
+      "message": "ログインのみ"
+   },
+   "SharedFolderSettings_Permissions_UseOnly_Prompt": {
+      "message": "受信者は共有フォルダ内のロボフォームデータを編集したり、共有したりする事はできません。ウェブサイトやアプリへのログインのみが可能です(エディタなどでパスワードを見ることはできません)。なお、アイデンティティやメモの内容はエディタで閲覧可能です。"
+   },
+   "SharedFolderSettings_Permissions_UseOnly_Tip": {
+      "message": "ログインのみ、パスワード非表示"
+   },
+   "SharedFolderSettings_RecipientEmail_Caption": {
+      "message": "受信者メール"
+   },
+   "SharedFolderSettings_RecipientPermissions_Caption": {
+      "message": "許可レベル"
+   },
+   "SharedFolderSettings_RecipientRole_Caption": {
+      "message": "役割"
+   },
+   "SharedFolderSettings_RegularDescription": {
+      "message": "フォルダを編集可能です。"
+   },
+   "SharedFolderSettings_RejectSharedFolder": {
+      "message": "拒否"
+   },
+   "SharedFolderSettings_Revoke_Tip": {
+      "message": "廃止"
+   },
+   "SharedFolderSettings_RoleAdmin": {
+      "message": "アドミン"
+   },
+   "SharedFolderSettings_RoleLimitedUser": {
+      "message": "制限ユーザ"
+   },
+   "SharedFolderSettings_RoleLimitedUser_Tip": {
+      "message": "使用のみ(パスワード非表示)"
+   },
+   "SharedFolderSettings_RoleManager": {
+      "message": "管理者"
+   },
+   "SharedFolderSettings_RoleManager_Tip": {
+      "message": "一般ユーザと管理者"
+   },
+   "SharedFolderSettings_RoleRegularUser": {
+      "message": "一般ユーザ"
+   },
+   "SharedFolderSettings_RoleRegularUser_Tip": {
+      "message": "ログインの読み書きと表示"
+   },
+   "SharedFolderSettings_SaveChanges": {
+      "message": "変更を適用"
+   },
+   "SharedFolderSettings_SendInvite": {
+      "message": "追加"
+   },
+   "SharedFolderSettings_SentBy_Text": {
+      "message": "%1から送信"
+   },
+   "SharedFolderSettings_SharedWith_Title": {
+      "message": "アクセス権保持者:"
+   },
+   "SharedFolderSettings_StopSharingFolder": {
+      "message": "共有を停止"
+   },
+   "SharedFoldersConfirmation_Title": {
+      "message": "別のロボフォームユーザがロボフォームの特定のデータフォルダをあなたと共有したいと申し出ています。\n受諾するか拒否するか、ここでご判断ください:"
+   },
+   "ShowBrowserActionPopup_Text": {
+      "message": "ポップアップロボフォームツールバー表示"
+   },
+   "ShowLowerToolbarForPopup_Text": {
+      "message": "ポップアップ用に下ロボフォームツールバーを表示"
+   },
+   "ShowLowerToolbar_Text": {
+      "message": "下ロボフォームツールバー表示"
+   },
+   "ShowOptionsDlg_Link_Text": {
+      "message": "もっと..."
+   },
+   "StartPage_RecentlyUsed": {
+      "message": "最近使用したもの"
+   },
+   "StopSharingFolder_WarningMessage": {
+      "message": "共有フォルダ'%1'の共有を停止しようとしています。共有フォルダの内容は個人用としては残ります。一方、共有フォルダの利用者は利用権を失い、フォルダは削除されます。（あなたが最後の管理者、またはグループの管理者の場合）。よろしいですか？"
+   },
+   "Toolbar_Chrome_Match_Title": {
+      "message": "フォーム記入:"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "新規アイデンティティ作成"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "新しいアイデンティティを作成します。"
+   },
+   "Toolbar_Identity_Fill_HelpMsg_HeaderText": {
+      "message": "アイデンティティを使って記入"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "検索カスタマイズ"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "以下にあるユーザデータを削除しますか: '%1'?\n- %2 アイデンティティ\n- %3 ログイン帳\n- %4 メモ\n- %5 その他\n\n削除するとこれらの個人ファイルは消失します。"
+   }
+}

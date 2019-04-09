@@ -1,0 +1,785 @@
+{
+   "About_Version2": {
+      "message": "Version:"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "Licensen udløb for %1 dag(e) siden"
+   },
+   "Activate_VisitSupportLink_Text": {
+      "message": "Kontakt support"
+   },
+   "AutoSaveBar_PasswordEdit_Cuebanner": {
+      "message": "Angiv kodeord"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Vis ikke denne besked igen"
+   },
+   "Cmd_About_Key": {
+      "message": "&Om..."
+   },
+   "Cmd_ApplyChanges_Flat": {
+      "message": "Gem"
+   },
+   "Cmd_Bookmarks_Flat": {
+      "message": "Bogmærker"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Fortryd"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "Ryd felter"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Ryd liste)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Luk"
+   },
+   "Cmd_Contacts_Flat": {
+      "message": "Kontakter"
+   },
+   "Cmd_CreateSharedFolder_Key": {
+      "message": "Opret delt mappe"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Vil du slette %1 '%2'?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Slet"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Redigér"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Udfyld &kun tomme felter"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Udfyld"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Gå til && udfyld"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Gå til"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "&FAQ (ofte stillede spørgsmål)"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Hjælp"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "Identiteter"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Login"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Login"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Logaf"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "Mappe&navn:"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Ny mappe"
+   },
+   "Cmd_New_Flat": {
+      "message": "Ny"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Indstillinger"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Kodeordstest"
+   },
+   "Cmd_PasswordAuditRun_Tip": {
+      "message": "Åben kodeordstest"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Omdøb"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Omdøb til:"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "Nulstil felter"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "Generér"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "Sikre noter"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Gem"
+   },
+   "Cmd_SendFile_Flat": {
+      "message": "Send"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "&Send"
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "Afkryds felter"
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Delt mappe indstillinger"
+   },
+   "Cmd_Sync_Tip": {
+      "message": "Start synkronisering manuelt"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Synkroniser"
+   },
+   "Contacts_Cmd_New_Tip": {
+      "message": "Opret ny Kontakt"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Ryd felter"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Udfyld & send"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "Indstillinger"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Nulstil felter"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Kodeordsgenerator"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Gem formularer"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Afkryds felter"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "Blokerende Adgangskort - RoboForm"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "Afbloker websted - RoboForm"
+   },
+   "DeleteSharedFolder_ManagerCaption": {
+      "message": "Vil du slette mappen '%1' permanent? Alle modtagere deaktiveres."
+   },
+   "Editor_Indicator_ShowAll": {
+      "message": "Vis alt"
+   },
+   "Editor_Menu_View": {
+      "message": "&Vis"
+   },
+   "FillDlg_All_Identities_Key": {
+      "message": "Vis alle Identiteter"
+   },
+   "FillDlg_All_Passcards_Key": {
+      "message": "Vis alle Adgangskort"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "Rediger"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "&Udfyld"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "Udfyld && &send"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "Kodeord:"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "Indtast navn og vælg dit land"
+   },
+   "FocusSearchBox_Text": {
+      "message": "Sæt automatisk fokus på RoboForms søgeboks"
+   },
+   "HorizontalToolbar_Text": {
+      "message": "Vis værktøjslinieemner vandret"
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "Andre feltværdier"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "Feltnavn"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "Feltværdi"
+   },
+   "Identities_Cmd_New_Contact_Title": {
+      "message": "Ny Kontakt"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "Ny Identitet"
+   },
+   "Install_Back": {
+      "message": "Tilbage"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "Bekræft kodeord:"
+   },
+   "Install_CreateMasterPassword_Prompt": {
+      "message": "Masterkodeordet bruges til at beskytte de brugerdata du gemmer i RoboForm. Du vil blive bedt om at angive dit Masterkodeord for at åbne dine beskyttede RoboForm data."
+   },
+   "Install_Email": {
+      "message": "Email:"
+   },
+   "Install_Next": {
+      "message": "Næste"
+   },
+   "Install_No": {
+      "message": "Nej"
+   },
+   "Install_OnlineSetup_Title2": {
+      "message": "RoboForm opsætning"
+   },
+   "Install_PasswordTooShort": {
+      "message": "Kodeordet skal være på mindst 6 tegn."
+   },
+   "Install_Yes": {
+      "message": "Ja"
+   },
+   "LicenseExpirationWarning_RenewLink": {
+      "message": "Forny nu"
+   },
+   "LicenseExpirationWarning_SyncIsNotAllowedByLicense": {
+      "message": "Synk er kun for betalte konti."
+   },
+   "LicenseExpirationWarning_UpgradeExpl": {
+      "message": "Du har nået grænsen for gratis brug.\nOpgrader RoboForm."
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "Et masterkodeord kan ikke kun bestå af mellemrum"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "Mindste antal cifre i kodeord skal være %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Masterkodeordet skal være mellem %1 og %2 tegn"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "Mindste antal små bogstaver i kodeord skal være %1"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "Mindste antal ikke numeriske tegn i kodeord skal være %1"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "Et nyt masterkodeord skal være anderledes end det gamle."
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Mindste antal store bogstaver i kodeord skal være %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "&Nyt Masterkodeord:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "&Gammelt Masterkodeord:"
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "Navn skal udfyldes og kan ikke indeholde følgende tegn \\ / : * ? \" \u003C > |"
+   },
+   "Options_AutoSave_AltClickEnable_Text": {
+      "message": "&ALT + klik på loginknap udfører Autogem"
+   },
+   "Options_AutoSave_AltClickEnable_Tip": {
+      "message": "ALT + klik på loginknap udfører Autogem"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text": {
+      "message": "SHIFT + &ENTER i tekstfelter udfører Autogem"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Tip": {
+      "message": "SHIFT + ENTER i tekstfelter udfører Autogem"
+   },
+   "Options_AutoSave_Title": {
+      "message": "Autogem"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "Aktiver RoboForm g&enveje i browser"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "'Udfyld && send' er &standard for Identiteter"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "Med flueben: Standard for Identitter er UdFyld && send.\nUden flueben: standard for Identiteter er Udfyld"
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "'Udfyld && send' er standard for &matchende  Adgangskort"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "Med flueben: Standard for matchende Adgangskort er Udfyld && Send.\nUden flueben: Standard for matchende Adgangskort er Udfyld"
+   },
+   "Options_ImportFrame_Text": {
+      "message": "Importer data til RoboForm"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Tastatur"
+   },
+   "Options_Main_Title": {
+      "message": "RoboForm indstillinger"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "Maks. &antal emner i Senest anvendt listen"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "Maksimalt antal emner der vises i Senest anvendt listen"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "Tilbyd at &gemme login fra webformularere (HTML)"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "Når bruger afsender udfyldt loginformular, foreslår RoboForm Autogem til Adgangskort"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Brug &højre ALT til genveje"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Med flueben: Højre ALT + tast påkalder også RoboForm tastaturgenveje lige som venstre ALT + tast.\nUden flueben: Kun venstre ALT + tast påkalder RoboForm genveje"
+   },
+   "Options_Search_Title": {
+      "message": "Søgning"
+   },
+   "Options_Security_Title": {
+      "message": "Sikkerhed"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Skift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Genvejsliste"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Liste med RoboForm genveje i browser. De kan slås til/fra enkeltvis"
+   },
+   "OvrCfm_Overwrite_Text": {
+      "message": "Overskriv"
+   },
+   "PassAud_AverageSafetyLevel_Text": {
+      "message": "Flere af dine kodeord er svage og bruges på flere konti. Erstat dem med tilfældigt genererede kodeord for at øge sikkerheden."
+   },
+   "PassAud_AverageSafetyLevel_Tittle": {
+      "message": "Middel"
+   },
+   "PassAud_BadSafetyLevel_Text": {
+      "message": "Vi anbefaler meget, at du gennemgår dine adgangskort, for at øge dit sikkerhedsniveau..."
+   },
+   "PassAud_BadSafetyLevel_Tittle": {
+      "message": "Usikkert!"
+   },
+   "PassAud_GoodSafetyLevel_Text": {
+      "message": "Bevar altid sikkerheden."
+   },
+   "PassAud_GoodSafetyLevel_Tittle": {
+      "message": "Sikkert!"
+   },
+   "PassAud_ItemAge_Title": {
+      "message": "Alder"
+   },
+   "PassAud_ItemLocation_Title": {
+      "message": "Placering"
+   },
+   "PassAud_ItemName_Title": {
+      "message": "Navn"
+   },
+   "PassAud_ItemPasswordStrength_Title": {
+      "message": "Kodeordsstyrke"
+   },
+   "PassAud_ItemPassword_Title": {
+      "message": "Kodeord"
+   },
+   "PassAud_ItemUrl_Title": {
+      "message": "URL"
+   },
+   "PassAud_MediumSafetyLevel_Text": {
+      "message": "Brug et par minutter på at optimere dit kodeord."
+   },
+   "PassAud_MediumSafetyLevel_Tittle": {
+      "message": "Utilstrækkeligt!"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "Godt"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Medium"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Stærkt"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Svagt"
+   },
+   "PassAud_ReusedGroup_Title": {
+      "message": "Gruppér med genbrugte kodeord"
+   },
+   "PassAud_SummaryScore": {
+      "message": "Dit sikkerhedsniveau"
+   },
+   "PassAud_TabCompleteDuplicates_Title": {
+      "message": "Helt ens"
+   },
+   "PassAud_TabReusedkPasswords_Title": {
+      "message": "Genbrugte kodeord"
+   },
+   "PassCards_Button_PasswordValuesAsStars_Tip": {
+      "message": "Vis kodeord som stjerner eller tekst"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "Tilføj felt"
+   },
+   "PassCards_Cmd_Fields_Flat": {
+      "message": "Felter"
+   },
+   "PassCards_Note": {
+      "message": "Noter"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "&Antal tegn:"
+   },
+   "PassGen_Copy": {
+      "message": "&Kopier"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Kopier det genererede kodeord til udklipsholder"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "Udeluk ens tegn"
+   },
+   "PassGen_Fill": {
+      "message": "&Udfyld"
+   },
+   "PassGen_Generate": {
+      "message": "&Generér"
+   },
+   "PassGen_LeastNumber": {
+      "message": "Mindste antal cifre:"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Vis avanceret"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Hexadecimal 0-9, A-F"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "Kommandoen er forbudt ved politik"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "Oprettelse og ændring af Masterkodeord er forbudt ved politik"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Upgrader nu"
+   },
+   "RFOError_PasswordIsEmpty": {
+      "message": "Kodeord er tom"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "Forkert RoboForm bruger ID eller kodeord"
+   },
+   "RFOSetup_CreateNewAccount": {
+      "message": "Opret ny RoboFormkonto"
+   },
+   "RFOSetup_EnterAccountId": {
+      "message": "Indsæt mail eller RoboForm bruger ID:"
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "Indsæt kodeord til RoboFormkonto:"
+   },
+   "RFOSetup_SuspendedAccount_Error": {
+      "message": "RoboForm onlinekonto '%1' er suspenderet"
+   },
+   "RFO_EnterOTP_Text2": {
+      "message": "Dit engangskodeord:"
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Engangskodeord"
+   },
+   "RFO_TwoFactorIsOn_Text2": {
+      "message": "Engangskodeord (OTP) er aktiveret på denne konto.\nDette betyder at du skal angive et OTP for hver ny browser eller enhed der skal tilgå kontoen"
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "Engangskodeordet er sendt på mail."
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "Engangskodeordet er sendt via SMS."
+   },
+   "RFO_TwoFactor_Generic_Text": {
+      "message": "Angiv engangskodeord her."
+   },
+   "RI_Country": {
+      "message": "Land"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Bankkonto"
+   },
+   "RI_Group_Business": {
+      "message": "Forretning"
+   },
+   "RI_Group_Car": {
+      "message": "Bil"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Kreditkort"
+   },
+   "RI_Group_Custom": {
+      "message": "Andet"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Standardkodeord"
+   },
+   "RI_Group_Location": {
+      "message": "Adresse"
+   },
+   "RI_Group_Passport": {
+      "message": "Pas"
+   },
+   "RI_Group_Person": {
+      "message": "Person"
+   },
+   "Reg_Name_Prompt": {
+      "message": "&For og efternavn"
+   },
+   "RejectFolder_Caption": {
+      "message": "Du afviser delt mappe '%1' fra dig selv."
+   },
+   "RoboformType_Bookmark": {
+      "message": "Bogmærke"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Bogmærker"
+   },
+   "RoboformType_Contact": {
+      "message": "Kontakt"
+   },
+   "RoboformType_Contacts": {
+      "message": "Kontakter"
+   },
+   "RoboformType_File": {
+      "message": "Fil"
+   },
+   "RoboformType_Files": {
+      "message": "Filer"
+   },
+   "RoboformType_Folder": {
+      "message": "Mappe"
+   },
+   "RoboformType_Folders": {
+      "message": "Mapper"
+   },
+   "RoboformType_Identities": {
+      "message": "Identiteter"
+   },
+   "RoboformType_Identity": {
+      "message": "Identitet"
+   },
+   "RoboformType_Login": {
+      "message": "Login"
+   },
+   "RoboformType_Logins": {
+      "message": "Logins"
+   },
+   "RoboformType_Safenote": {
+      "message": "Sikker note"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Sikre noter"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Søgekort"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Søgekort"
+   },
+   "SafeNotes_Cmd_New_Title": {
+      "message": "Ny Sikker note"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "Aktiver autogem"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "Udskift e&ksisterende Adgangskort:"
+   },
+   "SaveDlg_NewSafenote_Title2": {
+      "message": "Opret ny Sikker note"
+   },
+   "SearchAction_QueryText": {
+      "message": "frase"
+   },
+   "SearchAction_Search_In": {
+      "message": "Søg '%%spørgsmål%%' med %1"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "Søg '%%spørgsmål%%' i RoboForm"
+   },
+   "Search_Combo_Title": {
+      "message": "Søg"
+   },
+   "Search_Def_Action_Bookmark": {
+      "message": "Gå til '%1'"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "Rediger '%1'"
+   },
+   "Search_Def_Action_Identity_Toolbar": {
+      "message": "Udfyld fra '%1'"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "Login på '%1'"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "Rediger '%1'"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm har fundet følsomme oplysninger. Vil du udfylde disse felter:"
+   },
+   "Setup_ConfirmMasterPassword_Password_Text": {
+      "message": "Masterkodeord:"
+   },
+   "Setup_ConfirmMasterPassword_Prompt": {
+      "message": "Husk dit masterkodeord og indsæt det rigtigt"
+   },
+   "Setup_ConfirmMasterPassword_Title": {
+      "message": "Bekræft masterkodeord"
+   },
+   "Setup_LoginWithExistingAccount_Text": {
+      "message": "Log ind med eksisterende konto"
+   },
+   "Setup_MasterPassword_HeaderSubtitle": {
+      "message": "Du er den eneste der kender masterkodeordet"
+   },
+   "Setup_Welcome_HeaderTitle": {
+      "message": "Velkommen til RoboForm"
+   },
+   "Setup_Welcome_Title": {
+      "message": "Opret gratis konto"
+   },
+   "SharedFileSettings_Close": {
+      "message": "Luk"
+   },
+   "SharedFileSettings_Loading": {
+      "message": "Indlæser..."
+   },
+   "SharedFileSettings_Revoke_Tip": {
+      "message": "Deaktiver"
+   },
+   "SharedFileSettings_SendOneItem_Title": {
+      "message": "Send en %1 til"
+   },
+   "SharedFileSettings_SharedWith": {
+      "message": "Hvem har adgang:"
+   },
+   "SharedFileSettings_Title": {
+      "message": "RoboForm deling"
+   },
+   "SharedFile_Revoke_Confirmation": {
+      "message": "Vil du deaktivere deling af filen '%1' fra brugeren %2?"
+   },
+   "SharedFolderSettings_AddRecipientBanner": {
+      "message": "Skriv mailadresse..."
+   },
+   "SharedFolderSettings_AddRecipient_Title": {
+      "message": "Modtager:"
+   },
+   "SharedFolderSettings_CancelChanges": {
+      "message": "Annuller"
+   },
+   "SharedFolderSettings_CreatedByMe_Text": {
+      "message": "Oprettet af dig"
+   },
+   "SharedFolderSettings_DeleteSharedFolder": {
+      "message": "Slet"
+   },
+   "SharedFolderSettings_LimitedDescription": {
+      "message": "Du kan kun bruge indholdet."
+   },
+   "SharedFolderSettings_ManagerDescription": {
+      "message": "Du kan dele og redigere denne mappe."
+   },
+   "SharedFolderSettings_RecipientEmail_Caption": {
+      "message": "Modtagers mail"
+   },
+   "SharedFolderSettings_RecipientRole_Caption": {
+      "message": "Rolle"
+   },
+   "SharedFolderSettings_RegularDescription": {
+      "message": "Du kan redigere denne mappe."
+   },
+   "SharedFolderSettings_Revoke_Tip": {
+      "message": "Deaktiver"
+   },
+   "SharedFolderSettings_RoleAdmin": {
+      "message": "Admin"
+   },
+   "SharedFolderSettings_RoleLimitedUser": {
+      "message": "Begrænset"
+   },
+   "SharedFolderSettings_RoleLimitedUser_Tip": {
+      "message": "Brug, men skjul kodeord"
+   },
+   "SharedFolderSettings_RoleManager": {
+      "message": "Administrator"
+   },
+   "SharedFolderSettings_RoleManager_Tip": {
+      "message": "Normal + administrer brugere"
+   },
+   "SharedFolderSettings_RoleRegularUser": {
+      "message": "Normal"
+   },
+   "SharedFolderSettings_RoleRegularUser_Tip": {
+      "message": "Læs, skriv og vis kodeord"
+   },
+   "SharedFolderSettings_SaveChanges": {
+      "message": "Anvend"
+   },
+   "SharedFolderSettings_SendInvite": {
+      "message": "Tilføj"
+   },
+   "SharedFolderSettings_SentBy_Text": {
+      "message": "Sendt af %1"
+   },
+   "SharedFolderSettings_SharedWith_Title": {
+      "message": "Hvem har adgang:"
+   },
+   "ShowBrowserActionPopup_Text": {
+      "message": "Aktiver popup værktøjslinie"
+   },
+   "ShowLowerToolbarForPopup_Text": {
+      "message": "Vis RoboForm værktøjslinie nederst i popup vinduer"
+   },
+   "ShowLowerToolbar_Text": {
+      "message": "Vis RF værktøjslinie nederst"
+   },
+   "ShowOptionsDlg_Link_Text": {
+      "message": "Mere..."
+   },
+   "StartPage_RecentlyUsed": {
+      "message": "Senest anvendt"
+   },
+   "Toolbar_Chrome_Match_Title": {
+      "message": "Udfyld fra:"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "Indstil formularudfyldning"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "Opret Identitet til udfyldning af lange registrerings og kontrolformularer"
+   },
+   "Toolbar_Identity_Fill_HelpMsg_HeaderText": {
+      "message": "Udfyld formularer med din identitet"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "Tilpas søgeboks"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "Er du sikker på du vil at slette de brugerdata som findes i '%1'?\n- %2 Identiteter,\n- %3 Adgangskort,\n- %4 Sikre noter,\n- %5 andre filer.\n\nNår de først er slettet er dine personlige filer gået tabt."
+   }
+}

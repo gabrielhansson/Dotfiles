@@ -1,0 +1,452 @@
+{
+    "Cmd_RoboForm_Flat": {
+        "message": "RoboForm"
+    },
+    "Cmd_ToolBarSync": {
+        "message": "Synkroniser"
+    },
+    "Policy_CommandDisabled_Message": {
+        "message": "Denne funksjon er ikke tillatt av policy"
+    },
+    "RoboformType_Identity": {
+        "message": "Identitet"
+    },
+    "RoboformType_Identities": {
+        "message": "Identiteter"
+    },
+    "RoboformType_Contact": {
+        "message": "Kontakt"
+    },
+    "RoboformType_Contacts": {
+        "message": "Kontakter"
+    },
+    "RoboformType_Safenote": {
+        "message": "Sikker notat"
+    },
+    "RoboformType_Safenotes": {
+        "message": "Sikker notat"
+    },
+    "RoboformType_Folder": {
+        "message": "Mappe"
+    },
+    "RoboformType_Folders": {
+        "message": "Mapper"
+    },
+    "RoboformType_File": {
+        "message": "Fil"
+    },
+    "RoboformType_Files": {
+        "message": "Filer"
+    },
+    "RoboformType_Login": {
+        "message": "Login"
+    },
+    "RoboformType_Logins": {
+        "message": "Logins"
+    },
+    "RoboformType_Bookmark": {
+        "message": "Bokmerke"
+    },
+    "RoboformType_Bookmarks": {
+        "message": "Bokmerker"
+    },
+    "RoboformType_Searchcard": {
+        "message": "Søkekort"
+    },
+    "RoboformType_Searchcards": {
+        "message": "Søkekort"
+    },
+    "AutoSaveBar_PasswordEdit_Cuebanner": {
+        "message": "Oppgi passord"
+    },
+    "Install_Email": {
+        "message": "Epost:"
+    },
+    "Cmd_NewFolder_Prompt": {
+        "message": "Mappe &Navn:"
+    },
+    "Cmd_Delete_Flat": {
+        "message": "Slett"
+    },
+    "Cmd_Rename_Flat": {
+        "message": "Gi nytt navn"
+    },
+    "Cmd_FillForms_Flat": {
+        "message": "Fyll ut skjemaer"
+    },
+    "Cmd_Goto_Flat": {
+        "message": "Gå til"
+    },
+    "Cmd_Edit_Flat": {
+        "message": "Endre"
+    },
+    "ContextMenuAndShortcuts_FillSubmit_Text": {
+        "message": "Fyll & Send"
+    },
+    "Cmd_Cancel_Flat": {
+        "message": "Avbryt"
+    },
+    "Cmd_Rename_Name_Prompt": {
+        "message": "Endre navn til:"
+    },
+    "Cmd_New_Flat": {
+        "message": "Ny(tt)"
+    },
+    "Cmd_Close_Flat": {
+        "message": "Lukk"
+    },
+    "Cmd_GoFill_Flat": {
+        "message": "Gå til og fyll ut"
+    },
+    "Editor_Menu_View": {
+        "message": "&Vis"
+    },
+    "Cmd_ApplyChanges_Flat": {
+        "message": "Lagre"
+    },
+    "Install_Yes": {
+        "message": "Ja"
+    },
+    "Install_No": {
+        "message": "Nei"
+    },
+    "Install_Next": {
+        "message": "Neste"
+    },
+    "Install_Back": {
+        "message": "Tilbake"
+    },
+    "Cmd_Login_Flat": {
+        "message": "Logg inn"
+    },
+    "Cmd_Logins_Flat": {
+        "message": "Innloggninger"
+    },
+    "Cmd_Bookmarks_Flat": {
+        "message": "Bokmerker"
+    },
+    "Cmd_Safenotes_Flat": {
+        "message": "Sikre notater"
+    },
+    "Cmd_Identities_Flat": {
+        "message": "Identiteter"
+    },
+    "Cmd_Contacts_Flat": {
+        "message": "Kontakter"
+    },
+    "Cmd_SaveForms_Flat": {
+        "message": "Lagre"
+    },
+    "Cmd_RunPassGen_Flat": {
+        "message": "Generer"
+    },
+    "Cmd_Logoff_Flat": {
+        "message": "Logg ut"
+    },
+    "SafeNotes_Cmd_New_Title": {
+        "message": "Ny Sikker notat"
+    },
+    "Cmd_NewFolder_Title": {
+        "message": "Ny mappe"
+    },
+    "Identities_Cmd_New_Title": {
+        "message": "Ny Identitet"
+    },
+    "Identities_Cmd_New_Contact_Title": {
+        "message": "Ny Kontakt"
+    },
+    "Cmd_ClearList_Key": {
+        "message": "(Tøm listen)"
+    },
+    "Cmd_SetFields_Flat": {
+        "message": "Sett Felter"
+    },
+    "Cmd_ResetFields_Flat": {
+        "message": "Nullstill felter"
+    },
+    "Cmd_ClearFields_Flat": {
+        "message": "Tøm felter"
+    },
+    "Cmd_Options_Flat": {
+        "message": "Valg"
+    },
+    "Cmd_Help_Flat": {
+        "message": "Hjelp"
+    },
+    "Activate_VisitSupportLink_Text": {
+        "message": "Contact support"
+    },
+    "Cmd_Help_FaqAll_Key": {
+        "message": "Hele &FAQ"
+    },
+    "Cmd_About_Key": {
+        "message": "&Om..."
+    },
+    "ContextMenuAndShortcuts_RunPassGen_Text": {
+        "message": "Passord Generator"
+    },
+    "PassGen_ExcludeSimilar": {
+        "message": "Ekskluder lignende bokstaver"
+    },
+    "PassGen_Fill": {
+        "message": "&Fyll"
+    },
+    "PassGen_Generate": {
+        "message": "&Generer"
+    },
+    "PassGen_Copy": {
+        "message": "&Kopier"
+    },
+    "PassGen_CharNumber_Text": {
+        "message": "&Antall tegn:"
+    },
+    "PassGen_UseHexChars": {
+        "message": "Hexadecimal 0-9, A-F"
+    },
+    "PassGen_LeastNumber": {
+        "message": "Minste antall tall:"
+    },
+    "PassGen_Copy_Tip": {
+        "message": "Kopier generert passord til utklippstavlen"
+    },
+    "Toolbar_Identity_Create_Flat": {
+        "message": "Oppsett Skjema Utfylling"
+    },
+    "Toolbar_Identity_Create_Tip": {
+        "message": "Lag Identitet for å fylle ut lange registreringsskjema"
+    },
+    "FillDlg_All_Identities_Key": {
+        "message": "Vis alle Identiteter"
+    },
+    "Cmd_FillEmptyOnly_Key": {
+        "message": "Fyll &bare tomme felter"
+    },
+    "FillDlg_Edit_Key": {
+        "message": "Rediger"
+    },
+    "FillDlg_FillForms_Key": {
+        "message": "&Fyll Skjemaer"
+    },
+    "FillDlg_FillSubmit_Key": {
+        "message": "Fyll ut && &Send"
+    },
+    "Editor_Indicator_ShowAll": {
+        "message": "Vis Alt"
+    },
+    "FillDlg_All_Passcards_Key": {
+        "message": "Vis alle Adgangskort"
+    },
+    "Options_Main_Title": {
+        "message": "RoboForm Valg"
+    },
+    "Options_Security_Title": {
+        "message": "Sikkerhet"
+    },
+    "Options_AutoSave_Title": {
+        "message": "AutoLagre"
+    },
+    "Options_Search_Title": {
+        "message": "Søk"
+    },
+    "Options_OfferAutoSave_WebForms2_Text": {
+        "message": "Tilby å &lagre innloggninger fra internett (HTML) skjemaer"
+    },
+    "Options_OfferAutoSave_WebForms_Tip": {
+        "message": "Tilby å lagre innloggninger fra internett (HTML) skjemaer i RoboForm adgangskort"
+    },
+    "Options_AutoSave_ShiftEnterEnable_Text": {
+        "message": "SHIFT+&ENTER i tekstfelter tvinger AutoLagre"
+    },
+    "Options_AutoSave_ShiftEnterEnable_Tip": {
+        "message": "SHIFT+ENTER i tekstfelter tvinger AutoLagre"
+    },
+    "Options_AutoSave_AltClickEnable_Text": {
+        "message": "&ALT+click av Logg inn knapper tvinger AutoLagre"
+    },
+    "Options_AutoSave_AltClickEnable_Tip": {
+        "message": "ALT+click  av Logg inn knapper tvinger AutoLagre"
+    },
+    "Options_MruMaxNumber_Text": {
+        "message": "Maks antall elementer i &Mest brukte listen"
+    },
+    "Options_MruMaxNumber_Tip": {
+        "message": "Maksimalt antall elementer i Mest brukte listen"
+    },
+    "Options_Fill_SubmitDefButton_PC_Text": {
+        "message": "'Fyll && Send' er standard handling for matcende adgangskort"
+    },
+    "Options_Fill_SubmitDefButton_PC_Tip": {
+        "message": "Om valgt: Fyll && Send' er standard handling for matcende adgangskort, om ikke valgt: standard handling er Fyll skjemaer"
+    },
+    "Options_Fill_SubmitDefButton_ID_Text": {
+        "message": "'Fyll && Send' er standard handling for min identitet"
+    },
+    "Options_Fill_SubmitDefButton_ID_Tip": {
+        "message": "Om valgt: Fyll && Send' er standard handling for min identitet, om ikke valgt: standard handling er Fyll skjemaer"
+    },
+    "Options_Keyboard_Title": {
+        "message": "Tastatur"
+    },
+    "Options_DisableShortcuts_Text": {
+        "message": "Deaktiver RoboForm S&narveier i nettleser"
+    },
+    "Options_ShortcutsList_Text": {
+        "message": "Hurtigvalg liste"
+    },
+    "Options_ShortcutsList_Tip": {
+        "message": "Liste over RoboForm snarveier i nettleseren. You can turn on\/off each of them separately"
+    },
+    "Options_RightAltForShortcuts_Text": {
+        "message": "Bruk &Høyre ALT for Snarveier også"
+    },
+    "Options_RightAltForShortcuts_Tip": {
+        "message": "Om valgt, then pressing Right ALT + Key invokes RoboForm keyboard shortcut in addition to Left ALT + Key.  If not checked then only Left ALT + Key invokes RoboForm shortcut"
+    },
+    "ContextMenuAndShortcuts_Options_Text": {
+        "message": "RoboForm Valg"
+    },
+    "ContextMenuAndShortcuts_ResetFields_Text": {
+        "message": "Nullstill Felter"
+    },
+    "ContextMenuAndShortcuts_SetFields_Text": {
+        "message": "Sett Felter"
+    },
+    "ContextMenuAndShortcuts_ClearFields_Text": {
+        "message": "Tøm Felter"
+    },
+    "ContextMenuAndShortcuts_SaveForms_Text": {
+        "message": "Lagre Skjema"
+    },
+    "SearchAction_Search_In_RoboForm_Names": {
+        "message": "Søk etter '%%query%%' i RoboForm Navn"
+    },
+    "SearchAction_QueryText": {
+        "message": "setning"
+    },
+    "SearchAction_Search_In": {
+        "message": "Søk etter '%%query%%' i %1"
+    },
+    "Search_Combo_Title": {
+        "message": "Søk"
+    },
+    "Toolbar_Search_Customize_Text": {
+        "message": "Tilpass søkefeltet"
+    },
+    "Search_Def_Action_Passcard": {
+        "message": "Logg inn til '%1'"
+    },
+    "Search_Def_Action_Bookmark": {
+        "message": "Gå til '%1'"
+    },
+    "Search_Def_Action_Safenote": {
+        "message": "Rediger '%1'"
+    },
+    "Search_Def_Action_Contact": {
+        "message": "Rediger '%1'"
+    },
+    "Search_Def_Action_Identity_Toolbar": {
+        "message": "Fyll fra '%1'"
+    },
+    "FillDlg_Pwd_Prompt": {
+        "message": "Passord:"
+    },
+    "PassCards_Note": {
+        "message": "Notat"
+    },
+    "RI_Country": {
+        "message": "Land"
+    },
+    "FirstIdentity_Prompt": {
+        "message": "Oppgi navnet ditt og landet du bor i."
+    },
+    "Reg_Name_Prompt": {
+        "message": "&For- og Etternavn"
+    },
+    "SaveDlg_NewSafenote_Title2": {
+        "message": "Lag nytt Sikkert notat"
+    },
+    "Policy_MasterPasswordChangeDisabled": {
+        "message": "Endring av og opprettelse av Hoved passord er ikke tillatt av gjeldende policy"
+    },
+    "MasterPass_Prompt_TypeOld": {
+        "message": "&Gammelt Hoved Passord:"
+    },
+    "MasterPass_Prompt_TypeNew": {
+        "message": "&Nytt Hoved Passord:"
+    },
+    "MasterPass_New_Length_Error": {
+        "message": "Lengden på hovedpassordet må være mellom %1 og %2 bokstaver"
+    },
+    "MasterPass_New_UpperCaseChars_Error": {
+        "message": "Minimum antall STORE bokstaver i passord må være %1"
+    },
+    "MasterPass_New_LowerCaseChars_Error": {
+        "message": "Minimum antall små bokstaver i passord må være %1"
+    },
+    "MasterPass_New_DigitChars_Error": {
+        "message": "Minimum antall tall i passord må være %1"
+    },
+    "HtmlControl_FieldMatch_ColumnHeader": {
+        "message": "Felt Navn"
+    },
+    "HtmlControl_FieldValue_ColumnHeader": {
+        "message": "Felt verdi"
+    },
+    "HtmlControl_FieldMatchStrings_ColumnHeader": {
+        "message": "Andre matchende verdier"
+    },
+    "PassCards_Cmd_AddField_Title": {
+        "message": "Legg til felt"
+    },
+    "PassCards_Cmd_Fields_Flat": {
+        "message": "Felter"
+    },
+    "RI_Group_Person": {
+        "message": "Person"
+    },
+    "RI_Group_Business": {
+        "message": "Firma"
+    },
+    "RI_Group_Location": {
+        "message": "Adresse"
+    },
+    "RI_Group_Credit_Card": {
+        "message": "Kredittkort"
+    },
+    "RI_Group_Bank_Account": {
+        "message": "Bank Konto"
+    },
+    "RI_Group_Default_Password": {
+        "message": "Autentisering"
+    },
+    "RI_Group_Passport": {
+        "message": "Pass"
+    },
+    "RI_Group_Car": {
+        "message": "Bil"
+    },
+    "RI_Group_Custom": {
+        "message": "Tilpass"
+    },
+    "DeleteBlockingPass_Title": {
+        "message": "Avblokker internett sted - RoboForm"
+    },
+    "CheckedRunMB_CheckButton": {
+        "message": "Ikke vis denne meldingen igjen"
+    },
+    "SaveDlg_Enable_Key": {
+        "message": "Aktiver AutoLagre"
+    },
+    "CreateBlockingPass_Title": {
+        "message": "Blokker internett sted - RoboForm"
+    },
+    "SaveDlg_Existing_Passcards": {
+        "message": "E&ksisterende Adgangskort:"
+    },
+    "Cmd_Delete_Confirm": {
+        "message": "Vil du slette %1 '%2'?"
+    },
+    "Uninstall_UserDataErase_Text": {
+        "message": "Er du sikker på at du vil slette dine Brukerdata fra '%1'?\n- %2 Identiteter,\n- %3 Adgangskort,\n- %4 Sikkernotater,\n- %5 andre filer.\n\nNår de er slettet, vil disse personlige filene være tapt."
+    }
+}

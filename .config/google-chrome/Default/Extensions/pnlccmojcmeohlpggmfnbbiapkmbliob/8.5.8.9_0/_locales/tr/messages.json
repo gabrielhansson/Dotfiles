@@ -1,0 +1,785 @@
+{
+   "About_Version2": {
+      "message": "Sürüm:"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "Lisansın süresi %1 gün önce doldu"
+   },
+   "Activate_VisitSupportLink_Text": {
+      "message": "İletişim desteği"
+   },
+   "AutoSaveBar_PasswordEdit_Cuebanner": {
+      "message": "Şifre gir"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Bu mesajı bir daha gösterme"
+   },
+   "Cmd_About_Key": {
+      "message": "&Hakkında..."
+   },
+   "Cmd_ApplyChanges_Flat": {
+      "message": "Kaydet"
+   },
+   "Cmd_Bookmarks_Flat": {
+      "message": "Yer İşaretleri"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "İptal"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "Alanları Temizle"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Listeyi Temizle)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Kapat"
+   },
+   "Cmd_Contacts_Flat": {
+      "message": "Kişiler"
+   },
+   "Cmd_CreateSharedFolder_Key": {
+      "message": "Paylaşılan klasör oluştur"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "%1 '%2' dosyasını silmek istiyor musunuz?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Sil"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Düzenle"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Sad&ece Boş Alanları Doldur"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Formları Doldur"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Doldurmaya Git"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Git"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "SSS"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Yardım"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "Kimlikler"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Giriş"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Girişler"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Çıkış yap"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "Klasör &Adı:"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Yeni Klasör"
+   },
+   "Cmd_New_Flat": {
+      "message": "Yeni"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Ayarlar"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Güvenlik Merkezi"
+   },
+   "Cmd_PasswordAuditRun_Tip": {
+      "message": "Güvenlik Merkezini Aç"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Yeniden Adlandır"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Yeniden adlandır:"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "Alanları Sıfırla"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "Oluştur"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "Notlar"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Kaydet"
+   },
+   "Cmd_SendFile_Flat": {
+      "message": "Gönder"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "Gönderiliyor..."
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "Alanları Seç"
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Paylaşılıyor..."
+   },
+   "Cmd_Sync_Tip": {
+      "message": "RoboForm hesap senkronizasyonunu manuel olarak başlatın"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Senkronize Et"
+   },
+   "Contacts_Cmd_New_Tip": {
+      "message": "Yeni Kişi Oluştur"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Alanları Temizle"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Bana Sormadan Formu Doldur ve Onayla"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RoboForm Ayarları"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Alanları Sıfırla"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Şifre Oluşturucusu"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Formları Kaydet"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Alanları Seç"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "Web Sayfasını Engelle - RoboForm"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "Web Sayfasına İzin Ver - RoboForm"
+   },
+   "DeleteSharedFolder_ManagerCaption": {
+      "message": "'%1' klasörünü kalıcı olarak silmek istediğinizden emin misiniz? Paylaşılan klasörün tüm alıcıları iptal edilecek."
+   },
+   "Editor_Indicator_ShowAll": {
+      "message": "Hepsini Göster"
+   },
+   "Editor_Menu_View": {
+      "message": "&Görünüm"
+   },
+   "FillDlg_All_Identities_Key": {
+      "message": "Tüm Kimlikleri göster"
+   },
+   "FillDlg_All_Passcards_Key": {
+      "message": "Tüm Geçiş Kartlarını göster"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "Düzenle"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "&Formları Doldur"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "Doldur && &Onayla"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "Şifre:"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "Adınızı ve yaşadığınız ülkeyi giriniz."
+   },
+   "FocusSearchBox_Text": {
+      "message": "Odağı otomatik olarak RoboForm arama kutusuna ayarla"
+   },
+   "HorizontalToolbar_Text": {
+      "message": "Düzen araç çubuğu öğeleri yatay olarak açılır."
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "Diğer Uyan Satırlar"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "Alan Adı"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "Alan Değeri"
+   },
+   "Identities_Cmd_New_Contact_Title": {
+      "message": "Yeni Kişi"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "Yeni Kimlik"
+   },
+   "Install_Back": {
+      "message": "Geri"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "Şifreyi Onayla:"
+   },
+   "Install_CreateMasterPassword_Prompt": {
+      "message": "Ana Parola, RoboForm içinde depolanan tüm parolalarınızı ve diğer verileri güvene almak için kullanılır. RoboForm verilerinize erişmek için Ana Parolanızı girmeniz istenir."
+   },
+   "Install_Email": {
+      "message": "E-posta:"
+   },
+   "Install_Next": {
+      "message": "İleri"
+   },
+   "Install_No": {
+      "message": "Hayır"
+   },
+   "Install_OnlineSetup_Title2": {
+      "message": "RoboForm Kurulumu"
+   },
+   "Install_PasswordTooShort": {
+      "message": "Parolanın en az 6 karakter uzunluğunda olması gerekir."
+   },
+   "Install_Yes": {
+      "message": "Evet"
+   },
+   "LicenseExpirationWarning_RenewLink": {
+      "message": "Şimdi Yenile"
+   },
+   "LicenseExpirationWarning_SyncIsNotAllowedByLicense": {
+      "message": "Senkronizasyona yalnızca ücretli hesaplar için izin verilir."
+   },
+   "LicenseExpirationWarning_UpgradeExpl": {
+      "message": "Ücretsiz sınırlamalarını aştınız.  RoboForm'u yükseltin lütfen."
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "Ana Parola yalnızca boşluklarla oluşturulamaz"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": " Şifredeki minimum rakam sayısı %1 olmalıdır"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Şifre uzunluğu %1 ile %2 karakter arasında olmalıdır"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": " Şifredeki minimum küçük harf sayısı %1 olmalıdır"
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "Parolada sayısal olmayan en az %1 karakter olmalıdır."
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "Yeni Ana Şifre mevcut şifreden farklı olmalıdır."
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Şifredeki minimum büyük harf sayısı %1 olmalıdır"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "&Yeni Parola:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "&Eski Parola:"
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "Ad boş olamaz ve şu karakterleri içeremez \\ / : * ? \" \u003C > |"
+   },
+   "Options_AutoSave_AltClickEnable_Text": {
+      "message": "&ALT+Giriş butonuna tıklama, Otomatik Kaydı çalıştırır"
+   },
+   "Options_AutoSave_AltClickEnable_Tip": {
+      "message": "ALT+ Giriş butonuna tıklama, Otomatik Kaydı çalıştırır"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text": {
+      "message": "Metin alanında SHIFT+&ENTER, Otomatik Kaydı çalıştırır"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Tip": {
+      "message": " Metin alanında SHIFT+ENTER Otomatik Kaydı çalıştırır"
+   },
+   "Options_AutoSave_Title": {
+      "message": "Otomatik Kayıt"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "RoboForm &Kısayollarını Tarayıcıda Aktifleştir"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "'Doldur && Onayla', Kimliklerim için varsayılan eylem&dir"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "Eğer işaretliyse: Kimliklerim için varsayılan eylem, Doldur&&Onayla ’dır. Eğer işaretli değilse: Kimliklerim için varsayılan eylem, Formları Doldur ’dur."
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "'Doldur && Onayla', &Uyuşan Şifre Kartları için varsayılan eylemdir"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "Eğer işaretliyse: Uyuşan Şifre Kartları için varsayılan eylem, Doldur && Onayla ’dır. Eğer işaretli değilse: Uyuşan Şifre Kartları için varsayılan eylem, Formları Doldur ’dur."
+   },
+   "Options_ImportFrame_Text": {
+      "message": "Verileri RoboForm'a al"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Klavye"
+   },
+   "Options_Main_Title": {
+      "message": "RoboForm Ayarları"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "Sık Kullanılanlar listesindeki maksimum &nesne sayısı"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "Sık Kullanılanlar listesindeki maksimum nesne sayısı"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "Web (HTML) formlarından Girişleri &Kaydetmeyi Öner"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "Otomatik kaydetmeyi öner: Bir giriş formunu doldurup onayladığınızda, bu formu şifre kartı olarak kaydetmeyi önerir"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Kısayolla&r için Sağ ALT tuşunu da kullan"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Eğer işaretliyse, Sol ALT + Tuş ’a ek olarak Sağ ALT + Tuş ’a basmak da RoboForm klavye kısayollarını çalıştırır. Eğer işaretli değilse, sadece Sol ALT + Tuş RoboForm kısayolunu çalıştırır"
+   },
+   "Options_Search_Title": {
+      "message": "Arama"
+   },
+   "Options_Security_Title": {
+      "message": "Güvenlik"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Ctrl"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Shift"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Kısayol Listesi"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Tarayıcıda RoboForm kısayolları listesi. Ayrı bir biçimfe onları açabilir/kapatabilirsiniz"
+   },
+   "OvrCfm_Overwrite_Text": {
+      "message": "Üzerine Yaz"
+   },
+   "PassAud_AverageSafetyLevel_Text": {
+      "message": "Parolalarınızın birçoğu zayıf veya birden fazla hesap için kullanılıyor. Puanınızı artırmak için onları rastgele oluşturulmuş benzersiz şifrelerle değiştirin."
+   },
+   "PassAud_AverageSafetyLevel_Tittle": {
+      "message": "Ortalama"
+   },
+   "PassAud_BadSafetyLevel_Text": {
+      "message": "Zayıf veya yinelenen birkaç şifre keşfettik. Puanınızı artırmak için, şifre üreticimizle güçlü ve benzersiz şifreler oluşturun."
+   },
+   "PassAud_BadSafetyLevel_Tittle": {
+      "message": "Düşük"
+   },
+   "PassAud_GoodSafetyLevel_Text": {
+      "message": "İyi iş. Lütfen tüm siteler için benzersiz ve güçlü şifreler oluşturmaya devam edin."
+   },
+   "PassAud_GoodSafetyLevel_Tittle": {
+      "message": "Mükemmel"
+   },
+   "PassAud_ItemAge_Title": {
+      "message": "Yaş"
+   },
+   "PassAud_ItemLocation_Title": {
+      "message": "Konum"
+   },
+   "PassAud_ItemName_Title": {
+      "message": "Ad"
+   },
+   "PassAud_ItemPasswordStrength_Title": {
+      "message": "Şifrenin Gizlilik Gücü"
+   },
+   "PassAud_ItemPassword_Title": {
+      "message": "Parola"
+   },
+   "PassAud_ItemUrl_Title": {
+      "message": "URL"
+   },
+   "PassAud_MediumSafetyLevel_Text": {
+      "message": "Parolalarınızın çoğu eşsiz ve karmaşıktır. Zayıf veya yinelenen şifreleri tanımlamak ve değiştirmek için lütfen aşağıdaki dökümü inceleyin."
+   },
+   "PassAud_MediumSafetyLevel_Tittle": {
+      "message": "İyi"
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "İyi"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Orta"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Güçlü"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Zayıf"
+   },
+   "PassAud_ReusedGroup_Title": {
+      "message": "Tekrar kullanılan parolayla grupla."
+   },
+   "PassAud_SummaryScore": {
+      "message": "Güvenlik Puanınız"
+   },
+   "PassAud_TabCompleteDuplicates_Title": {
+      "message": "Komple Kopyala"
+   },
+   "PassAud_TabReusedkPasswords_Title": {
+      "message": "Tekrar Kullanıldı"
+   },
+   "PassCards_Button_PasswordValuesAsStars_Tip": {
+      "message": "Parola değerlerini yıldızlar veya metin olarak göster"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "Alan Ekle"
+   },
+   "PassCards_Cmd_Fields_Flat": {
+      "message": "Alanlar"
+   },
+   "PassCards_Note": {
+      "message": "Not"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "&Karakterlerin sayısı"
+   },
+   "PassGen_Copy": {
+      "message": "&Kopyala"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Oluşturulan şifreyi panoya kopyalar"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "Aynı karakterler kullanılmasın"
+   },
+   "PassGen_Fill": {
+      "message": "&Doldur"
+   },
+   "PassGen_Generate": {
+      "message": "&Oluştur"
+   },
+   "PassGen_LeastNumber": {
+      "message": "&Minimum basamak sayısı:"
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Gelişmiş ayarlar"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Hex karakterleri 0-9, A-F"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "Komut ilke tarafından yasaklandı"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "AnaŞifre değiştirme ve oluşturma, ilke tarafından yasaklandı"
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Şimdi Yükselt"
+   },
+   "RFOError_PasswordIsEmpty": {
+      "message": "Parola boş"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "Geçersiz bir Kullanıcı Kimliği ve Parolası girdiniz"
+   },
+   "RFOSetup_CreateNewAccount": {
+      "message": "Yeni RoboForm hesabı oluşturun"
+   },
+   "RFOSetup_EnterAccountId": {
+      "message": "E-posta veya Kullanıcı Kimliği:"
+   },
+   "RFOSetup_EnterPasswordForAccount": {
+      "message": "RoboForm Hesabı için şifreyi girin:"
+   },
+   "RFOSetup_SuspendedAccount_Error": {
+      "message": "RoboForm Çevrimiçi hesap '%1' askıya alındı"
+   },
+   "RFO_EnterOTP_Text2": {
+      "message": "OTP:"
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Tek seferlik şifre"
+   },
+   "RFO_TwoFactorIsOn_Text2": {
+      "message": "Hesabınız için Bir Zamanlı Parola (OTP) ayarı AÇIK.  Bu ayar, hesabınıza her yeni cihazdan veya tarayıcıdan erişmek için bir OTP girmenizi gerektirir."
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "OTP, doğrulanmış e-posta adresinize gönderildi."
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "OTP, doğrulanmış telefon numaranıza SMS yoluyla gönderilmiştir."
+   },
+   "RFO_TwoFactor_Generic_Text": {
+      "message": "Lütfen Tek Kullanımlık Şifreyi buradan gönderin."
+   },
+   "RI_Country": {
+      "message": "Ülke"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Banka Hesabı"
+   },
+   "RI_Group_Business": {
+      "message": "İş"
+   },
+   "RI_Group_Car": {
+      "message": "Araba"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Kredi Kartı"
+   },
+   "RI_Group_Custom": {
+      "message": "Özel"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Varsayılan Şifre"
+   },
+   "RI_Group_Location": {
+      "message": "Adres"
+   },
+   "RI_Group_Passport": {
+      "message": "Pasaport"
+   },
+   "RI_Group_Person": {
+      "message": "Kişi"
+   },
+   "Reg_Name_Prompt": {
+      "message": "&İlk ve Son Ad"
+   },
+   "RejectFolder_Caption": {
+      "message": " '%1' paylaşılan klasörü kendinizden reddediyorsunuz."
+   },
+   "RoboformType_Bookmark": {
+      "message": "Yer İşareti"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Yer İşaretleri"
+   },
+   "RoboformType_Contact": {
+      "message": "Kişi"
+   },
+   "RoboformType_Contacts": {
+      "message": "Kişiler"
+   },
+   "RoboformType_File": {
+      "message": "Dosya"
+   },
+   "RoboformType_Files": {
+      "message": "Dosyalar"
+   },
+   "RoboformType_Folder": {
+      "message": "Klasör"
+   },
+   "RoboformType_Folders": {
+      "message": "Klasörler"
+   },
+   "RoboformType_Identities": {
+      "message": "Kimlikler"
+   },
+   "RoboformType_Identity": {
+      "message": "Kimlik"
+   },
+   "RoboformType_Login": {
+      "message": "Giriş"
+   },
+   "RoboformType_Logins": {
+      "message": "Girişler"
+   },
+   "RoboformType_Safenote": {
+      "message": "Not"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Notlar"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Arama kartı"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Arama kartları"
+   },
+   "SafeNotes_Cmd_New_Title": {
+      "message": "Yeni Güvenli Not"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "Otomatik Kaydı Aktifleştir"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "M&evcut Şifre kartını değiştir:"
+   },
+   "SaveDlg_NewSafenote_Title2": {
+      "message": "Yeni Güvenli Not Oluştur"
+   },
+   "SearchAction_QueryText": {
+      "message": "ifade"
+   },
+   "SearchAction_Search_In": {
+      "message": "%1 ’içinde '%%sorgu%%' ara"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "RoboForm İsimlerinde '%%sorgu%%' ara"
+   },
+   "Search_Combo_Title": {
+      "message": "Arama"
+   },
+   "Search_Def_Action_Bookmark": {
+      "message": "'%1' e Git"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "'%1' düzenle"
+   },
+   "Search_Def_Action_Identity_Toolbar": {
+      "message": "'%1' öğesinden doldur"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "'%1' ile giriş yap"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "'%1' düzenle"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm hassas Alanlar buldu. Lütfen, bu Alanların doldurulmasına izin verdiğinizi onaylayın:"
+   },
+   "Setup_ConfirmMasterPassword_Password_Text": {
+      "message": "Ana parola:"
+   },
+   "Setup_ConfirmMasterPassword_Prompt": {
+      "message": "Ana Parolanızı doğru bildiğinizden ve girdiğinizden emin olun."
+   },
+   "Setup_ConfirmMasterPassword_Title": {
+      "message": "Ana Parolayı Doğrulayın"
+   },
+   "Setup_LoginWithExistingAccount_Text": {
+      "message": "Mevcut hesaba giriş yapın"
+   },
+   "Setup_MasterPassword_HeaderSubtitle": {
+      "message": "Yalnızca Ana Parolanızı biliyorsunuz"
+   },
+   "Setup_Welcome_HeaderTitle": {
+      "message": "RoboForm'a Hoş Geldiniz"
+   },
+   "Setup_Welcome_Title": {
+      "message": "Ücretsiz hesap oluştur"
+   },
+   "SharedFileSettings_Close": {
+      "message": "Kapat"
+   },
+   "SharedFileSettings_Loading": {
+      "message": "Yükleniyor..."
+   },
+   "SharedFileSettings_Revoke_Tip": {
+      "message": "Iptal et"
+   },
+   "SharedFileSettings_SendOneItem_Title": {
+      "message": "%1 Adresine gönder"
+   },
+   "SharedFileSettings_SharedWith": {
+      "message": "Erişebilen:"
+   },
+   "SharedFileSettings_Title": {
+      "message": "RoboForm Paylaşımı"
+   },
+   "SharedFile_Revoke_Confirmation": {
+      "message": "%2 kullanıcısından paylaşılan '%1' dosyasını iptal etmek istediğinizden emin misiniz?"
+   },
+   "SharedFolderSettings_AddRecipientBanner": {
+      "message": "Email adresini gir..."
+   },
+   "SharedFolderSettings_AddRecipient_Title": {
+      "message": "Alıcı ekle:"
+   },
+   "SharedFolderSettings_CancelChanges": {
+      "message": "İptal"
+   },
+   "SharedFolderSettings_CreatedByMe_Text": {
+      "message": "Sizin Tarafınızdan Yaratıldı"
+   },
+   "SharedFolderSettings_DeleteSharedFolder": {
+      "message": "Sil"
+   },
+   "SharedFolderSettings_LimitedDescription": {
+      "message": "Eklentileri yalnızca klasörde kullanabilirsiniz."
+   },
+   "SharedFolderSettings_ManagerDescription": {
+      "message": "Klasörü paylaşabilir ve düzenleyebilirsiniz."
+   },
+   "SharedFolderSettings_RecipientEmail_Caption": {
+      "message": "Alıcının E-posta"
+   },
+   "SharedFolderSettings_RecipientRole_Caption": {
+      "message": "Rolü"
+   },
+   "SharedFolderSettings_RegularDescription": {
+      "message": "Klasörü düzenleyebilirsiniz."
+   },
+   "SharedFolderSettings_Revoke_Tip": {
+      "message": "Iptal et"
+   },
+   "SharedFolderSettings_RoleAdmin": {
+      "message": "Yönetici"
+   },
+   "SharedFolderSettings_RoleLimitedUser": {
+      "message": "Sınırlı Kullanıcı"
+   },
+   "SharedFolderSettings_RoleLimitedUser_Tip": {
+      "message": "Yalnızca kullanın, şifreleri gizleyin"
+   },
+   "SharedFolderSettings_RoleManager": {
+      "message": "Yönetici"
+   },
+   "SharedFolderSettings_RoleManager_Tip": {
+      "message": "Normal + kullanıcıları yönet"
+   },
+   "SharedFolderSettings_RoleRegularUser": {
+      "message": "Normal Kullanıcı"
+   },
+   "SharedFolderSettings_RoleRegularUser_Tip": {
+      "message": "Okuma-yazma, parolaları göster"
+   },
+   "SharedFolderSettings_SaveChanges": {
+      "message": "Değişiklikleri uygula"
+   },
+   "SharedFolderSettings_SendInvite": {
+      "message": "Ekle"
+   },
+   "SharedFolderSettings_SentBy_Text": {
+      "message": "%1 gönderildi"
+   },
+   "SharedFolderSettings_SharedWith_Title": {
+      "message": "Erişebilen:"
+   },
+   "ShowBrowserActionPopup_Text": {
+      "message": "RoboForm araç çubuğunu etkinleştir"
+   },
+   "ShowLowerToolbarForPopup_Text": {
+      "message": "Açılır pencere için alt RoboForm araç çubuğunu göster."
+   },
+   "ShowLowerToolbar_Text": {
+      "message": "Alt RoboForm araç çubuğunu göster"
+   },
+   "ShowOptionsDlg_Link_Text": {
+      "message": "Daha fazla seçenek..."
+   },
+   "StartPage_RecentlyUsed": {
+      "message": "Son zamanlarda kullanılmış"
+   },
+   "Toolbar_Chrome_Match_Title": {
+      "message": "Doldurun:"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "Form Doldurma Kurulumu"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "Uzun kayıtları ve kontrol formlarını doldurmak için Kimlik Oluşturur"
+   },
+   "Toolbar_Identity_Fill_HelpMsg_HeaderText": {
+      "message": "Kimliğinizle formları doldurun"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "Arama Kutusunu Özelleştir"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "'%1' 'de bulunan Kullanıcı Verinizi silmek istiyormusunuz?\n- %2 Kimlikler,\n- %3 Şifre Kartları,\n- %4 Güvenli Notlar,\n- %5 diğer dosyalar.\n\nBu veriler silindiğinde geri getirilemezler."
+   }
+}

@@ -1,0 +1,95 @@
+[2019-02-22 16:37:12.837] [sharedprocess] [info] main {"machineId":"9b33d80e67d4838b19679304ffbc227041b81ecf5d3ab005555730017d665663"}
+[2019-02-22 16:37:12.885] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:37:12.928] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:37:12.937] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:37:12.939] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:37:12.940] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:37:12.992] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:37:12.995] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:37:12.998] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:37:13.523] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:37:52.848] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-02-22 16:42:13.531] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:47:13.538] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:52:13.544] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:57:13.549] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:58:46.789] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:58:46.792] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:58:46.853] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:58:46.856] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:58:48.956] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:58:51.620] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:58:51.623] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:58:51.625] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:58:51.629] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:58:51.691] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:58:51.695] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:58:51.698] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 16:59:02.831] [sharedprocess] [info] Installing extension: robertohuertasm.vscode-icons
+[2019-02-22 16:59:02.837] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-22 16:59:03.540] [sharedprocess] [info] Downloaded extension: robertohuertasm.vscode-icons /tmp/33b6bb86-c906-49fa-a30e-efb69aac0b05
+[2019-02-22 16:59:06.148] [sharedprocess] [info] Extracted extension to /home/whiz/.vscode-oss/extensions/.robertohuertasm.vscode-icons-8.2.0: robertohuertasm.vscode-icons
+[2019-02-22 16:59:06.148] [sharedprocess] [info] Renamed to /home/whiz/.vscode-oss/extensions/robertohuertasm.vscode-icons-8.2.0
+[2019-02-22 16:59:06.150] [sharedprocess] [info] Installation completed. robertohuertasm.vscode-icons
+[2019-02-22 16:59:06.159] [sharedprocess] [info] Extensions installed successfully: robertohuertasm.vscode-icons
+[2019-02-22 16:59:12.485] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2019-02-22 16:59:12.492] [sharedprocess] [info] Scanned user extensions: 1
+[2019-02-22 16:59:12.933] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/d0029fbe-80c2-4987-b6e8-4c6d6d3b8ad3
+[2019-02-22 16:59:12.960] [sharedprocess] [info] Extracted extension to /home/whiz/.vscode-oss/extensions/.zhuangtongfa.material-theme-2.18.2: zhuangtongfa.material-theme
+[2019-02-22 16:59:12.960] [sharedprocess] [info] Renamed to /home/whiz/.vscode-oss/extensions/zhuangtongfa.material-theme-2.18.2
+[2019-02-22 16:59:12.961] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
+[2019-02-22 16:59:12.971] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
+[2019-02-22 16:59:58.650] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2019-02-22 16:59:58.656] [sharedprocess] [info] Scanned user extensions: 2
+[2019-02-22 16:59:59.024] [sharedprocess] [info] Downloaded extension: rust-lang.rust /tmp/691a2e55-28e4-4e06-926d-5fcd50e69452
+[2019-02-22 16:59:59.177] [sharedprocess] [info] Extracted extension to /home/whiz/.vscode-oss/extensions/.rust-lang.rust-0.5.3: rust-lang.rust
+[2019-02-22 16:59:59.177] [sharedprocess] [info] Renamed to /home/whiz/.vscode-oss/extensions/rust-lang.rust-0.5.3
+[2019-02-22 16:59:59.178] [sharedprocess] [info] Installation completed. rust-lang.rust
+[2019-02-22 16:59:59.188] [sharedprocess] [info] Extensions installed successfully: rust-lang.rust
+[2019-02-22 17:02:13.559] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:28.893] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:28.897] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:28.966] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:02:28.970] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:02:31.188] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:31.698] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:31.700] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:31.707] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:31.712] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:31.775] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:02:31.779] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:02:31.783] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:02:46.970] [sharedprocess] [info] Installing extension: vadimcn.vscode-lldb
+[2019-02-22 17:02:46.977] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-22 17:02:47.385] [sharedprocess] [info] Downloaded extension: vadimcn.vscode-lldb /tmp/d26bfeae-29f0-4378-8619-3ddc5d9ce69d
+[2019-02-22 17:02:47.446] [sharedprocess] [info] Extracted extension to /home/whiz/.vscode-oss/extensions/.vadimcn.vscode-lldb-1.2.1: vadimcn.vscode-lldb
+[2019-02-22 17:02:47.447] [sharedprocess] [info] Renamed to /home/whiz/.vscode-oss/extensions/vadimcn.vscode-lldb-1.2.1
+[2019-02-22 17:02:47.448] [sharedprocess] [info] Installation completed. vadimcn.vscode-lldb
+[2019-02-22 17:02:47.458] [sharedprocess] [info] Extensions installed successfully: vadimcn.vscode-lldb
+[2019-02-22 17:03:23.696] [sharedprocess] [info] Installing extension: webfreak.debug
+[2019-02-22 17:03:23.893] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-22 17:03:24.293] [sharedprocess] [info] Downloaded extension: webfreak.debug /tmp/df4090d0-ce7c-4401-9633-af87b79f2358
+[2019-02-22 17:03:24.537] [sharedprocess] [info] Extracted extension to /home/whiz/.vscode-oss/extensions/.webfreak.debug-0.22.0: webfreak.debug
+[2019-02-22 17:03:24.537] [sharedprocess] [info] Renamed to /home/whiz/.vscode-oss/extensions/webfreak.debug-0.22.0
+[2019-02-22 17:03:24.539] [sharedprocess] [info] Installation completed. webfreak.debug
+[2019-02-22 17:03:24.550] [sharedprocess] [info] Extensions installed successfully: webfreak.debug
+[2019-02-22 17:03:27.524] [sharedprocess] [info] Scanned user extensions: 5
+[2019-02-22 17:03:27.526] [sharedprocess] [info] Scanned user extensions: 5
+[2019-02-22 17:03:27.529] [sharedprocess] [info] Scanned user extensions: 5
+[2019-02-22 17:03:27.631] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:03:27.635] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:03:27.639] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:03:31.916] [sharedprocess] [info] Installing extension: be5invis.toml
+[2019-02-22 17:03:31.928] [sharedprocess] [info] Scanned user extensions: 5
+[2019-02-22 17:03:32.307] [sharedprocess] [info] Downloaded extension: be5invis.toml /tmp/34bb20d7-93df-466b-beef-0c6d52b06e87
+[2019-02-22 17:03:32.335] [sharedprocess] [info] Extracted extension to /home/whiz/.vscode-oss/extensions/.be5invis.toml-0.0.3: be5invis.toml
+[2019-02-22 17:03:32.335] [sharedprocess] [info] Renamed to /home/whiz/.vscode-oss/extensions/be5invis.toml-0.0.3
+[2019-02-22 17:03:32.337] [sharedprocess] [info] Installation completed. be5invis.toml
+[2019-02-22 17:03:32.349] [sharedprocess] [info] Extensions installed successfully: be5invis.toml
+[2019-02-22 17:07:13.575] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 17:08:00.881] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 17:08:00.883] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 17:08:00.927] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:08:00.933] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-22 17:08:03.005] [sharedprocess] [info] Scanned user extensions: 6
+[2019-02-22 17:12:13.596] [sharedprocess] [info] Scanned user extensions: 6

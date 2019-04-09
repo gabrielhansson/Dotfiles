@@ -1,0 +1,104 @@
+00:00:00.002523 main     VirtualBox XPCOM Server 6.0.4 r128164 linux.amd64 (Mar  5 2019 19:56:31) release log
+00:00:00.002530 main     Log opened 2019-04-08T14:25:26.223946000Z
+00:00:00.002532 main     Build Type: release
+00:00:00.002536 main     OS Product: Linux
+00:00:00.002538 main     OS Release: 5.0.6-zen1-1-zen
+00:00:00.002541 main     OS Version: #1 ZEN SMP PREEMPT Wed Apr 3 09:34:04 UTC 2019
+00:00:00.002580 main     DMI Product Name: TM1701
+00:00:00.002605 main     DMI Product Version: 
+00:00:00.002684 main     Host RAM: 15923MB (15.5GB) total, 12608MB (12.3GB) available
+00:00:00.002691 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.002693 main     Process ID: 28594
+00:00:00.002694 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.007781 main     IPC socket path: /tmp/.vbox-whiz-ipc/ipcd
+00:00:00.127712 nspr-2   VirtualBox: object creation starts
+00:00:00.128305 nspr-2   Home directory: '/home/whiz/.config/VirtualBox'
+00:00:00.128755 nspr-2   Loading settings file "/home/whiz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.148809 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.150429 nspr-2   NAT: resolv.conf: nameserver 10.12.0.1
+00:00:00.150474 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.150533 nspr-2   HostDnsMonitor: old information
+00:00:00.150541 nspr-2     no server entries
+00:00:00.150548 nspr-2     no domain set
+00:00:00.150554 nspr-2     no search string entries
+00:00:00.150560 nspr-2   HostDnsMonitor: new information
+00:00:00.150566 nspr-2     server 1: 10.12.0.1
+00:00:00.150575 nspr-2     domain: ua.publikt
+00:00:00.150581 nspr-2     search string 1: ua.publikt
+00:00:00.158470 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.159417 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d55176e5-6730-4e9e-fc1f-a59b1f44f78f} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.173799 nspr-2   Loading settings file "/home/whiz/Documents/evolve2/Evolve/Evolve.vbox" with version "1.16-linux"
+00:00:00.177967 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={Runtime error opening '/home/whiz/Projects/Evolve/archlab/Gymnasie Arbete/Gymnasie Arbete.vbox' for reading: -102 (File not found.).
+00:00:00.177980 nspr-2   /build/virtualbox/src/VirtualBox-6.0.4/src/VBox/Main/src-server/MachineImpl.cpp[750] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.178867 nspr-2   Loading settings file "/home/whiz/Virtual Machines/Arco Linux/Arco Linux.vbox" with version "1.16-linux"
+00:00:00.180375 nspr-2   Loading settings file "/home/whiz/Documents/evolve2/Windows 10/Windows 10.vbox" with version "1.15-linux"
+00:00:00.181788 nspr-2   Loading settings file "/home/whiz/Documents/evolve2/Arch Test/Arch Test.vbox" with version "1.16-linux"
+00:00:00.183539 nspr-2   VirtualBox: object created
+00:00:00.571489 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={Runtime error opening '/home/whiz/Projects/Evolve/archlab/Gymnasie Arbete/Gymnasie Arbete.vbox' for reading: -102 (File not found.).
+00:00:00.571494 nspr-3   /build/virtualbox/src/VirtualBox-6.0.4/src/VBox/Main/src-server/MachineImpl.cpp[750] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.571683 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={Runtime error opening '/home/whiz/Projects/Evolve/archlab/Gymnasie Arbete/Gymnasie Arbete.vbox' for reading: -102 (File not found.).
+00:00:00.571685 nspr-3   /build/virtualbox/src/VirtualBox-6.0.4/src/VBox/Main/src-server/MachineImpl.cpp[750] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.572757 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={Runtime error opening '/home/whiz/Projects/Evolve/archlab/Gymnasie Arbete/Gymnasie Arbete.vbox' for reading: -102 (File not found.).
+00:00:00.572760 nspr-3   /build/virtualbox/src/VirtualBox-6.0.4/src/VBox/Main/src-server/MachineImpl.cpp[750] (nsresult Machine::i_registeredInit())}, preserve=false aResultDetail=0
+00:00:00.580438 nspr-3   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:00.802456 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.988927 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.990675 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:02.245879 nspr-2   Saving settings file "/home/whiz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.262306 nspr-3   Saving settings file "/home/whiz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.736035 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:04.774872 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:04.775550 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:06.118237 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:06.215480 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:06.219103 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:07.317391 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:07.389076 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:07.391858 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.052450 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.053229 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.215883 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.216622 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.479476 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.479899 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.480061 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:09.508736 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.509417 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.524318 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:09.538449 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:09.662950 nspr-7   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.681543 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:09.684679 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:10.998168 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:11.000177 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:41:55.500600 MainPower Host suspending: Paused 1 VMs
+00:41:55.512443 MainPower Host resumed: Resumed 1 VMs
+00:43:09.706803 nspr-7   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:43:09.707855 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:45:48.134933 MainPower Host suspending: Paused 1 VMs
+00:45:48.149256 MainPower Host resumed: Resumed 1 VMs
+00:45:48.210635 nspr-8   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:45:48.212425 nspr-8   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={dbe11e5f-7f10-46e7-94c4-1e95bf4b6627} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+01:26:25.290590 nspr-7   Saving settings file "/home/whiz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:26:25.299822 nspr-6   Saving settings file "/home/whiz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:26:25.311382 nspr-4   Saving settings file "/home/whiz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+02:11:32.588058 MainPower Host suspending: Paused 1 VMs
+02:11:32.614062 MainPower Host resumed: Resumed 1 VMs
+02:12:02.652536 MainPower Host suspending: Paused 1 VMs
+02:12:02.686091 MainPower Host resumed: Resumed 1 VMs
+02:27:20.897029 MainPower Host suspending: Paused 1 VMs
+02:27:20.918732 MainPower Host resumed: Resumed 1 VMs
+02:37:14.163095 MainPower Host suspending: Paused 1 VMs
+02:37:14.184212 MainPower Host resumed: Resumed 1 VMs
+03:40:44.045892 MainPower Host suspending: Paused 1 VMs
+03:40:44.060858 MainPower Host resumed: Resumed 1 VMs
+04:38:47.803229 nspr-4   Saving settings file "/home/whiz/Documents/evolve2/Arch Test/Arch Test.vbox" with version "1.16-linux"
+04:38:47.913783 nspr-8   Saving settings file "/home/whiz/Documents/evolve2/Arch Test/Arch Test.vbox" with version "1.16-linux"
+04:38:54.342440 main     VirtualBox: object deletion starts
+04:38:54.342552 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/whiz/Documents/evolve2/Evolve/evolve.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+04:38:54.342928 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/whiz/Virtual Machines/Arco Linux/Arco Linux.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+04:38:54.343145 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/whiz/Documents/evolve2/Windows 10/Windows 10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+04:38:54.343356 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/whiz/Documents/evolve2/Arch Test/Arch Test.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+04:38:54.423343 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+04:38:59.344498 main     {00007fc16001fed0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+04:38:59.345345 main     VirtualBox: object deleted

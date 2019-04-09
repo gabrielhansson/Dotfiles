@@ -1,0 +1,344 @@
+{
+   "CheckedRunMB_CheckButton": {
+      "message": "Nerodyti daugiau šitos žinutės"
+   },
+   "Cmd_About_Key": {
+      "message": "&Apie..."
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "Panaikinti"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "Išvalyti laukus"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "(Išvalyti sąrašą)"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Uždaryti"
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Ar norite ištrinti %1 '%2'?"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Redaguoti"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Užpildyti &ištuštinti tik paraštes"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Užpildyti formas"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Eiti užpildyti"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Eiti"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "Pilnas &DUK"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "Identifikacijos"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Automatiškai prisijungti"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Automatiniai prisijungimai"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": " Automatiškai atsijungti"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "Katalogo &pavadinimas:"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Naujas katalogas"
+   },
+   "Cmd_New_Flat": {
+      "message": "Naujas"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Parinktys"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "Pakeisti paraščių parametrų nustatymą"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "Generuoti"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "Pastabos"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Išsaugoti"
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "Nustatyti paraštes"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "Išvalyti laukus"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "Užpildyti ir siųsti"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RoboForm parinktys"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "Nustatyti laukus iš naujo"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "Slaptažodžio generatorius"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "Išsaugoti formas"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "Nustatyti laukus"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "Blokuoti internetinį puslapį - RoboForm"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "Atidaryti internetinį puslapį - RoboForm"
+   },
+   "Editor_Indicator_ShowAll": {
+      "message": "Rodyti viską"
+   },
+   "Editor_Menu_View": {
+      "message": "&Peržiūrėti"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "Redaguoti"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "&Užpildyti formas"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "Užpildyti ir &siųsti"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "Slaptažodis:"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "Įveskite savo vardą ir pasirinkite šalį, kur gyvenate."
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "Kito atitikmens eilutės"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "Lauko vardas"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "Lauko reikšmė"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "Nauja identifikacija"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "Minimalus ženklų skaitmenimis kiekis slaptažodyje turi būti %1"
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Pagrindinio slaptažodžio ilgis turi būti tarp %1 ir %2 ženklų"
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "Minimalus ženklų mažosiomis raidėmis kiekis slaptažodyje turi būti %1"
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Minimalus ženklų didžiosiomis raidėmis kiekis turi būti %1"
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "&Naujas pagrindinis slaptažodis:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "&Senas pagrindinis slaptažodis:"
+   },
+   "Options_AutoSave_AltClickEnable_Text": {
+      "message": "&ALT+ pasijungimo mygtuko paspaudimas įjungia automatinį išsaugojimą"
+   },
+   "Options_AutoSave_AltClickEnable_Tip": {
+      "message": "ALT+click prisijungimo mygtuko paspaudimas įjungia automatinį išsaugojimą"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text": {
+      "message": "SHIFT+&ENTER tekstiniame lauke įjungia automatinį išsaugojimą"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Tip": {
+      "message": "SHIFT+ENTER tekstiniame laike įjungia automatinį išsaugojimą"
+   },
+   "Options_AutoSave_Title": {
+      "message": "Automatinis išsaugojimas"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "Atjungti RoboForm g&reitą iškvietimą klavišais naršyklėje"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "'Užpildyti ir siųsti' &pagal nutylėjimą yra veiksmas mano identifikacijoms"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "Jei pažymėta: veiksmas pagal nutylėjimą mano identifikacijos yra užpildyti ir siųsti. Jei nepažymėta: pagal nutylėjimą veiksmas mano identifikacijos yra užpildyti formas"
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "'Užpildyti ir siųsti' veiksmas pagal nutylėjimą &atitinkančioms leidimo kortoms"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "jei pažymėta: pagal nutylėjimą atitinkančioms leidimo kortoms yra užpildyti ir siųsti. Jei nepažymėta: pagal nutylėjimą veiksmas atitinkančioms leidimo kortoms yra užpildyti formas"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Klaviatūra"
+   },
+   "Options_Main_Title": {
+      "message": "RoboForm parinktys"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "Maksimalus &skaičius elementų labiausia naudojamų sąraše"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "Maksimalus elementų skaičius labiausia naudojamų sąraše"
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "Pasiūlymas &išsaugoti prijungimus iš internetinių (HTML) formų"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "Kai siunčiate užpildytą prisijungimo internetinę (HTML) formą, RoboForm pasiūlys išsaugoti ją į leidimo kortą"
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Naudoti &dešinį ALT greitam iškvietimui taip pat"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Jei pažymėta, tai  dešinio ALT + Key paspaudimas pasitelkia RoboForm greitojo iškvietimo klavišais priedu prie kairiojo ALT + Key.  Jei nepažymėta, tai RoboForm greitas iškvietimas pasiekiamas tik kairiojo ALT + Key klavišų deriniu"
+   },
+   "Options_Search_Title": {
+      "message": "Paieška"
+   },
+   "Options_Security_Title": {
+      "message": "Apsauga"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Greitojo iškvietimo sąrašas"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "RoboForm  greitojo iškvietimo sąrašas naršyklėje. Galite įjungti/išjungti kiekvieną jų atskirai"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "Pridėti lauką"
+   },
+   "PassCards_Note": {
+      "message": "Pastaba"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "&Ženklų skaičius:"
+   },
+   "PassGen_Copy": {
+      "message": "&Kopijuoti"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Kopijuoti generuotą slaptažodį į laikinąją atmintį"
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "Pašalinti vienodus ženklus"
+   },
+   "PassGen_Fill": {
+      "message": "&Užpildyti"
+   },
+   "PassGen_Generate": {
+      "message": "&Generuoti"
+   },
+   "PassGen_LeastNumber": {
+      "message": "Minimalus skaičių kiekis:"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Šešioliktainis 0-9, A-F"
+   },
+   "RI_Country": {
+      "message": "Šalis"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Banko sąskaita"
+   },
+   "RI_Group_Business": {
+      "message": "Verslas"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Kredito kortelė"
+   },
+   "RI_Group_Custom": {
+      "message": "Pritaikomi"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Autentifikacija"
+   },
+   "RI_Group_Location": {
+      "message": "Adresas"
+   },
+   "RI_Group_Person": {
+      "message": "Persona"
+   },
+   "Reg_Name_Prompt": {
+      "message": "&Vardas ir pavardė"
+   },
+   "RoboformType_Folder": {
+      "message": "Katalogas"
+   },
+   "RoboformType_Folders": {
+      "message": "Katalogai"
+   },
+   "RoboformType_Identities": {
+      "message": "Identifikacijos"
+   },
+   "RoboformType_Identity": {
+      "message": "Identifikacija"
+   },
+   "RoboformType_Safenote": {
+      "message": "Pastaba"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Pastabos"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "Įjungti automatinį išsaugojimą"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "Pakeisti e&sančią leidimo kortą:"
+   },
+   "SearchAction_QueryText": {
+      "message": "frazė"
+   },
+   "SearchAction_Search_In": {
+      "message": "Ieškoti '%%užklausimo%%' šiame %1"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "Ieškoti '%%užklausimo%%' RoboForm varduose"
+   },
+   "Search_Combo_Title": {
+      "message": "Ieškoti"
+   },
+   "Search_Def_Action_Bookmark": {
+      "message": "Eiti į '%1'"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "Redaguoti '%1'"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "pasijungti prie '%1'"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "Redaguoti '%1'"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "Nustatyti formų pildymą"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "Sukurti identifikaciją ilgų registracijų ir patikrinimų išsiregistravimų formoms"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "Pritaikyti paieškos dėžutę"
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "Ar jus įsitikinęs, kad norite pašalinti jūsų vartotojo duomenis, esančius '%1'?\n- %2 identifikacijas,\n- %3 leidimo kortas,\n- %4 pastabas,\n- %5 kitas bylas.\n\nJei pašalintos, šios asmeninės bylos bus prarastos."
+   }
+}

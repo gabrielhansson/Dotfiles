@@ -1,0 +1,5 @@
+# Based on: https://forum.manjaro.org/t/running-android-applications-on-arch-using-anbox/53332
+systemctl enable anbox-container-manager.service
+systemctl start anbox-container-manager.service
+exec /usr/local/bin/anbox-bridge
+

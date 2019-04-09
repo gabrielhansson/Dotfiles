@@ -1,0 +1,5 @@
+2019/03/30-00:42:08.082 199c Reusing MANIFEST /home/whiz/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/03/30-00:42:08.082 199c Recovering log #3
+2019/03/30-00:42:08.101 199c Level-0 table #3: started
+2019/03/30-00:42:08.130 199c Level-0 table #3: 1337042 bytes OK
+2019/03/30-00:42:08.133 199c Delete type=0 #3

@@ -1,0 +1,3 @@
+// Copyright (C) 1999-2019 Siber Systems Inc. All Rights Reserved.
+function AboutPage_OnLoad(){var t=browser.runtime.getManifest(),e=t.version,o=t.name;$("rf_about_extension_lbl").textContent=o,$("rf_about_version_td").textContent=localeString("About_Version2"),$("rf_about_version_td1").innerText=" "+e,$("rf_about_build_td1").innerText=" "+rf_builddate;var n="Copyright (C) 1999-2009 Siber Systems, Inc";n=n.replace(" 1999-2009 "," 1999-"+(new Date).getFullYear()+" "),$("rf_about_copyright_lbl").textContent=n}function trace(){console_output("PT: "+format_log_args(trace.caller,arguments))}function log(){console_output("PT: "+format_log_args(log.caller,arguments))}window.addEventListener("load",AboutPage_OnLoad,!0);
+//# sourceMappingURL=about.js.map

@@ -1,0 +1,1127 @@
+{
+   "About_Version2": {
+      "message": "Version:"
+   },
+   "AccountLicenseStatus_LicenseExpired": {
+      "message": "Lizenz ist vor %1 Tag(en) abgelaufen"
+   },
+   "Activate_VisitSupportLink_Text": {
+      "message": "Support kontaktieren"
+   },
+   "Android_accept": {
+      "message": "Akzeptieren"
+   },
+   "Android_audit_duplicates_title": {
+      "message": "Duplikate"
+   },
+   "Android_matching_dialog_title": {
+      "message": "Gleiche Anmeldungen"
+   },
+   "Android_menu_title_web_fill_identity": {
+      "message": "Aus Identität ausfüllen"
+   },
+   "Android_pref_set_master_password_title": {
+      "message": "Masterpasswort ändern"
+   },
+   "Android_received_has_no_permissions": {
+      "message": "Nicht genügend Rechte"
+   },
+   "Android_s_oreg_wait": {
+      "message": "wird bearbeitet..."
+   },
+   "Android_setting_category_tools_title": {
+      "message": "Werkzeuge"
+   },
+   "Android_wrong_password_error": {
+      "message": "Falsches Passwort"
+   },
+   "AutoSaveBar_PasswordEdit_Cuebanner": {
+      "message": "Passwort eingeben"
+   },
+   "CheckedRunMB_CheckButton": {
+      "message": "Diesen Hinweis nicht mehr anzeigen"
+   },
+   "Cmd_About_Key": {
+      "message": "&Über..."
+   },
+   "Cmd_ApplyChanges_Flat": {
+      "message": "Speichern"
+   },
+   "Cmd_Bookmarks_Flat": {
+      "message": "Bookmarks"
+   },
+   "Cmd_Cancel_Flat": {
+      "message": "A&bbrechen"
+   },
+   "Cmd_ClearFields_Flat": {
+      "message": "Formularfelder löschen"
+   },
+   "Cmd_ClearList_Key": {
+      "message": "~ [LISTE LEEREN] ~"
+   },
+   "Cmd_Close_Flat": {
+      "message": "Schließen"
+   },
+   "Cmd_Contacts_Flat": {
+      "message": "Kontakte"
+   },
+   "Cmd_CreateGroup_Key": {
+      "message": "Gruppe erstellen..."
+   },
+   "Cmd_CreateSharedFolder_Key": {
+      "message": "Freigegebenen Ordner erstellen..."
+   },
+   "Cmd_Delete_Confirm": {
+      "message": "Wollen Sie die %1 '%2' wirklich löschen?"
+   },
+   "Cmd_Delete_Flat": {
+      "message": "Löschen"
+   },
+   "Cmd_Done_Flat": {
+      "message": "Ausgeführt"
+   },
+   "Cmd_Edit_Flat": {
+      "message": "Editor"
+   },
+   "Cmd_FillEmptyOnly_Key": {
+      "message": "Nur &leere Felder ausfüllen"
+   },
+   "Cmd_FillForms_Flat": {
+      "message": "Ausfüllen"
+   },
+   "Cmd_GoFill_Flat": {
+      "message": "Zum Formular + Ausfüllen"
+   },
+   "Cmd_Goto_Flat": {
+      "message": "Zur Webseite"
+   },
+   "Cmd_Help_FaqAll_Key": {
+      "message": "Häufige &Fragen (FAQ)"
+   },
+   "Cmd_Help_Flat": {
+      "message": "Hilfe"
+   },
+   "Cmd_Identities_Flat": {
+      "message": "Identitäten"
+   },
+   "Cmd_Login_Flat": {
+      "message": "Anmelden"
+   },
+   "Cmd_Logins_Flat": {
+      "message": "Anmeldungen"
+   },
+   "Cmd_Logoff_Flat": {
+      "message": "Abmelden"
+   },
+   "Cmd_NewFolder_Prompt": {
+      "message": "Ordner&name:"
+   },
+   "Cmd_NewFolder_Title": {
+      "message": "Neuer Ordner"
+   },
+   "Cmd_New_Flat": {
+      "message": "Neu"
+   },
+   "Cmd_Options_Flat": {
+      "message": "Optionen"
+   },
+   "Cmd_PasswordAuditRun_Key": {
+      "message": "Sicherheitscenter"
+   },
+   "Cmd_PasswordAuditRun_Tip": {
+      "message": "öffne Sicherheitscenter"
+   },
+   "Cmd_Rename_Flat": {
+      "message": "Umbenennen"
+   },
+   "Cmd_Rename_Name_Prompt": {
+      "message": "Umbenennen in:"
+   },
+   "Cmd_ResetFields_Flat": {
+      "message": "Formularfelder zurücksetzen"
+   },
+   "Cmd_RoboForm_Flat": {
+      "message": "RoboForm"
+   },
+   "Cmd_RunPassGen_Flat": {
+      "message": "Generieren"
+   },
+   "Cmd_Safenotes_Flat": {
+      "message": "Sichere Notizen"
+   },
+   "Cmd_SaveForms_Flat": {
+      "message": "Speichern"
+   },
+   "Cmd_SendFile_Flat": {
+      "message": "Senden"
+   },
+   "Cmd_SendFile_Key": {
+      "message": "Senden..."
+   },
+   "Cmd_SetFields_Flat": {
+      "message": "Kontrollkästchen markieren"
+   },
+   "Cmd_SharedFolderSettings_Key": {
+      "message": "Teilen..."
+   },
+   "Cmd_Sync_RoboFormAccount_Key": {
+      "message": "RoboForm-Konto &verwalten"
+   },
+   "Cmd_Sync_Tip": {
+      "message": "Start RoboForm Account Synchronisation manuell"
+   },
+   "Cmd_ToolBarSync": {
+      "message": "Synchronisieren"
+   },
+   "Contacts_Cmd_New_Tip": {
+      "message": "Neuen Kontakt anlegen"
+   },
+   "ContextMenuAndShortcuts_ClearFields_Text": {
+      "message": "RF - Formularfelder löschen"
+   },
+   "ContextMenuAndShortcuts_FillSubmit_Text": {
+      "message": "RF - Anmelden"
+   },
+   "ContextMenuAndShortcuts_Options_Text": {
+      "message": "RF - Optionen"
+   },
+   "ContextMenuAndShortcuts_ResetFields_Text": {
+      "message": "RF - Formularfelder zurücksetzen"
+   },
+   "ContextMenuAndShortcuts_RunPassGen_Text": {
+      "message": "RF - Passwortgenerator"
+   },
+   "ContextMenuAndShortcuts_SaveForms_Text": {
+      "message": "RF - Formular speichern"
+   },
+   "ContextMenuAndShortcuts_SetFields_Text": {
+      "message": "RF - Kontrollkästchen markieren"
+   },
+   "CreateBlockingPass_Title": {
+      "message": "RF - Blockierte Anmeldung erstellen"
+   },
+   "DeleteBlockingPass_Title": {
+      "message": "RF - Webseitenblockierung aufheben"
+   },
+   "DeleteSharedFolder_ManagerCaption": {
+      "message": "Sind Sie sicher, dass Sie den Ordner '%1' endgültig löschen wollen? Alle Empfänger des freigegebenen Ordner werden mit gelöscht."
+   },
+   "Editor_Indicator_ShowAll": {
+      "message": "Alle anzeigen"
+   },
+   "Editor_Menu_View": {
+      "message": "&Ansicht"
+   },
+   "EmailIncorrect_Error": {
+      "message": "E-Mail ist nicht korrekt"
+   },
+   "EmergencyAccess_AcceptInvitation_Error": {
+      "message": "Einladung kann nicht angenommen werden \"%1\" : %2"
+   },
+   "EmergencyAccess_Accept_Invitation_Text": {
+      "message": "Akzeptiert"
+   },
+   "EmergencyAccess_AccessGranted_Status": {
+      "message": "Zugriff gewährt"
+   },
+   "EmergencyAccess_AccessRequestedDaysHours_Status": {
+      "message": "Angefordert. Daten sind verfügbar in %1 Tag(en) und %2 Stunde(n)"
+   },
+   "EmergencyAccess_AccessRequestedDays_Status": {
+      "message": "Angefordert. Daten werden in %1 Tag(en) verfügbar sein"
+   },
+   "EmergencyAccess_AccessRequestedHours_Status": {
+      "message": "Angefordert. Daten werden in %1 Stunde(n) verfügbar sein"
+   },
+   "EmergencyAccess_AccessRequested_Status": {
+      "message": "Angefordert"
+   },
+   "EmergencyAccess_AddContact_Banner": {
+      "message": "Kontakte-Mail eingeben"
+   },
+   "EmergencyAccess_AddContact_Email_Caption": {
+      "message": "E-Mail"
+   },
+   "EmergencyAccess_AddContact_Timeout_Caption": {
+      "message": "Auszeit"
+   },
+   "EmergencyAccess_AddContact_Title": {
+      "message": "Kontakt hinzufügen"
+   },
+   "EmergencyAccess_Cancel_Text": {
+      "message": "Abbrechen"
+   },
+   "EmergencyAccess_Close_Text": {
+      "message": "Schließen"
+   },
+   "EmergencyAccess_ContactAccepted_Status": {
+      "message": "Akzeptiert"
+   },
+   "EmergencyAccess_ContactInvited_Status": {
+      "message": "Eingeladen"
+   },
+   "EmergencyAccess_ContactRejected_Status": {
+      "message": "Abgelehnt"
+   },
+   "EmergencyAccess_ContactsCount_Title": {
+      "message": "Meine Notfallkontakte: %1"
+   },
+   "EmergencyAccess_Contacts_Title": {
+      "message": "Meine Notfallkontakte"
+   },
+   "EmergencyAccess_Download": {
+      "message": "Heunterladen"
+   },
+   "EmergencyAccess_DownloadAll_Text": {
+      "message": "Alles runterladen"
+   },
+   "EmergencyAccess_GetData_Error": {
+      "message": "Daten können nicht abgerufen werden \"%1\" : %2"
+   },
+   "EmergencyAccess_GetData_Help_Text": {
+      "message": "Dies sind Elemente, für die Ihnen %1 Notfallzugriff gewährt hat. Sie können sie in Ihrem RoboForm-Konto anzeigen oder hinzufügen. Wenn hinzugefügt, befinden sich die Objekte im Ordner Notfallzugriff."
+   },
+   "EmergencyAccess_GetData_Request_Text": {
+      "message": "Daten bekommen"
+   },
+   "EmergencyAccess_GetInfo_Error": {
+      "message": "Ich erhalte keine Info vom Notfallkonto %1"
+   },
+   "EmergencyAccess_GrantAccess_Error": {
+      "message": "Zugriff auf Kontakt kann nicht gewährt werden \"%1\" : %2"
+   },
+   "EmergencyAccess_GrantAccess_Text": {
+      "message": "Gewähren"
+   },
+   "EmergencyAccess_Help_Add_Hint": {
+      "message": "Bevor Ihr Notfallkontakt auf Ihre RoboForm-Daten zugreifen kann, muss er auf die von Ihnen eingestellte Zeit warten. Sie können die Notfallzugriffs-Anforderung jederzeit während dieser Zeit ablehnen."
+   },
+   "EmergencyAccess_Help_Hint": {
+      "message": "Wählen Sie einen vertrauenswürdigen Kontakt, um im Todesfall, Arbeitsunfähigkeit oder einfach als Methode zur Kontowiederherstellung sicheren Zugriff auf Ihre Daten zu erhalten."
+   },
+   "EmergencyAccess_Invite_Error": {
+      "message": "Kontakt kann nicht eingeladen werden \"%1\" : %2"
+   },
+   "EmergencyAccess_Loading_Title": {
+      "message": "wird geladen..."
+   },
+   "EmergencyAccess_Name_Title": {
+      "message": "Name"
+   },
+   "EmergencyAccess_Open": {
+      "message": "Öffnen"
+   },
+   "EmergencyAccess_Others_Title": {
+      "message": "Andere"
+   },
+   "EmergencyAccess_RejectAccess_Error": {
+      "message": "Zugriff kann nicht abgelehnt werden von \"%1\" : %2"
+   },
+   "EmergencyAccess_RejectInvitation_Error": {
+      "message": "Kann nicht ablehnen \"%1\" : %2"
+   },
+   "EmergencyAccess_RejectInvitation_Question": {
+      "message": "Sie lehnen es ab, der Notfallkontakt für \"%1\" zu sein."
+   },
+   "EmergencyAccess_Reject_Invitation_Text": {
+      "message": "Zugriff ablehnen"
+   },
+   "EmergencyAccess_RequestAccess_Error": {
+      "message": "Zugriff kann nicht angefordert werden \"%1\" : %2"
+   },
+   "EmergencyAccess_Request_Access_Text": {
+      "message": "Zugriffsanfrage"
+   },
+   "EmergencyAccess_RevokeAccess_Text": {
+      "message": "Widerrufen"
+   },
+   "EmergencyAccess_Revoke_Error": {
+      "message": "Kontakt kann nicht widerrufen werden \"%1\" : %2"
+   },
+   "EmergencyAccess_Revoke_Question": {
+      "message": "Sie widerrufen \"%1\" von Ihren Notfallkontakten."
+   },
+   "EmergencyAccess_Revoke_Tip": {
+      "message": "Notfallkontakt widerrufen"
+   },
+   "EmergencyAccess_Save_Text": {
+      "message": "Speichern"
+   },
+   "EmergencyAccess_SendInvite_Text": {
+      "message": "Hinzufügen"
+   },
+   "EmergencyAccess_Status_Title": {
+      "message": "Status"
+   },
+   "EmergencyAccess_TestatorsCount_Title": {
+      "message": "Ich bin Notfallkontakt für: %1"
+   },
+   "EmergencyAccess_Testators_Title": {
+      "message": "Ich bin Notfallkontakt für"
+   },
+   "EmergencyAccess_Timeout12hours_Text": {
+      "message": "12 Stunden"
+   },
+   "EmergencyAccess_Timeout14days_Text": {
+      "message": "14 Tage"
+   },
+   "EmergencyAccess_Timeout24hours_Text": {
+      "message": "24 Stunden"
+   },
+   "EmergencyAccess_Timeout2days_Text": {
+      "message": "2 Tage"
+   },
+   "EmergencyAccess_Timeout30days_Text": {
+      "message": "30 Tage"
+   },
+   "EmergencyAccess_Timeout3days_Text": {
+      "message": "3 Tage"
+   },
+   "EmergencyAccess_Timeout7days_Text": {
+      "message": "7 Tage"
+   },
+   "EmergencyAccess_TimeoutCustomDaysHours_Text": {
+      "message": "%1 Tage %2 Stunden"
+   },
+   "EmergencyAccess_TimeoutCustomDays_Text": {
+      "message": "%1 Tage"
+   },
+   "EmergencyAccess_TimeoutCustomHours_Text": {
+      "message": "%1 Stunden"
+   },
+   "EmergencyAccess_TimeoutImmediately_Text": {
+      "message": "Sofort"
+   },
+   "EmergencyAccess_Timeout_Title": {
+      "message": "Auszeit"
+   },
+   "EmergencyAccess_Title": {
+      "message": "Notfallzugang"
+   },
+   "EmergencyAccess_Update_Error": {
+      "message": "Kontakt kann nicht aktualisiert werden \"%1\" : %2"
+   },
+   "FillDlg_All_Identities_Key": {
+      "message": "Alle Identitäten anzeigen"
+   },
+   "FillDlg_All_Passcards_Key": {
+      "message": "Alle Anmeldungen anzeigen"
+   },
+   "FillDlg_Edit_Key": {
+      "message": "&Editor"
+   },
+   "FillDlg_FillForms_Key": {
+      "message": "A&usfüllen"
+   },
+   "FillDlg_FillSubmit_Key": {
+      "message": "An&melden"
+   },
+   "FillDlg_Pwd_Prompt": {
+      "message": "Passwort:"
+   },
+   "FirstIdentity_Prompt": {
+      "message": "Geben Sie Ihren Namen ein und wählen Sie das Land aus, in dem Sie leben."
+   },
+   "FocusSearchBox_Text": {
+      "message": "Fokus auf RoboForm-Suchfeld automatisch einstellen"
+   },
+   "HorizontalToolbar_Text": {
+      "message": "Layout der Popup-Symbolleistenelemente horizontal"
+   },
+   "HtmlControl_FieldMatchStrings_ColumnHeader": {
+      "message": "Weitere Namen"
+   },
+   "HtmlControl_FieldMatch_ColumnHeader": {
+      "message": "Feldname"
+   },
+   "HtmlControl_FieldValue_ColumnHeader": {
+      "message": "Inhalt"
+   },
+   "Identities_Cmd_New_Contact_Title": {
+      "message": "Neuer Kontakt"
+   },
+   "Identities_Cmd_New_Title": {
+      "message": "RF - Neue Identität"
+   },
+   "Import_BookmarkFrom_Title": {
+      "message": "Importieren Sie Ihre Bookmarks von "
+   },
+   "Import_BookmarksAddedCount_Text": {
+      "message": "%1 Bookmarks wurden hinzugefügt\n"
+   },
+   "Import_BookmarksExistedCount_Text": {
+      "message": "%1 Bookmarks waren bereits in RoboForm\n"
+   },
+   "Import_ImportButton_Text": {
+      "message": "Importieren"
+   },
+   "Import_ReportBookmarks_Text": {
+      "message": "%1 Bookmarks hinzugefügt\n%2 Bookmarks waren bereits in RoboForm\n"
+   },
+   "Import_Succeeded_Title": {
+      "message": "Der Import wurde erfolgreich abgeschlossen"
+   },
+   "Install_Back": {
+      "message": "Zurück"
+   },
+   "Install_ConfirmRoboFormMasterPassword2": {
+      "message": "Passwort bestätigen:"
+   },
+   "Install_CreateMasterPassword_Prompt": {
+      "message": "Ein Masterpasswort wird verwendet, um alle Ihre in RoboForm gespeicherten Passwörter und andere Daten zu schützen. Sie werden zur Eingabe Ihres Masterpasswortes aufgefordert, um die RoboForm-Daten verwenden zu können."
+   },
+   "Install_Email": {
+      "message": "E-Mail:"
+   },
+   "Install_Next": {
+      "message": "Weiter"
+   },
+   "Install_No": {
+      "message": "Nein"
+   },
+   "Install_OnlineSetup_Title2": {
+      "message": "RoboForm einrichten"
+   },
+   "Install_PasswordTooShort": {
+      "message": "Das Passwort muss mindestens 6 Zeichen lang sein."
+   },
+   "Install_Yes": {
+      "message": "Ja"
+   },
+   "LicenseExpirationWarning_EnterpriseExpired_Title": {
+      "message": "Das RoboForm Business-Abo ist abgelaufen"
+   },
+   "LicenseExpirationWarning_LicenseExpired_Title": {
+      "message": "Ihr Abo ist abgelaufen"
+   },
+   "LicenseExpirationWarning_RenewLink": {
+      "message": "Jetzt erneuern"
+   },
+   "LicenseExpirationWarning_SelfAdv_EnterpriseCaption": {
+      "message": "Bitte wenden Sie sich an Ihren RoboForm-Kontoadmin"
+   },
+   "LicenseExpirationWarning_SyncIsNotAllowedByLicense": {
+      "message": "Die Synchronisierung ist nur für kostenpflichtige Konten zulässig."
+   },
+   "LicenseExpirationWarning_TrialExpired_Title": {
+      "message": "Ihre kostenlose Testversion ist abgelaufen"
+   },
+   "LicenseExpirationWarning_UpgradeExpl": {
+      "message": "Sie haben Ihre freien Begrenzungen überschritten.\nBitte aktualisieren Sie RoboForm."
+   },
+   "MasterPass_New_BlanksOnly_Error": {
+      "message": "Das Masterpasswort darf nicht nur aus Leerzeichen bestehen"
+   },
+   "MasterPass_New_DigitChars_Error": {
+      "message": "Das Masterpasswort muss mindestens %1 Ziffer(n) aufweisen."
+   },
+   "MasterPass_New_Length_Error": {
+      "message": "Das Masterpasswort muss zwischen %1 und %2 Zeichen lang sein."
+   },
+   "MasterPass_New_LowerCaseChars_Error": {
+      "message": "Das Masterpasswort muss mindestens %1 Kleinbuchstaben aufweisen."
+   },
+   "MasterPass_New_NonNumChars_Error": {
+      "message": "Die Mindestanzahl von nicht numerischen Zeichen im Passwort muss %1 sein"
+   },
+   "MasterPass_New_TheSameAsPrevious_Error": {
+      "message": "Das neue Masterpasswort muss sich vom Aktuellen unterscheiden."
+   },
+   "MasterPass_New_UpperCaseChars_Error": {
+      "message": "Das Masterpasswort muss mindestens %1 Großbuchstaben aufweisen."
+   },
+   "MasterPass_Prompt_TypeNew": {
+      "message": "&Neues Masterpasswort:"
+   },
+   "MasterPass_Prompt_TypeOld": {
+      "message": "&Altes Masterpasswort:"
+   },
+   "NameInvalidCharacter_Error2": {
+      "message": "Der Name darf nicht leer sein und und keine der folgenden Zeichen enthalten: \\ / : * ? \" \u003C > |"
+   },
+   "NewSharedFolder_Title": {
+      "message": "Name:"
+   },
+   "NewSharedFolder_WindowTitle": {
+      "message": "RoboForm - Freigegebenen Ordner erstellen"
+   },
+   "Options_AutoSave_AltClickEnable_Text": {
+      "message": "&ALT+Klick auf Anmeldebutton erzwingt 'AutoSpeichern'"
+   },
+   "Options_AutoSave_AltClickEnable_Tip": {
+      "message": "Mit ALT+Klick auf den Button zum Anmelden im Formular wird der 'AutoSpeichern'-Dialog aufgerufen"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Text": {
+      "message": "&Umschalt+Eingabe-Taste im Textfeld erzwingt 'AutoSpeichern'"
+   },
+   "Options_AutoSave_ShiftEnterEnable_Tip": {
+      "message": "Mit Umschalt+Eingabe-Taste im Textfeld des Formulars wird der 'AutoSpeichern'-Dialog aufgerufen."
+   },
+   "Options_AutoSave_Title": {
+      "message": "AutoSpeichern"
+   },
+   "Options_DisableShortcuts_Text": {
+      "message": "&Shortcuts im Browser aktivieren"
+   },
+   "Options_Fill_SubmitDefButton_ID_Text": {
+      "message": "Anmelden als Standardaktion für eigene &Identitäten"
+   },
+   "Options_Fill_SubmitDefButton_ID_Tip": {
+      "message": "Aktiviert: Anklicken des Identitätsbutton führt 'Anmelden' aus. Deaktiviert: Anklicken führt 'Ausfüllen' aus."
+   },
+   "Options_Fill_SubmitDefButton_PC_Text": {
+      "message": "Anmelden als Standardaktion für passende &Anmeldungen"
+   },
+   "Options_Fill_SubmitDefButton_PC_Tip": {
+      "message": "Aktiviert: Anklicken des Anmeldebutton führt 'Anmelden' aus. Deaktiviert: Anklicken führt 'Ausfüllen' aus."
+   },
+   "Options_ImportFrame_Text": {
+      "message": "Daten in RoboForm importieren"
+   },
+   "Options_Keyboard_Title": {
+      "message": "Tastatur"
+   },
+   "Options_Main_Title": {
+      "message": "RoboForm Optionen"
+   },
+   "Options_MruMaxNumber_Text": {
+      "message": "Maximale Einträge zuletzt verwendeter Anmeldungen"
+   },
+   "Options_MruMaxNumber_Tip": {
+      "message": "Wählen Sie die maximale Anzahl von Einträgen der zuletzt verwendeten Anmeldungen."
+   },
+   "Options_OfferAutoSave_WebForms2_Text": {
+      "message": "Speichern für Webformulare (&HTML) anbieten"
+   },
+   "Options_OfferAutoSave_WebForms_Tip": {
+      "message": "Wenn Sie den Button zum Abschicken von Formulardaten betätigen, bietet RoboForm Ihnen an, die Daten als Anmeldung zu speichern."
+   },
+   "Options_RightAltForShortcuts_Text": {
+      "message": "Auch AltGr-&Taste für Zugriff nutzen"
+   },
+   "Options_RightAltForShortcuts_Tip": {
+      "message": "Aktiviert: Die Tastenkombinationen [AltGr]+[Taste] wirken wie die Shortcuts [Alt]+[Taste]. Deaktiviert: Nur die Tastenkombinationen [Alt]+[Taste] dienen als Shortcuts."
+   },
+   "Options_Search_Title": {
+      "message": "Suche"
+   },
+   "Options_Security_Title": {
+      "message": "Sicherheit"
+   },
+   "Options_Shortcut_Alt_Text": {
+      "message": "Alt"
+   },
+   "Options_Shortcut_Ctrl_Text": {
+      "message": "Strg"
+   },
+   "Options_Shortcut_Shift_Text": {
+      "message": "Umschalt"
+   },
+   "Options_ShortcutsList_Text": {
+      "message": "Shortcuts"
+   },
+   "Options_ShortcutsList_Tip": {
+      "message": "Liste der RoboForm-Shortcuts im Browser. Sie können einzeln aktiviert/deaktiviert werden."
+   },
+   "Options_Sync_Account_Text": {
+      "message": "Konto:"
+   },
+   "OvrCfm_Overwrite_Text": {
+      "message": "Überschreiben"
+   },
+   "PassAud_AverageSafetyLevel_Text": {
+      "message": "Viele Ihrer Passwörter sind schwach oder werden für mehrere Konten verwendet. Ersetzen Sie sie durch einzigartige, zufällig generierte Passwörter, um Ihre Punktzahl zu verbessern."
+   },
+   "PassAud_AverageSafetyLevel_Tittle": {
+      "message": "Mittel"
+   },
+   "PassAud_BadSafetyLevel_Text": {
+      "message": "Wir haben eine Reihe von schwachen oder doppelten Passwörtern entdeckt. Um Ihre Punktzahl zu verbessern, erstellen Sie starke und einzigartige Passwörter mit dem Passwortgenerator."
+   },
+   "PassAud_BadSafetyLevel_Tittle": {
+      "message": "Niedrig"
+   },
+   "PassAud_GoodSafetyLevel_Text": {
+      "message": "Erstellen Sie weiterhin eindeutige und sichere Passwörter für all Ihre Anmeldungen."
+   },
+   "PassAud_GoodSafetyLevel_Tittle": {
+      "message": "Super"
+   },
+   "PassAud_ItemAge_Title": {
+      "message": "Alter"
+   },
+   "PassAud_ItemLocation_Title": {
+      "message": "Standort"
+   },
+   "PassAud_ItemName_Title": {
+      "message": "Name"
+   },
+   "PassAud_ItemPasswordStrength_Title": {
+      "message": "Passwortstärke"
+   },
+   "PassAud_ItemPassword_Title": {
+      "message": "Passwort"
+   },
+   "PassAud_ItemUrl_Title": {
+      "message": "URL"
+   },
+   "PassAud_MediumSafetyLevel_Text": {
+      "message": "Die meisten Ihrer Passwörter sind einzigartig und komplex. Prüfen Sie die Liste unten, um schwache oder doppelte Passwörter zu finden und zu ersetzen."
+   },
+   "PassAud_MediumSafetyLevel_Tittle": {
+      "message": "Gut"
+   },
+   "PassAud_NA_Text": {
+      "message": "Fügen Sie einige Anmeldungen hinzu, um Ihre Sicherheitspunkte zu sehen."
+   },
+   "PassAud_PwdStrengthGood": {
+      "message": "Gut"
+   },
+   "PassAud_PwdStrengthMedium": {
+      "message": "Mittel"
+   },
+   "PassAud_PwdStrengthStrong": {
+      "message": "Stark"
+   },
+   "PassAud_PwdStrengthWeak": {
+      "message": "Schwach"
+   },
+   "PassAud_ReusedGroup_Title": {
+      "message": "Gruppe mit wieder benutztem Passwort"
+   },
+   "PassAud_SummaryScore": {
+      "message": "Ihr Sicherheitsfaktor"
+   },
+   "PassAud_TabAllPasswords_Title": {
+      "message": "Alle"
+   },
+   "PassAud_TabCompleteDuplicates_Title": {
+      "message": "Duplikate vervollständigen"
+   },
+   "PassAud_TabReusedkPasswords_Title": {
+      "message": "Mehrfach verwendet"
+   },
+   "PassCards_Button_PasswordValuesAsStars_Tip": {
+      "message": "Pasworteingaben als Sternchen oder Text anzeigen"
+   },
+   "PassCards_Cmd_AddField_Title": {
+      "message": "Feld hinzufügen"
+   },
+   "PassCards_Cmd_Fields_Flat": {
+      "message": "Felder"
+   },
+   "PassCards_Note": {
+      "message": "Notiz"
+   },
+   "PassGen_CharNumber_Text": {
+      "message": "Anzahl der Zeichen:"
+   },
+   "PassGen_Copy": {
+      "message": "&Kopieren"
+   },
+   "PassGen_Copy_Tip": {
+      "message": "Kopiert das generierte Passwort in die Zwischenablage."
+   },
+   "PassGen_ExcludeSimilar": {
+      "message": "Ähnliche Zeichen ausschließen!"
+   },
+   "PassGen_Fill": {
+      "message": "Aus&füllen"
+   },
+   "PassGen_Generate": {
+      "message": "&Generieren"
+   },
+   "PassGen_LeastNumber": {
+      "message": "&Mindestanzahl der Stellen: "
+   },
+   "PassGen_ShowAdvanced": {
+      "message": "Erweiterte Einstellungen"
+   },
+   "PassGen_UseHexChars": {
+      "message": "Nur Hexadezimalzeichen: 0-9 und A-F"
+   },
+   "Passw_Account_Title": {
+      "message": "für folgendes RoboForm-Konto:"
+   },
+   "Passw_ChangeAccount": {
+      "message": "Konto wechseln"
+   },
+   "Policy_CommandDisabled_Message": {
+      "message": "Die Verwendung dieses Befehls ist durch die Sicherheitsrichtlinien untersagt."
+   },
+   "Policy_DisableNonGroupData_Message": {
+      "message": "Der Befehl ist durch Regeln verboten. Sie können Daten nur innerhalb von Gruppen erstellen"
+   },
+   "Policy_MasterPasswordChangeDisabled": {
+      "message": "Das Ändern oder Erstellen des Masterpassworts ist durch die Sicherheitsrichtlinien untersagt."
+   },
+   "ProAd_UpgradeNow_Button": {
+      "message": "Jetzt aktualisieren"
+   },
+   "RFOError_PasswordIsEmpty": {
+      "message": "Passwort ist leer"
+   },
+   "RFOError_WrongUserIDOrPassword": {
+      "message": "Die Benutzerkennung oder das Passwort ist ungültig."
+   },
+   "RFOSetup_CreateNewAccount": {
+      "message": "Neues Konto erstellen"
+   },
+   "RFOSetup_EnterAccountId": {
+      "message": "E-Mail oder Benutzer ID:"
+   },
+   "RFOSetup_SuspendedAccount_Error": {
+      "message": "RoboForm-Konto '%1' ist gesperrt"
+   },
+   "RFO_EnterOTP_Text2": {
+      "message": "Ihr OTP:"
+   },
+   "RFO_TwoFactorCaption_Text": {
+      "message": "Einmaliges Passwort"
+   },
+   "RFO_TwoFactorIsOn_Text2": {
+      "message": "Die Einstellung für das Einmalige Passwort (OTP) ist für Ihr Konto aktiviert.\nFür diese Einstellung müssen Sie ein OTP eingeben, um von jedem neuen Gerät oder Browser aus auf Ihr Konto zugreifen zu können."
+   },
+   "RFO_TwoFactor_ByEmail_Text2": {
+      "message": "Das OTP wurde an Ihre bestätigte E-Mailadresse gesendet."
+   },
+   "RFO_TwoFactor_BySMS_Text2": {
+      "message": "Das OTP wurde per SMS an Ihre bestätigte Telefonnummer gesendet."
+   },
+   "RFO_TwoFactor_Generic_Text": {
+      "message": "Das einmalige Passwort hier senden."
+   },
+   "RI_Country": {
+      "message": "Land"
+   },
+   "RI_Group_Bank_Account": {
+      "message": "Bankkonto"
+   },
+   "RI_Group_Business": {
+      "message": "Gesch."
+   },
+   "RI_Group_Car": {
+      "message": "Auto"
+   },
+   "RI_Group_Credit_Card": {
+      "message": "Kreditkarte"
+   },
+   "RI_Group_Custom": {
+      "message": "Individuell"
+   },
+   "RI_Group_Default_Password": {
+      "message": "Standard-Passwort"
+   },
+   "RI_Group_Location": {
+      "message": "Adresszeile"
+   },
+   "RI_Group_Passport": {
+      "message": "Ausweis"
+   },
+   "RI_Group_Person": {
+      "message": "Person"
+   },
+   "Reg_Name_Prompt": {
+      "message": "&Vor- und Zuname"
+   },
+   "RejectFolder_Caption": {
+      "message": "Sie lehnen den freigegebenen Ordner '%1' ab."
+   },
+   "RejectSharedFolder_WarningMessage": {
+      "message": "Sie verlieren den Zugriff auf Daten vom Ordner '%1'. Wollen Sie den Ordner wirklich ablehnen?"
+   },
+   "RoboformType_Bookmark": {
+      "message": "Bookmark"
+   },
+   "RoboformType_Bookmarks": {
+      "message": "Bookmarks"
+   },
+   "RoboformType_Contact": {
+      "message": "Kontakt"
+   },
+   "RoboformType_Contacts": {
+      "message": "Kontakte"
+   },
+   "RoboformType_File": {
+      "message": "Datei"
+   },
+   "RoboformType_Files": {
+      "message": "Dateien"
+   },
+   "RoboformType_Folder": {
+      "message": "Ordner"
+   },
+   "RoboformType_Folders": {
+      "message": "Ordner"
+   },
+   "RoboformType_Identities": {
+      "message": "Identitäten"
+   },
+   "RoboformType_Identity": {
+      "message": "Identität"
+   },
+   "RoboformType_Login": {
+      "message": "Anmeldung"
+   },
+   "RoboformType_Logins": {
+      "message": "Anmeldungen"
+   },
+   "RoboformType_Safenote": {
+      "message": "Sichere Notiz"
+   },
+   "RoboformType_Safenotes": {
+      "message": "Sichere Notizen"
+   },
+   "RoboformType_Searchcard": {
+      "message": "Suchkarte"
+   },
+   "RoboformType_Searchcards": {
+      "message": "Suchkarten"
+   },
+   "SafeNotes_Cmd_New_Title": {
+      "message": "Neue Sichere Notiz"
+   },
+   "SaveDlg_Enable_Key": {
+      "message": "AutoSpeichern aktivieren"
+   },
+   "SaveDlg_Existing_Login_Selector": {
+      "message": "Bestehendes Konto ersetzen:"
+   },
+   "SaveDlg_Existing_Passcards": {
+      "message": "&Vorhandene Anmeldungen:"
+   },
+   "SaveDlg_FinalMessage_LoginSaved_Text2": {
+      "message": "Ihre Anmeldung wurde gespeichert!"
+   },
+   "SaveDlg_Folder_Text": {
+      "message": "Ordner:"
+   },
+   "SaveDlg_Name_Text": {
+      "message": "Name:"
+   },
+   "SaveDlg_NeverForThisSite_Text": {
+      "message": "Nie für diese Seite"
+   },
+   "SaveDlg_NewFolder_Text": {
+      "message": "Ordner erstellen..."
+   },
+   "SaveDlg_NewSafenote_Title2": {
+      "message": "Neue sichere Notiz erstellen"
+   },
+   "SaveDlg_New_Login_Selector": {
+      "message": "Namensvorschläge:"
+   },
+   "SaveDlg_SaveAs_Bookmark_Text": {
+      "message": "Bookmark"
+   },
+   "SaveDlg_SaveAs_Login_Text": {
+      "message": "Anmelden"
+   },
+   "SaveDlg_SaveBookmarkQuestion_Text": {
+      "message": "Wollen Sie, dass RoboForm Ihr Bookmark speichert?"
+   },
+   "SaveDlg_SaveLoginQuestion_Text": {
+      "message": "Wollen Sie, dass RoboForm Ihr Passwort speichert?"
+   },
+   "SaveDlg_Unblock_Key": {
+      "message": "Entsperren"
+   },
+   "SearchAction_QueryText": {
+      "message": "Phrase"
+   },
+   "SearchAction_Search_In": {
+      "message": "Suche '%%query%%' in %1"
+   },
+   "SearchAction_Search_In_RoboForm_Names": {
+      "message": "Suche '%%query%%' in RF-Dateinamen"
+   },
+   "Search_Combo_Title": {
+      "message": "Suche"
+   },
+   "Search_Def_Action_Bookmark": {
+      "message": "Gehe zu '%1'"
+   },
+   "Search_Def_Action_Contact": {
+      "message": "'%1' bearbeiten"
+   },
+   "Search_Def_Action_Identity_Toolbar": {
+      "message": "Ausfüllen aus '%1'"
+   },
+   "Search_Def_Action_Passcard": {
+      "message": "Bei '%1' anmelden"
+   },
+   "Search_Def_Action_Safenote": {
+      "message": "'%1' bearbeiten"
+   },
+   "SensitiveFields_Text_2": {
+      "message": "RoboForm hat sensible Felder gefunden. Bitte bestätigen Sie, dass diese Felder ausgefüllt werden dürfen:"
+   },
+   "SensitiveFields_Title2": {
+      "message": "Sensible Felder gefunden"
+   },
+   "Setup_ConfirmMasterPassword_Password_Text": {
+      "message": "Masterpasswort:"
+   },
+   "Setup_ConfirmMasterPassword_Prompt": {
+      "message": "Vergewissern Sie sich, dass Sie Ihr Masterpasswort richtig eingeben"
+   },
+   "Setup_ConfirmMasterPassword_Title": {
+      "message": "Masterpasswort bestätigen"
+   },
+   "Setup_LoginWithExistingAccount_Text": {
+      "message": "Mit bestehendem Konto anmelden"
+   },
+   "Setup_MasterPassword_HeaderSubtitle": {
+      "message": "Nur Sie kennen Ihr Masterpasswort"
+   },
+   "Setup_Welcome_HeaderTitle": {
+      "message": "Willkommen bei RoboForm"
+   },
+   "Setup_Welcome_Title": {
+      "message": "Gratiskonto erstellen"
+   },
+   "SharedFileSettings_Close": {
+      "message": "Schließen"
+   },
+   "SharedFileSettings_InfoDescription": {
+      "message": "Sie können Dateien kopieren, verschieben, umbenennen und löschen."
+   },
+   "SharedFileSettings_Loading": {
+      "message": "wird geladen..."
+   },
+   "SharedFileSettings_Revoke_Tip": {
+      "message": "Zugriffsrechte entziehen"
+   },
+   "SharedFileSettings_SendOneItem_Title": {
+      "message": "Senden Sie ein %1 an"
+   },
+   "SharedFileSettings_SentBy": {
+      "message": "Gesendet von %1"
+   },
+   "SharedFileSettings_SharedWith": {
+      "message": "Wer hat Zugriff:"
+   },
+   "SharedFileSettings_Title": {
+      "message": "RoboForm teilen"
+   },
+   "SharedFile_Revoke_Confirmation": {
+      "message": "Sind Sie sicher, dass Sie die freigegebene Datei '%1' vom Benutzer %2 widerrufen wollen?"
+   },
+   "SharedFilesConfirmation_Title": {
+      "message": "Ein RoboForm-Benutzer will einige RoboForm-Daten mit Ihnen teilen.\nAkzeptieren oder lehnen Sie die freigegebenen Dateien ab:"
+   },
+   "SharedFolderSettings_AddRecipientBanner": {
+      "message": "E-Mailadresse eingeben"
+   },
+   "SharedFolderSettings_AddRecipient_Title": {
+      "message": "Empfänger hinzufügen:"
+   },
+   "SharedFolderSettings_CancelChanges": {
+      "message": "Abbrechen"
+   },
+   "SharedFolderSettings_CreatedByMe_Text": {
+      "message": "Erstellt von mir"
+   },
+   "SharedFolderSettings_DeleteSharedFolder": {
+      "message": "Löschen"
+   },
+   "SharedFolderSettings_LimitedDescription": {
+      "message": "Sie können Logins nur im Ordner verwenden."
+   },
+   "SharedFolderSettings_LimitedDescription2": {
+      "message": "Sie können Elemente in dem Ordner verwenden."
+   },
+   "SharedFolderSettings_ManagerDescription": {
+      "message": "Sie können Ordner freigeben und bearbeiten."
+   },
+   "SharedFolderSettings_RecipientEmail_Caption": {
+      "message": "Empfänger E-Mail"
+   },
+   "SharedFolderSettings_RecipientRole_Caption": {
+      "message": "Rolle"
+   },
+   "SharedFolderSettings_RegularDescription": {
+      "message": "Sie können Ordner bearbeiten."
+   },
+   "SharedFolderSettings_RejectSharedFolder": {
+      "message": "Ablehnen"
+   },
+   "SharedFolderSettings_Revoke_Tip": {
+      "message": "Zugriffsrechte entziehen"
+   },
+   "SharedFolderSettings_RoleAdmin": {
+      "message": "Admin"
+   },
+   "SharedFolderSettings_RoleLimitedUser": {
+      "message": "Begrenzte Benutzer"
+   },
+   "SharedFolderSettings_RoleLimitedUser_Tip": {
+      "message": "Nur verwenden, Passwörter verstecken"
+   },
+   "SharedFolderSettings_RoleManager": {
+      "message": "Verwalter"
+   },
+   "SharedFolderSettings_RoleManager_Tip": {
+      "message": "Regelmäßige Benutzer verwalten"
+   },
+   "SharedFolderSettings_RoleRegularUser": {
+      "message": "Regelmäßige Benutzer"
+   },
+   "SharedFolderSettings_RoleRegularUser_Tip": {
+      "message": "Lesen-Schreiben, Passwörter anzeigen"
+   },
+   "SharedFolderSettings_SaveChanges": {
+      "message": "Anwenden"
+   },
+   "SharedFolderSettings_SendInvite": {
+      "message": "Hinzufügen"
+   },
+   "SharedFolderSettings_SentBy_Text": {
+      "message": "Gesendet von %1"
+   },
+   "SharedFolderSettings_SharedWith_Title": {
+      "message": "Wer hat Zugang:"
+   },
+   "SharedFolderSettings_StopSharingFolder": {
+      "message": "Freigabe beenden"
+   },
+   "SharedFoldersConfirmation_Title": {
+      "message": "Ein RoboForm-Benutzer will einige RoboForm-Daten mit Ihnen teilen. Akzeptieren oder lehnen Sie die freigegebenen Ordner ab:"
+   },
+   "ShowBrowserActionPopup_Text": {
+      "message": "Popup RoboForm-Symbolleiste aktivieren"
+   },
+   "ShowLowerToolbarForPopup_Text": {
+      "message": "Zeigen Sie die untere RoboForm-Symbolleiste für Popup-Fenster an"
+   },
+   "ShowLowerToolbar_Text": {
+      "message": "Untere RoboForm-Symbolleiste anzeigen"
+   },
+   "ShowOptionsDlg_Link_Text": {
+      "message": "Weitere Optionen..."
+   },
+   "StartPage_RecentlyUsed": {
+      "message": "Kürzlich verwendet"
+   },
+   "StopSharingFolder_WarningMessage": {
+      "message": "Sie werden aufhören, den Ordner '%1' freizugeben. Eine Kopie des freigegebenen Ordners verbleibt in Ihrem persönlichen Speicher. Alle Empfänger des freigegebenen Ordners werden widerrufen, und der Ordner wird gelöscht, wenn Sie der letzte Manager oder Firmensadmin (für Gruppen) sind. Sind Sie sicher?"
+   },
+   "Toolbar_Chrome_Match_Title": {
+      "message": "Fromular ausfüllen:"
+   },
+   "Toolbar_Identity_Create_Flat": {
+      "message": "Neue Identität"
+   },
+   "Toolbar_Identity_Create_Tip": {
+      "message": "Legt eine neue Identität zum Ausfüllen von Formularen an. Sobald Ihre Daten in die Identität eingetragen sind, können Sie Webformulare durch einfaches Anklicken des Identitätsnamens in der RoboForm-Leiste mit den Daten aus dieser Identität automatisch ausfüllen lassen."
+   },
+   "Toolbar_Identity_Fill_HelpMsg_HeaderText": {
+      "message": "Füllen Sie Formulare mit Ihrer Identität aus"
+   },
+   "Toolbar_Search_Customize_Text": {
+      "message": "Suchfeld anpassen..."
+   },
+   "Uninstall_UserDataErase_Text": {
+      "message": "Wollen Sie wirklich Ihre Benutzerdaten im Verzeichnis '%1' löschen?\n\n - %2 Identitäten,\n - %3 Anmeldungen,\n - %4 Sichere Notizen,\n - %5 andere Dateien\n\nEinmal gelöscht, sind die Dateien unwiederbringlich weg."
+   }
+}

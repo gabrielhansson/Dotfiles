@@ -1,0 +1,140 @@
+#setup_notification_div,
+#mainscreen,
+#search_bar_dropdown,
+#identity_minidialog_div,
+#match_dialog_div,
+#contextmenu_div {
+    display: none;
+}
+
+#setup_notification_div {
+    display: none;
+    overflow-y: hidden;
+    font-family: 'Segoe UI';
+    background-color: white;
+    max-width: 375px;
+    min-width: 375px;
+    padding-top: 15px;
+    margin: 0;
+    z-index: 1000;
+}
+
+/** setup main text, to the right from the logo**/
+#setup_welcome {
+    font-weight: 400;
+    color: RGB(10, 10, 10);
+    font-size: 19px;
+    text-align: center;
+    white-space: normal;
+    padding-top: 20px;
+}
+
+#proxy_waitinit_div {
+    display: none;
+    overflow-y: hidden;
+    font-family: 'Segoe UI';
+    background-color: white;
+    max-width: 375px;
+    min-width: 375px;
+    padding-top: 15px;
+    margin: 0;
+    z-index: 1000;
+}
+
+#wait_logo {
+    text-align: center;
+    opacity: 0.3;
+}
+#setup_logo {
+    text-align: center;
+}
+
+#setup_logo_img1,
+#setup_logo_img {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+#setup_description {
+    text-indent: 0;
+    font-size: 14px;
+    text-align: center;
+    line-height: 22px;
+    white-space: normal;
+    margin: 24px 20px;
+}
+
+/* Bottom table */
+
+#setup_bottom {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#setup_notification_buttons {
+}
+
+#start_sa_link,
+#start_nm_button,
+#download_button {
+    display: none;
+    padding: 0;
+    height: 34px;
+    min-height: 34px;
+    max-height: 34px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+}
+
+#start_sa_link_container {
+}
+
+#start_sa_link {
+    color: RGB(113, 113, 113);
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#start_nm_button {
+    width: 150px;
+    min-width: 150px;
+    max-width: 150px;
+}
+
+#download_button {
+    width: 130px;
+    min-width: 130px;
+    max-width: 130px;
+    margin: 0 0 10px 0;
+    background: #2979ff;
+    font-size: 15px;
+    border: 1px #2962ff;
+    color: white;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+#download_button:hover {
+    background: #448aff;
+}
+
+#download_button:active {
+    background: #2962ff;
+}
+#download_button:disabled {
+    background: #808080;
+}
+
+/* TODO */
+
+#toolbar,
+#message {
+    display: none;
+}
+
+body {
+    margin: 0;
+}
