@@ -1,0 +1,11 @@
+# Path to directory where videos are saved
+download_dir=/home/whiz
+
+# Desired format code (use youtube-dl -F $URL to see format codes)
+# default is 0 (autodetect best)
+# 22 = 720p mp4
+format=22
+
+# Allow duplicate URLs in queue (default 0 == no)
+allowDuplicates=0
+

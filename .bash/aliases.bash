@@ -2,7 +2,7 @@
 
 # Better stdout
 alias la='ls -Ah'
-alias ls='ls -1'
+alias ls='ls -1 --color=auto'
 alias links='find . -maxdepth 1 -type l -ls'
 alias open='xdg-open'
 alias mkdir='mkdir -pv'
@@ -13,6 +13,7 @@ alias xp='xprop | awk -F\"'" '/CLASS/ {printf \"NAME = %s\nCLASS = %s\n\", \$2, 
 alias tree='tree -a'
 alias bat='upower -i /org/freedesktop/UPower/devices/battery_BAT0| grep -E "state|to\ full|percentage"'
 alias config="git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
+alias dd="sudo dd status=progress if=input_file_name of=output_file_name"
 
 alias get='curl --continue-at - --location --progress-bar --remote-name --remote-time'
 alias rsync='rsync -v --progress'
@@ -46,6 +47,7 @@ if [[ $TERM == *tmux* ]]; then
     alias :vs='tmux split-window -h'
 fi
 
-# Emacs
-alias e='emacsclient -t'
-
+alias screenshot="sudo scrot -s -e 'mv $f $HOME/Pictures/Screenshots'"
+alias battery="upower -i `upower -e | grep 'BAT'`"
+alias webapp="google-chrome-stable --app=https://"
+alias hide="hideIt.sh -N '^polybar' -p 3 -d bottom  -H"

@@ -1,29 +1,28 @@
+#    Check out http://i3wm.org/docs/userguide.html for a complete reference.
+
 # Xresources      var      value       fallback
-set_from_resource $bg       background  #19043C
-set_from_resource $fg       foreground  #F1F1F1
-set_from_resource $color0   color0      #19043C
-set_from_resource $color1   color1      #EE79A9
-set_from_resource $color2   color2      #8C9440
-set_from_resource $color3   color3      #DE935F
-set_from_resource $color4   color4      #05C6F1
-set_from_resource $color5   color5      #85678F
-set_from_resource $color6   color6      #5E8D87
-set_from_resource $color7   color7      #969CD3
+set_from_resource $bg       background  #aa2ca0
+set_from_resource $fg       foreground  #aa2ca0
+set_from_resource $color0   color0      #aa2ca0
+set_from_resource $color1   color1      #aa2ca0
+set_from_resource $color2   color2      #aa2ca0
+set_from_resource $color3   color3      #aa2ca0
+set_from_resource $color4   color4      #aa2ca0
+set_from_resource $color5   color5      #aa2ca0
+set_from_resource $color6   color6      #aa2ca0
+set_from_resource $color7   color7      #aa2ca0
 
 # colorclass            border  background  text    indicator   child_border
-client.focused          $color2 $bg         $fg     $color2     $color7
-client.unfocused        $color7 $bg         $color0 $bg         $bg
-client.focused_inactive $color7 $bg         $color0 $bg         $bg
-client.urgent           $color1 $bg         $color1 $color1     $color1
-client.placeholder      $color7 $bg         $bg     $bg         $bg
-client.background       $bg
+client.focused          $color3 $color8     $color0 $background     $color3
+client.unfocused        $color3 $color8     $color0 $fg     $bg
+client.focused_inactive $color3 $color8     $color0 $fg     $bg
+client.urgent           $color3 $color8     $color0 $fg     $color9
+client.placeholder      $color3 $color8     $color0 $fg     $bg
+client.background       $color3
 
-# border & title.. Must be set to border pixel for gaps to work
-for_window [class="^.*"] border pixel 4, title_format "<b> %class >> %title </b>"
+# remove titlebar
+for_window [class="^.*"] border pixel 0, title_format "<b> %class >> %title </b>"
 
-# gaps
-gaps inner 15
-gaps outer 5
 
 # font
 font pango:monospace 11
@@ -38,16 +37,6 @@ set $down j
 set $left h
 set $right l
 
-set $WS1 "1: "
-set $WS2 "2: "
-set $WS3 "3: "
-set $WS4 "4: "
-set $WS5 "5: @"
-set $WS6 "6: "
-set $WS7 "7: "
-set $WS8 "8: "
-set $WS9 "9: ⚙"
-
 # monitors
 set $Mon1 HDMI1
 set $Mon2 HDMI2
@@ -56,17 +45,21 @@ set $Mon2 HDMI2
 ###############     Autostart      ##################
 #####################################################
 
-# run with reload
-exec_always --no-startup-id polybar --config="$HOME/.config/polybar/config" "i3-bar"
-exec_always --no-startup-id nitrogen --restore
+# run with X11 server reload
 exec_always --no-startup-id compton
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh 
+
+# for using flashfocus
+exec_always --no-startup-id flashfocus
 
 # run once
 exec --no-startup-id xfsettingsd
 exec --no-startup-id unclutter
+# longitude latitude from desired location
+exec --no-startup-id redshift -O 5000
 
-# Launcher
-bindsym $mod+o exec --no-startup-id rofi_run -r
+# clipboard manager
+exec --no-startup-id clipmenud
 
 ###########################################################
 #############         Bindings           ##################
@@ -75,16 +68,18 @@ bindsym $mod+o exec --no-startup-id rofi_run -r
 # kill focused window
 bindsym $mod+q kill
 
-# core
-bindsym $mod+w          exec --no-startup-id rofi_run -w
-bindsym $mod+Return     exec --no-startup-id exo-open --launch TerminalEmulator
+# Launcher
+bindsym $mod+o exec --no-startup-id dmenu_run 
+
+# TODO: make based on terminal variable
+bindsym $mod+Return exec --no-startup-id kitty &
 bindsym $mod+f fullscreen toggle
 
 # logout script
-bindsym $mod+d exec --no-startup-id rofi_run -l
+bindsym $mod+d exec --no-startup-id betterlockscreen --lock blur
 
 # Screenshot
-bindsym Print exec --no-startup-id "scrot '%S.png' -e 'mv $f $$(xdg-user-dir PICTURES)/ArchLabs-%S-$wx$h.png ; feh $$(xdg-user-dir PICTURES)/ArchLabs-%S-$wx$h.png'"
+bindsym Print exec --no-startup-id "scrot '%S.png' -e 'mv $f $$(xdg-user-dir PICTURES)/linux-%S-$wx$h.png ; feh $$(xdg-user-dir PICTURES)/linux-%S-$wx$h.png'"
 
 # audio
 bindsym XF86AudioPlay        exec --no-startup-id playerctl play-pause
@@ -103,43 +98,57 @@ bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 10
 ###########          Workspace Bindings          ###############
 ################################################################
 
-# workspace assignment
-workspace $WS1 output $Mon1
-workspace $WS2 output $Mon1
-workspace $WS3 output $Mon1
-workspace $WS4 output $Mon1
-workspace $WS5 output $Mon2
-workspace $WS6 output $Mon2
-workspace $WS7 output $Mon2
-workspace $WS8 output $Mon2
-workspace $WS9 output $Mon2
+# Workspace names
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
+set $ws8 "8"
+set $ws9 "9"
 
 # switch to workspace
-bindsym $mod+1 workspace $WS1
-bindsym $mod+2 workspace $WS2
-bindsym $mod+3 workspace $WS3
-bindsym $mod+4 workspace $WS4
-bindsym $mod+5 workspace $WS5
-bindsym $mod+6 workspace $WS6
-bindsym $mod+7 workspace $WS7
-bindsym $mod+8 workspace $WS8
-bindsym $mod+9 workspace $WS9
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace $ws5
+bindsym $mod+6 workspace $ws6
+bindsym $mod+7 workspace $ws7
+bindsym $mod+8 workspace $ws8
+bindsym $mod+9 workspace $ws9
 
 # switch to next or previous workspace
 bindsym $mod+bracketleft workspace prev
 bindsym $mod+bracketright next
 
+# Workspace back and forth
+bindsym $mod+Tab workspace back_and_forth
+bindsym $mod+Shift+Tab move container to workspace back_and_forth; workspace back_and_forth
 
-# move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace $WS1; workspace $WS1
-bindsym $mod+Shift+2 move container to workspace $WS2; workspace $WS2
-bindsym $mod+Shift+3 move container to workspace $WS3; workspace $WS3
-bindsym $mod+Shift+4 move container to workspace $WS4; workspace $WS4
-bindsym $mod+Shift+5 move container to workspace $WS5; workspace $WS5
-bindsym $mod+Shift+6 move container to workspace $WS6; workspace $WS6
-bindsym $mod+Shift+7 move container to workspace $WS7; workspace $WS7
-bindsym $mod+Shift+8 move container to workspace $WS8; workspace $WS8
-bindsym $mod+Shift+9 move container to workspace $WS9; workspace $WS9
+# Move focused container to workspace
+bindsym $mod+Ctrl+1 move container to workspace $ws1
+bindsym $mod+Ctrl+2 move container to workspace $ws2
+bindsym $mod+Ctrl+3 move container to workspace $ws3
+bindsym $mod+Ctrl+4 move container to workspace $ws4
+bindsym $mod+Ctrl+5 move container to workspace $ws5
+bindsym $mod+Ctrl+6 move container to workspace $ws6
+bindsym $mod+Ctrl+7 move container to workspace $ws7
+bindsym $mod+Ctrl+8 move container to workspace $ws8
+bindsym $mod+Ctrl+9 move container to workspace $ws9
+
+# Move window to another workspace and change to that workspace
+bindsym $mod+Shift+1 move container to workspace $ws1; workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2; workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3; workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4; workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5; workspace $ws5
+bindsym $mod+Shift+6 move container to workspace $ws6; workspace $ws6
+bindsym $mod+Shift+7 move container to workspace $ws7; workspace $ws7
+bindsym $mod+Shift+8 move container to workspace $ws8; workspace $ws8
+bindsym $mod+Shift+9 move container to workspace $ws9; workspace $ws9
 
 ############################################################
 ##############     Reload configs           ################
@@ -155,8 +164,12 @@ bindsym $mod+Shift+c reload
 ############      Container/Window control  ############
 ########################################################
 
-bindsym $mod+space floating toggle
 floating_modifier $mod
+
+# toogle between toggle and floating windows
+bindsym $mod+space floating toggle
+# change focus between tiling / floating windows
+bindsym $mod+Shift+space focus mode_toggle
 
 bindsym $mod+Shift+z move scratchpad
 bindsym $mod+z scratchpad show
@@ -169,6 +182,9 @@ bindsym $mod+$right focus right
 
 bindsym $mod+p focus parent
 bindsym $mod+c focus child
+
+# selectionhistory with rofi_greencliip
+bindsym $mod+x exec clipmenu 
 
 # move focused window
 bindsym $mod+Shift+$left  move left  90px
@@ -192,26 +208,62 @@ bindsym $mod+Shift+s layout stacking
 bindsym $mod+Shift+v layout toggle split
 bindsym $mod+v split toggle
 
+
 ######################################################
 ###############      Border & Gaps     ###############
 ######################################################
 
+bindsym $mod+shift+b border toggle
+
 new_window normal
 new_float  normal
 
-hide_edge_borders both
+# Configure border style 
+default_border pixel -1
+default_floating_border pixel -1
 
-bindsym $mod+shift+b border toggle
+# Smart gaps (gaps used if only more than one container on the workspace)
+smart_gaps on
 
-# change gaps
-bindsym $mod+plus                gaps inner current plus  5
-bindsym $mod+minus               gaps inner current minus 5
-bindsym $mod+Shift+plus          gaps outer current plus  5
-bindsym $mod+Shift+minus         gaps outer current minus 5
-bindsym $mod+Control+plus        gaps inner all     plus  5
-bindsym $mod+Control+minus       gaps inner all     minus 5
-bindsym $mod+Control+Shift+plus  gaps outer all     plus  5
-bindsym $mod+Control+Shift+minus gaps outer all     minus 5
+# gaps
+gaps inner 2
+gaps outer 2
+
+bindsym $mod+Shift+g mode "$mode_gaps"
+set $mode_gaps Gaps: (o)uter, (i)ner
+set $mode_gaps_outer Outer Gaps: +/- or 0
+set $mode_gaps_inner Inner Gaps: +/- or 0
+
+# Holding shift applies gap changes globally
+mode "$mode_gaps" {
+        bindsym o      mode "$mode_gaps_outer"
+        bindsym i      mode "$mode_gaps_inner"
+        bindsym Escape mode "default"
+}
+
+mode "$mode_gaps_inner" {
+        bindsym plus  gaps inner current plus 5
+        bindsym minus gaps inner current minus 5
+        bindsym 0     gaps inner current set 0
+
+        bindsym Shift+plus  gaps inner all plus 5
+        bindsym Shift+minus gaps inner all minus 5
+        bindsym Shift+0     gaps inner all set 0
+
+        bindsym Escape mode "default"
+}
+mode "$mode_gaps_outer" {
+        bindsym plus  gaps outer current plus 5
+        bindsym minus gaps outer current minus 5
+        bindsym 0     gaps outer current set 0
+
+        bindsym Shift+plus  gaps outer all plus 5
+        bindsym Shift+minus gaps outer all minus 5
+        bindsym Shift+0     gaps outer all set 0
+
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
 
 ###################################################
 ############    application settings   ############
@@ -228,5 +280,3 @@ for_window [title="(?i)(?:copying|deleting|moving)"] floating enable
 for_window [window_role="(?i)(?:pop-up|setup)"]      floating enable
 
 popup_during_fullscreen smart
-
-exec --no-startup-id i3-msg workspace $WS1

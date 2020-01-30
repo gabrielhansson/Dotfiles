@@ -132,8 +132,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="0"
-         height="0"
+         width="84.8528"
+         height="109.096"
          rx="0"
          ry="0" />
       <eventcontext
@@ -192,7 +192,7 @@
        style="fill:none;stroke:black;stroke-opacity:1;stroke-linejoin:miter;stroke-linecap:butt;">
       <eventcontext
          id="pencil"
-         tolerance="10"
+         tolerance="4"
          selcue="1"
          style="stroke-width:1px;"
          usecurrent="0"
@@ -354,8 +354,8 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="0"
-       y="0"
+       x="501.857"
+       y="499.411"
        edit_clipping_paths="0"
        edit_masks="0" />
     <eventcontext
@@ -420,7 +420,7 @@
        usecurrent="1"
        threshold="5"
        offset="0"
-       offsetunits="mm" />
+       offsetunits="cm" />
     <group
        id="measure"
        fontsize="10"
@@ -565,7 +565,20 @@
     <group
        id="toolbox" />
     <group
-       id="fillstroke" />
+       id="fillstroke"
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       page="2"
+       x="0"
+       y="0"
+       w="401"
+       h="621"
+       visible="0"
+       state="2"
+       placement="1" />
     <group
        id="filtereffects" />
     <group
@@ -607,10 +620,10 @@
     </group>
     <group
        id="save_as"
-       default="org.inkscape.output.svg.inkscape"
+       default="org.inkscape.output.png.cairo"
        append_extension="1"
        enable_preview="1"
-       path=""
+       path="/home/whiz/workspaces/LTH/FAFA55/Labbrapport/bilder"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -672,6 +685,20 @@
        on-focus="1.0"
        on-blur="0.50"
        animate-time="100" />
+    <group
+       id="objects"
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="0"
+       y="0"
+       w="285"
+       h="880"
+       visible="1"
+       state="2"
+       placement="1" />
   </group>
   <group
      id="printing">
@@ -962,12 +989,12 @@
      id="extensions" />
   <group
      id="desktop"
-     style="line-height:1.25;fill:#000000">
+     style="line-height:1.25;fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none">
     <group
-       width="1878"
-       height="1013"
-       x="19"
-       y="44"
+       width="1920"
+       height="1080"
+       x="0"
+       y="0"
        fullscreen="0"
        id="geometry"
        maximized="0" />

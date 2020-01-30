@@ -1,15 +1,23 @@
 [Added Associations]
-inode/directory=Thunar-folder-handler.desktop;exo-file-manager.desktop;
-x-scheme-handler/trash=exo-file-manager.desktop
+inode/directory=exo-file-manager.desktop;
+x-scheme-handler/trash=exo-file-manager.desktop;
 x-scheme-handler/http=exo-web-browser.desktop
 x-scheme-handler/https=exo-web-browser.desktop
-application/x-shellscript=gnvim.desktop;nvim.desktop;
+application/x-shellscript=gnvim.desktop;vim.desktop;nvim.desktop;
 application/xml=gnvim.desktop;
 text/markdown=libreoffice-writer.desktop;
 text/plain=gnvim.desktop;libreoffice-writer.desktop;
-x-scheme-handler/mailto=exo-mail-reader.desktop
+x-scheme-handler/mailto=exo-mail-reader.desktop;userapp-Thunderbird-45IQ2Z.desktop;
 application/pdf=org.pwmt.zathura-pdf-poppler.desktop;libreoffice-draw.desktop;
 application/x-xz-compressed-tar=org.gnome.Nautilus.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;
+application/msword=libreoffice-writer.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+message/rfc822=userapp-Thunderbird-45IQ2Z.desktop;
+x-scheme-handler/feed=userapp-Thunderbird-X0VP2Z.desktop;
+application/rss+xml=userapp-Thunderbird-X0VP2Z.desktop;
+application/x-extension-rss=userapp-Thunderbird-X0VP2Z.desktop;
+application/x-ruby=nvim.desktop;
 
 [Default Applications]
 text/html=google-chrome.desktop
@@ -17,3 +25,8 @@ x-scheme-handler/http=google-chrome.desktop
 x-scheme-handler/https=google-chrome.desktop
 x-scheme-handler/about=google-chrome.desktop
 x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/mailto=google-chrome.desktop
+message/rfc822=userapp-Thunderbird-45IQ2Z.desktop
+x-scheme-handler/feed=userapp-Thunderbird-X0VP2Z.desktop
+application/rss+xml=userapp-Thunderbird-X0VP2Z.desktop
+application/x-extension-rss=userapp-Thunderbird-X0VP2Z.desktop

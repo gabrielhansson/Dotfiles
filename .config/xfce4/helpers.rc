@@ -1,5 +1,4 @@
+FileManager=custom-FileManager
+FileManagerDismissed=true
 TerminalEmulator=custom-TerminalEmulator
-FileManager=Thunar
-WebBrowser=google-chrome
-MailReader=mutt
 

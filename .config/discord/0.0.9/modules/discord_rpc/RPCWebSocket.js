@@ -47,7 +47,7 @@ function createProxyServer(opts) {
   return recastHTTPProxy(proxy);
 }
 
-function recastWSSocket(socket) {
+function recastWSSocket(socket, req) {
   var WSSocket = function (_EventEmitter) {
     _inherits(WSSocket, _EventEmitter);
 
@@ -57,9 +57,9 @@ function recastWSSocket(socket) {
       var _this = _possibleConstructorReturn(this, (WSSocket.__proto__ || Object.getPrototypeOf(WSSocket)).call(this));
 
       _this.upgradeReq = {
-        url: socket.upgradeReq.url,
+        url: req.url,
         headers: {
-          origin: socket.upgradeReq.headers.origin
+          origin: req.headers.origin
         }
       };
 
@@ -86,7 +86,15 @@ function recastWSSocket(socket) {
         if (opts.binary) {
           data = Buffer.from(data);
         }
-        socket.send(data, opts);
+        try {
+          socket.send(data, opts);
+        } catch (e) {
+          // ws shouldn't be throwing when CLOSED or CLOSING
+          // currently being addressed in https://github.com/websockets/ws/pull/1532
+          if (!e.message.match(/CLOS(ED|ING)/)) {
+            throw e;
+          }
+        }
       }
     }, {
       key: 'close',
@@ -119,8 +127,8 @@ function getWrappedWSServer() {
       }
 
       wss = new ws.Server(opts);
-      wss.on('connection', function (socket) {
-        return _this2.emit('connection', recastWSSocket(socket));
+      wss.on('connection', function (socket, req) {
+        return _this2.emit('connection', recastWSSocket(socket, req));
       });
       return _this2;
     }

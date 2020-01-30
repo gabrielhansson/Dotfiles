@@ -1,6 +1,6 @@
 {
   "discord_desktop_core": {
-    "installedVersion": 1
+    "installedVersion": 2
   },
   "discord_erlpack": {
     "installedVersion": 1
@@ -12,15 +12,17 @@
     "installedVersion": 1
   },
   "discord_voice": {
+    "installedVersion": 2
+  },
+  "discord_zstd": {
     "installedVersion": 1
   },
   "discord_game_utils": {
     "installedVersion": 1
   },
   "discord_rpc": {
-    "installedVersion": 1
+    "installedVersion": 2
   },
-  "discord_media": {},
   "discord_contact_import": {
     "installedVersion": 1
   }

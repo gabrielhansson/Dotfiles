@@ -1,8 +1,0 @@
-Archlabs
-Uddevalla
-Vänersborg
-activities
-eventuf
-phones
-uninitiated
-checksum_v1 = 4061d343f00856eca561cb854242636f

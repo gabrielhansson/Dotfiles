@@ -1,0 +1,16 @@
+{"key":"disclaimerAccepted","value":1,"_id":"DrlVqnVFNZDYlHC3"}
+{"key":"totalDownloaded","value":35388474,"_id":"JDUzXMKbDvpeg2Cw"}
+{"key":"chosenPlayer","value":"local","_id":"QKAbmViJluNziC2G"}
+{"key":"playerVolume","value":"1.0","_id":"SEhUSobxHo9gzIs1"}
+{"key":"language","value":"en","_id":"U3gKxrTx92AUtHvZ"}
+{"key":"version","value":"0.3.10","_id":"XaaPuSRsBFwZ2GjU"}
+{"key":"os","value":"linux","_id":"YOfcmzrcSQ3og3rQ"}
+{"key":"arch","value":"x64","_id":"jFPONeg5wOnSutTA"}
+{"key":"filters","value":{"movies":{"sorter":"popularity","genre":"All","order":-1}},"_id":"nZLIZPL4IIAhoNnK"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"ry5wuqBfPB7DCIhv"}
+{"key":"totalUploaded","value":0,"_id":"wVRtuyN2zS88K0Xh"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.3.10","_id":"XaaPuSRsBFwZ2GjU"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"ry5wuqBfPB7DCIhv"}
+{"key":"arch","value":"x64","_id":"jFPONeg5wOnSutTA"}
+{"key":"os","value":"linux","_id":"YOfcmzrcSQ3og3rQ"}

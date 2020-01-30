@@ -1,2 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/whiz'
+let g:netrw_dirhist_2='/home/whiz/.h'
+let g:netrw_dirhist_1='/home/whiz/.h/ligma_repo (1)'
+let g:netrw_dirhist_0='/home/whiz/.h'
+let g:netrw_dirhist_9='/home/whiz/workspaces/LTH/bachelor-1/semester-3/EDAA55/labborationer/Lab03-jblockmole/src'
+let g:netrw_dirhist_8='/home/whiz/workspaces/LTH/bachelor-1/semester-3/EDAA55/labborationer/Lab03-jblockmole'
+let g:netrw_dirhist_7='/home/whiz/workspaces/LTH/EDAA55/labborationer/Lab01-introduktion/bin'
+let g:netrw_dirhist_6='/home/whiz/workspaces/LTH/EDAA55/labborationer/Lab01-introduktion'
+let g:netrw_dirhist_5='/home/whiz/workspaces/LTH/EDAA55/labborationer'
+let g:netrw_dirhist_4='/home/whiz/workspaces/LTH/FAFA55/Labbrapport'

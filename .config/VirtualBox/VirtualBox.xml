@@ -9,33 +9,27 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=5fe69233-e62d-4571-804b-046760362cd6,m=3f1150cd-7724-4b46-b308-73909158ef50,m=f9f1b1c4-7cc1-45e6-ac6c-43753659e39d,m=25835ebc-4aed-4ffa-8539-4c8b89a434c6,m=3f9c8370-3fe2-431b-8e4f-60cf98193500"/>
-      <ExtraDataItem name="GUI/HideDescriptionForWizards" value="NewVM"/>
-      <ExtraDataItem name="GUI/LanguageID" value="C"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=Arch Test"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="23,48,926,1009"/>
-      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/whiz/Downloads"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/whiz/Downloads/Win10_1809Oct_English_x64.iso,/home/whiz/Projects/Evolve/archlab/iso/build/out/archlabs-2019.02.26.iso,/home/whiz/Documents/evolve2/archlinux-2019.02.01-x86_64.iso"/>
-      <ExtraDataItem name="GUI/SplitterSizes" value="346,579"/>
+      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=4d20c76f-e10c-480b-a086-e2d8ff76ed33"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=Windows 10"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="4,29,1912,1047"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/whiz/operating_systems"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/whiz/operating_systems/Win10_1809Oct_English_x64.iso"/>
+      <ExtraDataItem name="GUI/SplitterSizes" value="701,1210"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="9"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-04-09, stable, 6.0.4"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="3"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-07-08, stable, 6.0.8"/>
     </ExtraData>
     <MachineRegistry>
-      <MachineEntry uuid="{5fe69233-e62d-4571-804b-046760362cd6}" src="/home/whiz/Documents/evolve2/Evolve/Evolve.vbox"/>
-      <MachineEntry uuid="{3f1150cd-7724-4b46-b308-73909158ef50}" src="/home/whiz/Projects/Evolve/archlab/Gymnasie Arbete/Gymnasie Arbete.vbox"/>
-      <MachineEntry uuid="{f9f1b1c4-7cc1-45e6-ac6c-43753659e39d}" src="/home/whiz/Virtual Machines/Arco Linux/Arco Linux.vbox"/>
-      <MachineEntry uuid="{25835ebc-4aed-4ffa-8539-4c8b89a434c6}" src="/home/whiz/Documents/evolve2/Windows 10/Windows 10.vbox"/>
-      <MachineEntry uuid="{3f9c8370-3fe2-431b-8e4f-60cf98193500}" src="/home/whiz/Documents/evolve2/Arch Test/Arch Test.vbox"/>
+      <MachineEntry uuid="{4d20c76f-e10c-480b-a086-e2d8ff76ed33}" src="/home/whiz/operating_systems/instances/Windows 10/Windows 10.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>
       </DHCPServers>
     </NetserviceRegistry>
-    <SystemProperties defaultMachineFolder="/home/whiz/Documents/evolve2" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" proxyMode="0" exclusiveHwVirt="true"/>
+    <SystemProperties defaultMachineFolder="/home/whiz/VirtualBox VMs" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" proxyMode="0" exclusiveHwVirt="true"/>
     <USBDeviceFilters/>
   </Global>
 </VirtualBox>

@@ -1,17 +1,22 @@
-00:00:00.384014 VirtualBox GUI VM Selector Window 6.0.4 r128164 linux.amd64 (Mar  5 2019 19:56:31) release log
-00:00:00.384017 Log opened 2019-04-08T14:25:26.466616000Z
-00:00:00.384018 Build Type: release
-00:00:00.384021 OS Product: Linux
-00:00:00.384022 OS Release: 5.0.6-zen1-1-zen
-00:00:00.384023 OS Version: #1 ZEN SMP PREEMPT Wed Apr 3 09:34:04 UTC 2019
-00:00:00.384048 DMI Product Name: TM1701
-00:00:00.384059 DMI Product Version: 
-00:00:00.384110 Host RAM: 15923MB (15.5GB) total, 12604MB (12.3GB) available
-00:00:00.384114 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.384115 Process ID: 28573
-00:00:00.384116 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.384146 Qt version: 5.12.2
-00:00:00.410246 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.838615 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 19x44 x 926x1009
-00:00:00.924875 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
-00:00:00.925144 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.568308 VirtualBox GUI VM Selector Window 6.0.8 r130347 linux.amd64 (May 15 2019 09:04:27) release log
+00:00:00.568310 Log opened 2019-07-07T20:21:01.847348000Z
+00:00:00.568311 Build Type: release
+00:00:00.568312 OS Product: Linux
+00:00:00.568313 OS Release: 5.1.15-zen1-1-zen
+00:00:00.568314 OS Version: #1 ZEN SMP PREEMPT Tue Jun 25 04:49:28 UTC 2019
+00:00:00.568329 DMI Product Name: TM1701
+00:00:00.568334 DMI Product Version: 
+00:00:00.568361 Host RAM: 15921MB (15.5GB) total, 12660MB (12.3GB) available
+00:00:00.568364 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.568364 Process ID: 28648
+00:00:00.568364 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.568382 Qt version: 5.13.0
+00:00:00.583059 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.040554 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 641x29 x 630x1039
+00:00:01.040642 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 4x29 x 627x1039
+00:00:01.104969 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:01.105357 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:10.993134 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:52.416056 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:53.296873 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:53.355534 GUI: UIMediumEnumerator: Medium-enumeration finished!

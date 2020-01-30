@@ -1,0 +1,10 @@
+2019/07/26-01:05:38.769 27424 Reusing MANIFEST /home/whiz/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2019/07/26-01:05:38.769 27424 Recovering log #11
+2019/07/26-01:05:38.769 27424 Reusing old log /home/whiz/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000011.log 
+2019/07/26-01:05:38.769 27424 Delete type=0 #9
+2019/07/26-21:05:33.340 27424 Current memtable full; waiting...
+2019/07/26-21:05:33.340 19279 Level-0 table #15: started
+2019/07/26-21:05:33.344 19279 Level-0 table #15: 624 bytes OK
+2019/07/26-21:05:33.355 19279 Delete type=0 #11
+2019/07/26-21:05:33.356 19279 Level-0 table #17: started
+2019/07/26-21:05:33.357 19279 Level-0 table #17: 0 bytes OK
